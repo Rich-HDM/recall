@@ -54,5 +54,13 @@
     "type": "list",
     "icon": "hourglass",
     "colour": "pink"
+  },
+  {
+    "id": "british-history",
+    "title": "British History",
+    "subtitle": "Key events from prehistory to today",
+    "type": "list",
+    "icon": "castle",
+    "colour": "indigo"
   }
 ]

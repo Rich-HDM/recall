@@ -1,5 +1,5 @@
 /* Recall service worker: makes the app work offline. Bump VERSION whenever files change. */
-const VERSION = 'recall-v4';
+const VERSION = 'recall-v5';
 const SHELL = [
   './',
   './index.html',
@@ -14,6 +14,7 @@ const SHELL = [
   './data/presidents.json',
   './data/universe.json',
   './data/world-history.json',
+  './data/british-history.json',
   './data/maps/uk.json',
   './data/maps/world.json'
 ];

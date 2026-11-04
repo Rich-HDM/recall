@@ -1,0 +1,1547 @@
+{
+  "groups": [
+    {
+      "name": "Prehistoric Britain",
+      "dates": "to AD 43",
+      "colour": "brown",
+      "items": [
+        {
+          "name": "First humans: Happisburgh footprints",
+          "dates": "c. 850,000 BC",
+          "facts": [
+            "Footprints found on the beach at Happisburgh, Norfolk, in 2013 are the oldest known human footprints outside Africa.",
+            "They were made at least 850,000 years ago by a small group of adults and children.",
+            "The people were probably an extinct human species, perhaps Homo antecessor.",
+            "At that time Britain was joined to mainland Europe by land."
+          ]
+        },
+        {
+          "name": "Cheddar Man",
+          "dates": "c. 7100 BC",
+          "facts": [
+            "Cheddar Man is Britain's oldest almost complete human skeleton, found in Gough's Cave, Somerset, in 1903.",
+            "He lived about 10,000 years ago, after the last Ice Age.",
+            "He was a hunter-gatherer who lived by hunting, fishing and gathering wild food.",
+            "DNA tests in 2018 suggested he probably had dark skin and blue eyes."
+          ]
+        },
+        {
+          "name": "Britain becomes an island",
+          "dates": "c. 6500 BC",
+          "facts": [
+            "As the ice melted, rising seas slowly flooded Doggerland, the low land joining Britain to Europe.",
+            "By about 6500 BC the English Channel and the North Sea had cut Britain off.",
+            "Ireland had already been cut off from Britain by the sea thousands of years earlier."
+          ]
+        },
+        {
+          "name": "Farming arrives",
+          "dates": "c. 4000 BC",
+          "facts": [
+            "Farmers from mainland Europe brought farming to Britain and Ireland around 4000 BC.",
+            "They grew wheat and barley and kept cattle, sheep and pigs.",
+            "They cleared forests and built long barrows, large earth tombs for their dead.",
+            "This period is called the Neolithic, or New Stone Age."
+          ]
+        },
+        {
+          "name": "Newgrange built",
+          "dates": "c. 3200 BC",
+          "facts": [
+            "Newgrange is a huge passage tomb in the Boyne Valley, County Meath, in Ireland.",
+            "It is older than Stonehenge and the Great Pyramid of Giza.",
+            "At the winter solstice, sunlight shines along the passage and lights up the inner chamber."
+          ]
+        },
+        {
+          "name": "Skara Brae village",
+          "dates": "c. 3100 BC",
+          "facts": [
+            "Skara Brae is a Stone Age village on Orkney, off the north coast of Scotland.",
+            "Its stone houses still have stone beds, shelves and hearths inside.",
+            "People lived there for several hundred years.",
+            "A great storm in 1850 uncovered the village from under the sand dunes."
+          ]
+        },
+        {
+          "name": "Stonehenge built",
+          "dates": "c. 3000 – 1500 BC",
+          "facts": [
+            "Stonehenge, on Salisbury Plain in Wiltshire, began as a round ditch and bank around 3000 BC.",
+            "The giant sarsen stones were put up around 2500 BC.",
+            "The smaller bluestones were brought about 150 miles from the Preseli Hills in Wales.",
+            "The stones line up with sunrise at midsummer and sunset at midwinter."
+          ]
+        },
+        {
+          "name": "Bronze Age begins",
+          "dates": "c. 2500 BC",
+          "facts": [
+            "People learned to make bronze by mixing copper with tin.",
+            "Copper was mined at places like the Great Orme in Wales, and tin came from Cornwall.",
+            "The Amesbury Archer, buried near Stonehenge around 2300 BC, probably grew up in central Europe.",
+            "Craftsmen in Ireland made fine gold objects, such as neck collars called lunulae."
+          ]
+        },
+        {
+          "name": "Iron Age and hillforts",
+          "dates": "c. 800 BC – AD 43",
+          "facts": [
+            "Iron tools and weapons spread through Britain and Ireland from about 800 BC.",
+            "People built hillforts, such as Maiden Castle in Dorset, with huge earth banks and ditches.",
+            "In northern Scotland people built brochs, tall round stone towers.",
+            "Most people lived in roundhouses and spoke Celtic languages, the ancestors of Welsh, Cornish and Gaelic."
+          ]
+        },
+        {
+          "name": "Julius Caesar's raids",
+          "dates": "55 and 54 BC",
+          "facts": [
+            "The Roman general Julius Caesar crossed from Gaul to Britain in 55 BC and again in 54 BC.",
+            "In 54 BC he defeated the British leader Cassivellaunus north of the River Thames.",
+            "He took hostages and made treaties, but he did not stay to conquer Britain.",
+            "He described the Britons in his book about his wars in Gaul."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Roman Britain",
+      "dates": "AD 43 – 410",
+      "colour": "red",
+      "items": [
+        {
+          "name": "Claudius invades Britain",
+          "dates": "AD 43",
+          "facts": [
+            "Emperor Claudius sent about 40,000 soldiers, led by Aulus Plautius, to conquer Britain.",
+            "They probably landed at Richborough in Kent.",
+            "Claudius came himself for about 16 days and entered Camulodunum, now Colchester, with elephants.",
+            "Camulodunum became the first capital of Roman Britain."
+          ]
+        },
+        {
+          "name": "Boudica's revolt",
+          "dates": "AD 60 – 61",
+          "facts": [
+            "Boudica was queen of the Iceni tribe, in what is now Norfolk.",
+            "After the Romans flogged her and attacked her daughters, she led a huge revolt.",
+            "Her army burned Colchester, London and St Albans while the Roman governor was attacking Anglesey.",
+            "She was finally defeated, probably somewhere in the Midlands, and died soon after."
+          ]
+        },
+        {
+          "name": "Agricola and Mons Graupius",
+          "dates": "c. AD 83",
+          "facts": [
+            "Agricola was the Roman governor of Britain from about AD 77 to 84.",
+            "He pushed north into Scotland, which the Romans called Caledonia.",
+            "At Mons Graupius he defeated the Caledonians, led by Calgacus, but nobody knows exactly where the battle was.",
+            "His son-in-law, the historian Tacitus, wrote about his life."
+          ]
+        },
+        {
+          "name": "Hadrian's Wall built",
+          "dates": "AD 122",
+          "facts": [
+            "Emperor Hadrian ordered a wall across northern England, starting around AD 122.",
+            "It ran about 73 miles from Wallsend on the Tyne to Bowness-on-Solway.",
+            "It had forts and small milecastles, and marked the north-west edge of the Roman Empire.",
+            "Letters found at nearby Vindolanda fort show the daily lives of soldiers and their families."
+          ]
+        },
+        {
+          "name": "Antonine Wall built",
+          "dates": "AD 142",
+          "facts": [
+            "Emperor Antoninus Pius ordered a new wall further north, across central Scotland.",
+            "It ran about 39 miles between the Firth of Forth and the River Clyde.",
+            "It was made of turf on a stone base, with a deep ditch in front.",
+            "The Romans gave it up after about 20 years and went back to Hadrian's Wall."
+          ]
+        },
+        {
+          "name": "Christianity arrives",
+          "dates": "c. AD 300",
+          "facts": [
+            "Christianity reached Roman Britain through traders and soldiers, but exactly when is unknown.",
+            "St Alban, a Roman Briton, is said to be Britain's first Christian martyr; his date is uncertain.",
+            "Constantine was proclaimed emperor at York in AD 306 and later backed Christianity.",
+            "Three bishops from Britain went to a church meeting at Arles, in Gaul, in AD 314."
+          ]
+        },
+        {
+          "name": "Romans leave Britain",
+          "dates": "c. AD 410",
+          "facts": [
+            "Roman troops were taken out of Britain to fight elsewhere in the early 400s.",
+            "Around 410, Emperor Honorius is said to have told the British towns to defend themselves.",
+            "Picts, Irish raiders and Saxons attacked the unprotected province.",
+            "Roman towns, villas and the use of coins soon declined."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Anglo-Saxons and Vikings",
+      "dates": "410 – 1066",
+      "colour": "green",
+      "items": [
+        {
+          "name": "St Patrick in Ireland",
+          "dates": "c. 432",
+          "facts": [
+            "Patrick was a Romano-Briton who was captured by Irish raiders as a teenager and kept as a slave.",
+            "He escaped, but later went back to Ireland as a Christian missionary.",
+            "Tradition says he arrived in 432, but the true dates of his life are uncertain.",
+            "He is Ireland's patron saint, and St Patrick's Day is 17 March."
+          ]
+        },
+        {
+          "name": "Anglo-Saxons settle",
+          "dates": "c. 450 – 600",
+          "facts": [
+            "Angles, Saxons and Jutes from north Germany and Denmark crossed the North Sea to Britain.",
+            "They set up kingdoms including Northumbria, Mercia, East Anglia, Wessex and Kent.",
+            "Their language, Old English, is the root of modern English.",
+            "The Britons held on in the west and north, including Wales, Cornwall and Strathclyde."
+          ]
+        },
+        {
+          "name": "Columba founds Iona",
+          "dates": "563",
+          "facts": [
+            "Columba, an Irish monk from a royal family, founded a monastery on the island of Iona in 563.",
+            "Monks from Iona spread Christianity among the Picts and into northern England.",
+            "Iona became a great centre of learning, and the Book of Kells may have been started there."
+          ]
+        },
+        {
+          "name": "Augustine's mission to Kent",
+          "dates": "597",
+          "facts": [
+            "Pope Gregory the Great sent the monk Augustine to convert the Anglo-Saxons.",
+            "Augustine landed in Kent and converted King Æthelberht, whose wife Bertha was already Christian.",
+            "Augustine became the first Archbishop of Canterbury."
+          ]
+        },
+        {
+          "name": "Sutton Hoo ship burial",
+          "dates": "c. 625",
+          "facts": [
+            "A king was buried in a 27-metre ship under a mound at Sutton Hoo, Suffolk.",
+            "He was probably Rædwald, King of East Anglia, who died around 624.",
+            "The grave was dug up in 1939 by Basil Brown, on land owned by Edith Pretty.",
+            "Its treasures, including a famous iron helmet, are in the British Museum."
+          ]
+        },
+        {
+          "name": "Synod of Whitby",
+          "dates": "664",
+          "facts": [
+            "King Oswiu of Northumbria called a meeting at Whitby Abbey to settle church disputes.",
+            "The main question was how to work out the date of Easter.",
+            "Oswiu chose the Roman way over the Irish customs taught by monks from Iona.",
+            "This tied the English church more closely to Rome."
+          ]
+        },
+        {
+          "name": "Bede finishes his history",
+          "dates": "731",
+          "facts": [
+            "Bede was a monk at Jarrow, in north-east England, and a great scholar.",
+            "In 731 he finished his Ecclesiastical History of the English People, written in Latin.",
+            "He is called the Father of English History.",
+            "He helped make AD dates popular."
+          ]
+        },
+        {
+          "name": "Offa's Dyke built",
+          "dates": "c. 785",
+          "facts": [
+            "Offa was a powerful king of Mercia, in the Midlands, who ruled from 757 to 796.",
+            "He built a long earth bank and ditch along the border with the Welsh kingdoms.",
+            "Parts still stand today, and a long-distance footpath follows its line.",
+            "Offa also issued silver pennies, the basis of English money for centuries."
+          ]
+        },
+        {
+          "name": "Vikings raid Lindisfarne",
+          "dates": "793",
+          "facts": [
+            "Viking raiders from Scandinavia attacked the monastery on Lindisfarne, off Northumberland, in June 793.",
+            "They killed monks and stole treasures, shocking Christian Europe.",
+            "Iona was raided soon after, and Vikings later settled in Scotland, Ireland and England.",
+            "Vikings founded Dublin as a fortified base in 841."
+          ]
+        },
+        {
+          "name": "Kenneth MacAlpin rules Picts and Scots",
+          "dates": "c. 843",
+          "facts": [
+            "Kenneth MacAlpin was king of the Gaelic Scots of Dál Riata, in western Scotland.",
+            "Around 843 he also became king of the Picts.",
+            "He is traditionally called the first King of Scots.",
+            "By about 900 the joint kingdom was called Alba, the Gaelic name for Scotland."
+          ]
+        },
+        {
+          "name": "Great Heathen Army invades",
+          "dates": "865",
+          "facts": [
+            "A large Viking army landed in East Anglia in 865.",
+            "It captured York in 866, and the Vikings called the city Jorvik.",
+            "It conquered Northumbria, East Anglia and much of Mercia.",
+            "King Edmund of East Anglia was killed in 869 and later became a saint."
+          ]
+        },
+        {
+          "name": "Alfred wins at Edington",
+          "dates": "878",
+          "facts": [
+            "Alfred the Great, King of Wessex, was nearly beaten and hid in the Somerset marshes at Athelney.",
+            "In 878 he gathered an army and beat the Viking leader Guthrum at Edington, Wiltshire.",
+            "Guthrum became a Christian, and England was split, with the Viking-ruled east called the Danelaw.",
+            "Alfred built fortified towns called burhs, and new warships, to defend Wessex."
+          ]
+        },
+        {
+          "name": "Æthelstan unites England",
+          "dates": "927",
+          "facts": [
+            "Æthelstan, Alfred's grandson, took York from the Vikings in 927.",
+            "This made him the first king to rule all of England.",
+            "In 937 he beat an alliance of Scots, Strathclyde Britons and Dublin Vikings at Brunanburh.",
+            "Nobody is sure where the Battle of Brunanburh was fought."
+          ]
+        },
+        {
+          "name": "Brian Boru at Clontarf",
+          "dates": "1014",
+          "facts": [
+            "Brian Boru rose from a small kingdom in Munster to become High King of Ireland.",
+            "On Good Friday 1014 his army defeated the men of Leinster and Viking Dublin at Clontarf.",
+            "Brian, by then an old man, was killed in his tent during the battle.",
+            "Later legend said Clontarf drove the Vikings out of Ireland, which is too simple."
+          ]
+        },
+        {
+          "name": "Cnut becomes king",
+          "dates": "1016",
+          "facts": [
+            "After years of Viking attacks on Æthelred the Unready, the Danes conquered England.",
+            "Cnut, a Danish prince, became King of England in 1016.",
+            "He later also ruled Denmark and Norway, creating a North Sea empire.",
+            "The story of him ordering back the tide was meant to show that God was greater than kings."
+          ]
+        },
+        {
+          "name": "Battles of Stamford Bridge and Hastings",
+          "dates": "1066",
+          "facts": [
+            "Edward the Confessor died in January 1066, and Harold Godwinson became king.",
+            "On 25 September Harold beat the Norwegian king Harald Hardrada at Stamford Bridge, near York.",
+            "On 14 October Duke William of Normandy defeated and killed Harold near Hastings.",
+            "William was crowned in Westminster Abbey on Christmas Day 1066."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Norman and medieval Britain",
+      "dates": "1066 – 1485",
+      "colour": "purple",
+      "items": [
+        {
+          "name": "Harrying of the North",
+          "dates": "1069 – 1070",
+          "facts": [
+            "William crushed rebellions in the north of England, which had Danish support.",
+            "His soldiers burned villages, crops and animals across Yorkshire and beyond.",
+            "Thousands died of famine; one chronicler claimed 100,000, but historians debate the number."
+          ]
+        },
+        {
+          "name": "Domesday Book",
+          "dates": "1086",
+          "facts": [
+            "William ordered a great survey of England at Christmas 1085.",
+            "It recorded who held land, how many people lived there and what animals they had.",
+            "It covered over 13,000 places, but not London, Winchester or most of the far north.",
+            "It is kept at the National Archives in Kew."
+          ]
+        },
+        {
+          "name": "Normans invade Ireland",
+          "dates": "1169",
+          "facts": [
+            "Dermot MacMurrough, the exiled King of Leinster, asked Henry II's lords for help.",
+            "Norman knights landed in County Wexford in 1169, and Strongbow took Dublin in 1170.",
+            "Henry II came to Ireland himself in 1171 to take control.",
+            "It began English rule in Ireland, which lasted in some form for centuries."
+          ]
+        },
+        {
+          "name": "Thomas Becket murdered",
+          "dates": "1170",
+          "facts": [
+            "Thomas Becket was Archbishop of Canterbury and argued with Henry II about the church's rights.",
+            "Four knights killed him in Canterbury Cathedral on 29 December 1170.",
+            "They acted after hearing the king's angry words about Becket.",
+            "Becket was made a saint in 1173, and Canterbury became a great place of pilgrimage."
+          ]
+        },
+        {
+          "name": "Magna Carta",
+          "dates": "1215",
+          "facts": [
+            "Rebel barons forced King John to agree to Magna Carta at Runnymede on 15 June 1215.",
+            "It said the king must obey the law, and no free man could be jailed without lawful judgement.",
+            "The Pope cancelled it within weeks, but it was reissued in 1216, 1217 and 1225.",
+            "Four original copies from 1215 still survive."
+          ]
+        },
+        {
+          "name": "Simon de Montfort's Parliament",
+          "dates": "1265",
+          "facts": [
+            "Simon de Montfort led the barons against Henry III and captured him at Lewes in 1264.",
+            "In January 1265 he called a parliament with knights from the counties and men from the towns.",
+            "It is seen as an early step towards the House of Commons.",
+            "Simon was killed at the Battle of Evesham in August 1265."
+          ]
+        },
+        {
+          "name": "Edward I conquers Wales",
+          "dates": "1282 – 1283",
+          "facts": [
+            "Llywelyn ap Gruffudd, the last native Prince of Wales, was killed near Cilmeri in December 1282.",
+            "His brother Dafydd was captured and executed in 1283.",
+            "Edward built mighty castles at Conwy, Caernarfon, Harlech and Beaumaris.",
+            "In 1301 Edward made his son the first English Prince of Wales."
+          ]
+        },
+        {
+          "name": "Wallace wins at Stirling Bridge",
+          "dates": "1297",
+          "facts": [
+            "Edward I invaded Scotland in 1296 and took the Stone of Destiny to London.",
+            "William Wallace and Andrew Moray beat a larger English army at Stirling Bridge on 11 September 1297.",
+            "Wallace lost the Battle of Falkirk in 1298.",
+            "He was captured and executed in London in 1305."
+          ]
+        },
+        {
+          "name": "Battle of Bannockburn",
+          "dates": "1314",
+          "facts": [
+            "Robert the Bruce was crowned King of Scots in 1306.",
+            "On 23 and 24 June 1314 he defeated Edward II's larger army near Stirling.",
+            "It was the greatest Scottish victory of the Wars of Independence.",
+            "England finally recognised Scotland's independence in 1328."
+          ]
+        },
+        {
+          "name": "Declaration of Arbroath",
+          "dates": "1320",
+          "facts": [
+            "Scottish nobles sent a letter to Pope John XXII asking him to accept Scotland's independence.",
+            "It said they fought not for glory or riches, but for freedom.",
+            "It also said they would get rid of even Robert the Bruce if he gave in to England."
+          ]
+        },
+        {
+          "name": "Hundred Years' War and Crécy",
+          "dates": "1337 – 1453",
+          "facts": [
+            "Edward III claimed the French throne, starting a long series of wars with France.",
+            "At Crécy in 1346, English and Welsh longbowmen helped defeat a much larger French army.",
+            "Edward's son, the Black Prince, fought at Crécy aged 16.",
+            "By 1453 England had lost all its French lands except Calais."
+          ]
+        },
+        {
+          "name": "Black Death",
+          "dates": "1348 – 1350",
+          "facts": [
+            "The plague arrived at Melcombe, in Dorset, in the summer of 1348.",
+            "It killed perhaps a third to a half of the people of Britain and Ireland.",
+            "It reached Ireland in 1348 and Scotland in 1349.",
+            "With fewer workers left, labourers began to demand higher wages."
+          ]
+        },
+        {
+          "name": "Peasants' Revolt",
+          "dates": "1381",
+          "facts": [
+            "Anger at a new poll tax led to a rising in Essex and Kent.",
+            "Rebels led by Wat Tyler and the priest John Ball marched on London.",
+            "The 14-year-old Richard II met them at Smithfield, where Tyler was killed.",
+            "The king's promises were broken, and many rebels were executed."
+          ]
+        },
+        {
+          "name": "Owain Glyndŵr's rising",
+          "dates": "1400 – c. 1415",
+          "facts": [
+            "Owain Glyndŵr was proclaimed Prince of Wales in September 1400 and led a revolt against English rule.",
+            "He held a Welsh parliament at Machynlleth in 1404.",
+            "By 1409 the English had won back his castles at Aberystwyth and Harlech.",
+            "He disappeared around 1415 and was never captured."
+          ]
+        },
+        {
+          "name": "Battle of Agincourt",
+          "dates": "1415",
+          "facts": [
+            "Henry V invaded France to press his claim to the French throne.",
+            "On 25 October 1415 his small, tired army beat a much larger French army.",
+            "English and Welsh archers and the muddy ground helped win the battle.",
+            "In 1420 Henry was named heir to the French king."
+          ]
+        },
+        {
+          "name": "Wars of the Roses",
+          "dates": "1455 – 1487",
+          "facts": [
+            "The royal houses of Lancaster and York fought for the English crown.",
+            "Their badges included a red rose and a white rose, but the name Wars of the Roses came later.",
+            "The Battle of Towton in 1461 is thought to be the bloodiest battle on English soil.",
+            "Edward IV's young sons, the Princes in the Tower, vanished in 1483."
+          ]
+        },
+        {
+          "name": "Caxton's printing press",
+          "dates": "1476",
+          "facts": [
+            "William Caxton set up England's first printing press at Westminster in 1476.",
+            "He had learned printing abroad, in Cologne and Bruges.",
+            "He printed Chaucer's Canterbury Tales, which had been written in English in the late 1300s.",
+            "Printing helped to fix English spelling and spread new ideas."
+          ]
+        },
+        {
+          "name": "Battle of Bosworth",
+          "dates": "1485",
+          "facts": [
+            "On 22 August 1485 Henry Tudor defeated Richard III near Market Bosworth, Leicestershire.",
+            "Henry had Welsh roots and landed at Milford Haven, gathering Welsh support as he marched.",
+            "Richard III was the last English king to die in battle.",
+            "His skeleton was found under a car park in Leicester in 2012."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tudors and Stuarts",
+      "dates": "1485 – 1714",
+      "colour": "teal",
+      "items": [
+        {
+          "name": "Battle of Flodden",
+          "dates": "1513",
+          "facts": [
+            "James IV of Scotland invaded England while Henry VIII was fighting in France.",
+            "On 9 September 1513 the English defeated the Scots at Flodden, in Northumberland.",
+            "James IV and many Scottish nobles were killed.",
+            "He was the last monarch in Britain to die in battle."
+          ]
+        },
+        {
+          "name": "Henry VIII breaks with Rome",
+          "dates": "1534",
+          "facts": [
+            "Henry wanted to end his marriage to Catherine of Aragon, who had not given him a son.",
+            "When the Pope refused, Henry made himself head of the Church in England by the Act of Supremacy.",
+            "He married Anne Boleyn in 1533, and their daughter became Elizabeth I.",
+            "Henry married six times in all."
+          ]
+        },
+        {
+          "name": "Laws in Wales Acts",
+          "dates": "1535 – 1542",
+          "facts": [
+            "These laws joined Wales to England in law and government.",
+            "Wales was divided into counties and sent MPs to Parliament in London.",
+            "English became the language of the law and official business in Wales."
+          ]
+        },
+        {
+          "name": "Dissolution of the Monasteries",
+          "dates": "1536 – 1541",
+          "facts": [
+            "Thomas Cromwell, Henry VIII's minister, closed about 800 monasteries, abbeys and nunneries.",
+            "Their land and riches went to the Crown and were sold to nobles and gentry.",
+            "The Pilgrimage of Grace, a large rising in northern England in 1536, was crushed.",
+            "Ruins such as Fountains Abbey and Tintern Abbey date from this time."
+          ]
+        },
+        {
+          "name": "Mary, Queen of Scots executed",
+          "dates": "1587",
+          "facts": [
+            "Mary became Queen of Scots in 1542, when she was six days old.",
+            "Scotland became Protestant in 1560, but Mary stayed Catholic.",
+            "She was forced to give up her throne in 1567 and fled to England.",
+            "After 19 years as a prisoner, she was executed at Fotheringhay Castle for plotting against Elizabeth I."
+          ]
+        },
+        {
+          "name": "Spanish Armada",
+          "dates": "1588",
+          "facts": [
+            "Philip II of Spain sent about 130 ships to invade Protestant England.",
+            "Elizabeth I made a famous speech to her troops at Tilbury.",
+            "English fireships broke up the Spanish fleet off Calais.",
+            "Storms wrecked many Spanish ships on the coasts of Scotland and Ireland as they sailed home."
+          ]
+        },
+        {
+          "name": "Shakespeare's plays",
+          "dates": "c. 1590 – 1613",
+          "facts": [
+            "William Shakespeare was born in Stratford-upon-Avon in 1564 and died in 1616.",
+            "He wrote around 37 plays and 154 sonnets.",
+            "Many of his plays were performed at the Globe Theatre in London, built in 1599.",
+            "His friends published his plays in the First Folio in 1623."
+          ]
+        },
+        {
+          "name": "Union of the Crowns",
+          "dates": "1603",
+          "facts": [
+            "Elizabeth I died in 1603 without children.",
+            "Her relative James VI of Scotland became James I of England and Ireland.",
+            "England and Scotland now shared a king, but kept separate parliaments and laws.",
+            "James ordered a new English Bible, the King James Bible, published in 1611."
+          ]
+        },
+        {
+          "name": "Gunpowder Plot",
+          "dates": "1605",
+          "facts": [
+            "Catholic plotters led by Robert Catesby planned to blow up Parliament and King James.",
+            "Guy Fawkes was caught guarding barrels of gunpowder under the House of Lords on the night of 4 November.",
+            "The plotters were killed or executed.",
+            "Bonfire Night on 5 November remembers the failure of the plot."
+          ]
+        },
+        {
+          "name": "Plantation of Ulster",
+          "dates": "from 1609",
+          "facts": [
+            "Irish lords led by Hugh O'Neill lost the Nine Years' War in 1603 and fled abroad in 1607.",
+            "The Crown took their land in Ulster and gave it to Protestant settlers from Scotland and England.",
+            "New towns were built, including Londonderry, paid for by London companies.",
+            "The divide between settlers and native Irish shaped Ulster's later conflicts."
+          ]
+        },
+        {
+          "name": "Civil Wars",
+          "dates": "1642 – 1651",
+          "facts": [
+            "Charles I quarrelled with Parliament over money, power and religion.",
+            "Fighting also took place in Scotland and Ireland, so they are called the Wars of the Three Kingdoms.",
+            "Royalists, or Cavaliers, fought Parliamentarians, or Roundheads.",
+            "Parliament's New Model Army won a decisive victory at Naseby in 1645."
+          ]
+        },
+        {
+          "name": "Charles I executed",
+          "dates": "1649",
+          "facts": [
+            "Parliament put Charles I on trial for treason.",
+            "He was beheaded outside the Banqueting House in Whitehall on 30 January 1649.",
+            "England became a republic, called the Commonwealth.",
+            "Oliver Cromwell ruled as Lord Protector from 1653 until his death in 1658."
+          ]
+        },
+        {
+          "name": "Cromwell in Ireland",
+          "dates": "1649 – 1653",
+          "facts": [
+            "Cromwell led an army to Ireland in 1649 to crush Royalists and Catholic rebels.",
+            "His troops killed thousands, including civilians, at Drogheda and Wexford.",
+            "Much Catholic-owned land was taken and given to soldiers and Protestant settlers.",
+            "Cromwell is still remembered with bitterness in Ireland."
+          ]
+        },
+        {
+          "name": "Restoration of the monarchy",
+          "dates": "1660",
+          "facts": [
+            "After Cromwell died, Parliament invited Charles I's son back from exile.",
+            "Charles II entered London on 29 May 1660, his 30th birthday.",
+            "Theatres reopened, and the Royal Society for science was founded in 1660.",
+            "Cromwell's body was dug up, and his head was put on a pole."
+          ]
+        },
+        {
+          "name": "Great Plague of London",
+          "dates": "1665",
+          "facts": [
+            "Bubonic plague killed about 100,000 people in London, around a quarter of its people.",
+            "It was probably spread by fleas carried by rats.",
+            "The rich, including the king, fled the city.",
+            "The village of Eyam, in Derbyshire, cut itself off to stop the plague spreading."
+          ]
+        },
+        {
+          "name": "Great Fire of London",
+          "dates": "1666",
+          "facts": [
+            "The fire started in a baker's shop on Pudding Lane on 2 September 1666.",
+            "It burned for four days and destroyed about 13,000 houses and old St Paul's Cathedral.",
+            "Only a few deaths were recorded, but the true number is unknown.",
+            "Christopher Wren designed the new St Paul's and many City churches."
+          ]
+        },
+        {
+          "name": "Glorious Revolution",
+          "dates": "1688 – 1689",
+          "facts": [
+            "Many feared that the Catholic James II would make England Catholic again.",
+            "His Protestant daughter Mary and her Dutch husband, William of Orange, were invited to take the throne.",
+            "William landed in Devon in November 1688, and James fled to France.",
+            "The Bill of Rights of 1689 limited the monarch's power and gave Parliament more control."
+          ]
+        },
+        {
+          "name": "Battle of the Boyne",
+          "dates": "1690",
+          "facts": [
+            "James II tried to win back his throne from Ireland, with French support.",
+            "In 1689 Protestant Derry held out against James's army in a siege of 105 days.",
+            "William III defeated James at the River Boyne on 1 July 1690.",
+            "Orange marches in Northern Ireland on 12 July still mark the victory."
+          ]
+        },
+        {
+          "name": "Massacre of Glencoe",
+          "dates": "1692",
+          "facts": [
+            "Highland chiefs were told to swear loyalty to William III by 1 January 1692.",
+            "Alasdair MacIain, chief of the MacDonalds of Glencoe, swore his oath a few days late.",
+            "On 13 February, government soldiers who had been their guests killed 38 MacDonalds.",
+            "Others died of cold after fleeing into the snow."
+          ]
+        },
+        {
+          "name": "Act of Union",
+          "dates": "1707",
+          "facts": [
+            "England and Scotland joined to form the Kingdom of Great Britain on 1 May 1707.",
+            "The Scottish Parliament closed, and Scottish MPs went to Westminster.",
+            "Scotland kept its own law, church and schools.",
+            "Money troubles after Scotland's failed colony at Darien, in Panama, helped push it towards union."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Georgian Britain",
+      "dates": "1714 – 1837",
+      "colour": "orange",
+      "items": [
+        {
+          "name": "Jacobite risings and Culloden",
+          "dates": "1715 – 1746",
+          "facts": [
+            "Jacobites wanted to bring back the Catholic Stuarts, descendants of James II, to the throne.",
+            "The 1715 rising, led by the Earl of Mar, failed after the Battle of Sheriffmuir.",
+            "In 1745 Bonnie Prince Charlie raised an army in the Highlands and marched as far as Derby.",
+            "His army was crushed at Culloden, near Inverness, on 16 April 1746, the last pitched battle on British soil."
+          ]
+        },
+        {
+          "name": "Walpole, the first Prime Minister",
+          "dates": "1721 – 1742",
+          "facts": [
+            "George I, from Hanover in Germany, became king in 1714.",
+            "Robert Walpole led the government from 1721 to 1742 and is seen as the first Prime Minister.",
+            "The title Prime Minister was not official at the time.",
+            "Walpole moved into 10 Downing Street in 1735."
+          ]
+        },
+        {
+          "name": "Seven Years' War",
+          "dates": "1756 – 1763",
+          "facts": [
+            "Britain fought France and its allies in Europe, North America and India.",
+            "Robert Clive's victory at Plassey in 1757 helped the East India Company take control of Bengal.",
+            "General Wolfe captured Quebec in 1759 but was killed in the battle.",
+            "Britain won Canada and became the leading colonial power."
+          ]
+        },
+        {
+          "name": "Industrial Revolution",
+          "dates": "c. 1760 – 1840",
+          "facts": [
+            "Britain became the first country to industrialise, using coal, iron and steam power.",
+            "James Watt, a Scottish engineer, greatly improved the steam engine from 1769.",
+            "Richard Arkwright's water-powered cotton mill at Cromford opened in 1771.",
+            "People moved from the countryside to fast-growing towns like Manchester, Glasgow and Merthyr Tydfil."
+          ]
+        },
+        {
+          "name": "Captain Cook's voyages",
+          "dates": "1768 – 1779",
+          "facts": [
+            "James Cook led three great voyages of exploration in the Pacific Ocean.",
+            "In 1770 he mapped the east coast of Australia and claimed it for Britain.",
+            "He also mapped New Zealand and sailed far south towards Antarctica.",
+            "He was killed in Hawaii in 1779."
+          ]
+        },
+        {
+          "name": "Loss of the American colonies",
+          "dates": "1775 – 1783",
+          "facts": [
+            "Thirteen American colonies rebelled against British taxes and rule.",
+            "They declared independence on 4 July 1776.",
+            "A British army surrendered at Yorktown in 1781, after France joined the Americans.",
+            "Britain recognised the United States in the Treaty of Paris in 1783."
+          ]
+        },
+        {
+          "name": "Irish rebellion",
+          "dates": "1798",
+          "facts": [
+            "The United Irishmen, led by Wolfe Tone, wanted an independent Irish republic.",
+            "Their members included both Catholics and Protestants.",
+            "The rising was crushed, with thousands killed, including at Vinegar Hill in County Wexford.",
+            "A small French force landed in County Mayo but was defeated."
+          ]
+        },
+        {
+          "name": "Act of Union with Ireland",
+          "dates": "1801",
+          "facts": [
+            "The United Kingdom of Great Britain and Ireland was created on 1 January 1801.",
+            "The Irish Parliament in Dublin was closed, and Irish MPs went to Westminster.",
+            "The red cross of St Patrick was added to the Union Flag.",
+            "Promised rights for Catholics were not given, and Prime Minister Pitt the Younger resigned."
+          ]
+        },
+        {
+          "name": "Battle of Trafalgar",
+          "dates": "1805",
+          "facts": [
+            "On 21 October 1805 Admiral Nelson's fleet defeated the French and Spanish fleets off Spain.",
+            "Nelson was shot and killed during the battle.",
+            "The victory ended Napoleon's hopes of invading Britain.",
+            "Nelson's Column in Trafalgar Square, London, remembers him."
+          ]
+        },
+        {
+          "name": "Slave trade abolished",
+          "dates": "1807",
+          "facts": [
+            "From 1787, campaigners such as Thomas Clarkson and Olaudah Equiano fought to end the slave trade.",
+            "William Wilberforce led the campaign in Parliament for many years.",
+            "Ordinary people signed petitions and refused to buy sugar grown by enslaved people.",
+            "The 1807 Act banned British ships from carrying enslaved Africans, but slavery itself continued."
+          ]
+        },
+        {
+          "name": "Battle of Waterloo",
+          "dates": "1815",
+          "facts": [
+            "Napoleon escaped from exile and returned to power in France in 1815.",
+            "On 18 June 1815 the Duke of Wellington and the Prussian general Blücher defeated him near Brussels.",
+            "Napoleon was sent to the remote island of St Helena, where he died in 1821.",
+            "It ended over 20 years of war between Britain and France."
+          ]
+        },
+        {
+          "name": "Peterloo Massacre",
+          "dates": "1819",
+          "facts": [
+            "Around 60,000 people gathered at St Peter's Field, Manchester, to call for the vote.",
+            "Soldiers on horseback charged the crowd with sabres.",
+            "About 18 people were killed and hundreds were injured.",
+            "The name Peterloo mocked the Battle of Waterloo."
+          ]
+        },
+        {
+          "name": "Stockton and Darlington Railway",
+          "dates": "1825",
+          "facts": [
+            "It opened on 27 September 1825 in north-east England.",
+            "It was the world's first public railway to use steam locomotives.",
+            "George Stephenson's engine Locomotion No. 1 pulled the first train.",
+            "The Liverpool and Manchester Railway, opened in 1830, was the first inter-city line."
+          ]
+        },
+        {
+          "name": "Catholic Emancipation",
+          "dates": "1829",
+          "facts": [
+            "Catholics had long been banned from sitting in Parliament.",
+            "The Irish leader Daniel O'Connell won an election in County Clare in 1828 but could not take his seat.",
+            "Fearing unrest in Ireland, the Duke of Wellington's government let Catholics become MPs in 1829.",
+            "O'Connell became known as the Liberator."
+          ]
+        },
+        {
+          "name": "Great Reform Act",
+          "dates": "1832",
+          "facts": [
+            "Many new industrial towns, such as Manchester, had no MPs of their own.",
+            "Rotten boroughs with almost no voters, like Old Sarum, still elected MPs.",
+            "The Act gave seats to big towns and let more middle-class men vote.",
+            "Still only about one in five adult men in England and Wales could vote."
+          ]
+        },
+        {
+          "name": "Slavery Abolition Act",
+          "dates": "1833",
+          "facts": [
+            "The Act ended slavery in most of the British Empire from 1 August 1834.",
+            "Slave owners were paid £20 million in compensation, but enslaved people got nothing.",
+            "Most freed people were made to keep working for their old owners until 1838."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Victorian Britain",
+      "dates": "1837 – 1901",
+      "colour": "indigo",
+      "items": [
+        {
+          "name": "Victoria becomes queen",
+          "dates": "1837",
+          "facts": [
+            "Victoria became queen on 20 June 1837, aged 18.",
+            "In 1840 she married her German cousin, Prince Albert.",
+            "She reigned for 63 years, longer than any monarch before her.",
+            "Her nine children married into royal families across Europe."
+          ]
+        },
+        {
+          "name": "Chartists",
+          "dates": "1838 – 1848",
+          "facts": [
+            "The People's Charter of 1838 called for votes for all men and secret ballots.",
+            "Millions signed huge petitions, but Parliament rejected them.",
+            "In the Newport Rising of 1839, in Wales, soldiers killed over 20 Chartists.",
+            "Most of the Charter's demands became law later."
+          ]
+        },
+        {
+          "name": "Penny post",
+          "dates": "1840",
+          "facts": [
+            "Rowland Hill proposed a cheap postal service with one price for any distance.",
+            "The Penny Black, the world's first postage stamp, was issued in May 1840.",
+            "Senders now paid for letters, instead of the person receiving them."
+          ]
+        },
+        {
+          "name": "Great Famine in Ireland",
+          "dates": "1845 – 1852",
+          "facts": [
+            "A disease called potato blight destroyed the potatoes that most poor Irish families lived on.",
+            "About one million people died from hunger and disease.",
+            "More than a million others emigrated, many to America, Britain and Canada.",
+            "Food was still exported from Ireland, and the government's response is still criticised."
+          ]
+        },
+        {
+          "name": "Corn Laws repealed",
+          "dates": "1846",
+          "facts": [
+            "The Corn Laws taxed imported grain, keeping bread prices high.",
+            "The Anti-Corn Law League, led by Richard Cobden and John Bright, campaigned for free trade.",
+            "Prime Minister Robert Peel repealed the laws, partly because of the Irish famine.",
+            "This split his Conservative Party."
+          ]
+        },
+        {
+          "name": "Great Exhibition",
+          "dates": "1851",
+          "facts": [
+            "It was held in the Crystal Palace, a huge glass building in Hyde Park, London.",
+            "Prince Albert helped organise it to show off industry from around the world.",
+            "There were about six million visits.",
+            "Its profits helped to build the museums in South Kensington."
+          ]
+        },
+        {
+          "name": "Crimean War and Florence Nightingale",
+          "dates": "1853 – 1856",
+          "facts": [
+            "Britain, France and the Ottoman Empire fought Russia, mainly in Crimea on the Black Sea.",
+            "The Charge of the Light Brigade at Balaclava in 1854 was a famous blunder.",
+            "Florence Nightingale improved hospital care for wounded soldiers at Scutari, in Turkey.",
+            "Mary Seacole, a Jamaican nurse, ran a hotel for soldiers near the front."
+          ]
+        },
+        {
+          "name": "Indian Rebellion and the Raj",
+          "dates": "1857 – 1858",
+          "facts": [
+            "Indian soldiers in the East India Company's army rebelled at Meerut in 1857.",
+            "The fighting was brutal on both sides, and the rebellion was crushed in 1858.",
+            "The British government then took over from the Company; its rule was called the Raj.",
+            "Victoria was made Empress of India in 1876."
+          ]
+        },
+        {
+          "name": "Darwin's Origin of Species",
+          "dates": "1859",
+          "facts": [
+            "Charles Darwin sailed round the world on HMS Beagle from 1831 to 1836.",
+            "His book On the Origin of Species explained evolution by natural selection.",
+            "Alfred Russel Wallace, born in Monmouthshire, came up with the same idea.",
+            "Their ideas caused fierce debate with some religious leaders."
+          ]
+        },
+        {
+          "name": "Second Reform Act",
+          "dates": "1867",
+          "facts": [
+            "Benjamin Disraeli's Conservative government passed the Act.",
+            "It gave the vote to many working men in towns, roughly doubling the number of voters.",
+            "Secret ballots for elections began in 1872.",
+            "The Third Reform Act of 1884 gave many men in the countryside the vote."
+          ]
+        },
+        {
+          "name": "Education Act",
+          "dates": "1870",
+          "facts": [
+            "The Act set up board schools wherever there were not enough church schools in England and Wales.",
+            "Scotland passed a similar act in 1872.",
+            "School became compulsory for young children in 1880, and mostly free in 1891."
+          ]
+        },
+        {
+          "name": "Scramble for Africa",
+          "dates": "1881 – 1914",
+          "facts": [
+            "European powers rushed to take control of almost all of Africa.",
+            "The Berlin Conference of 1884 to 1885 set rules for dividing up the continent.",
+            "Britain took large areas, including Egypt, Nigeria, Kenya and much of southern Africa.",
+            "By 1914 the British Empire ruled around a quarter of the world's people."
+          ]
+        },
+        {
+          "name": "Irish Home Rule crisis",
+          "dates": "1886 – 1893",
+          "facts": [
+            "Home Rule meant a parliament in Dublin to run Irish affairs.",
+            "Charles Stewart Parnell led the Irish Party at Westminster and fought for tenant farmers' rights.",
+            "Gladstone's first Home Rule Bill was defeated in 1886, splitting his Liberal Party.",
+            "His second Bill passed the Commons in 1893 but was blocked by the House of Lords."
+          ]
+        },
+        {
+          "name": "Boer War",
+          "dates": "1899 – 1902",
+          "facts": [
+            "Britain fought the Boers, settlers of Dutch descent in southern Africa, partly over gold.",
+            "The Boers besieged British forces in towns such as Mafeking, which was relieved in 1900.",
+            "The British put Boer and Black African civilians in concentration camps, where many thousands died.",
+            "Britain won, and the Boer republics became part of the Empire."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Twentieth century to 1945",
+      "dates": "1901 – 1945",
+      "colour": "blue",
+      "items": [
+        {
+          "name": "Queen Victoria dies",
+          "dates": "1901",
+          "facts": [
+            "Victoria died on 22 January 1901 at Osborne House on the Isle of Wight.",
+            "Her son became King Edward VII.",
+            "Her reign of 63 years was the longest until Elizabeth II."
+          ]
+        },
+        {
+          "name": "Suffragettes",
+          "dates": "1903 – 1914",
+          "facts": [
+            "Emmeline Pankhurst founded the Women's Social and Political Union in Manchester in 1903.",
+            "Their motto was deeds not words, and they smashed windows and started fires.",
+            "Suffragettes in prison went on hunger strike and were force-fed.",
+            "Emily Davison died after running in front of the king's horse at the 1913 Derby."
+          ]
+        },
+        {
+          "name": "Liberal reforms and People's Budget",
+          "dates": "1906 – 1911",
+          "facts": [
+            "The Liberal government let councils give free school meals to poor children from 1906.",
+            "Old age pensions began in 1908, paying up to five shillings a week to people over 70.",
+            "The House of Lords rejected Lloyd George's People's Budget, which taxed the rich, in 1909.",
+            "The Parliament Act 1911 meant the Lords could only delay most laws, not block them."
+          ]
+        },
+        {
+          "name": "Titanic sinks",
+          "dates": "1912",
+          "facts": [
+            "The Titanic was built at Harland and Wolff's shipyard in Belfast.",
+            "It hit an iceberg on its first voyage and sank on 15 April 1912.",
+            "About 1,500 people died, partly because there were not enough lifeboats."
+          ]
+        },
+        {
+          "name": "First World War",
+          "dates": "1914 – 1918",
+          "facts": [
+            "Britain declared war on Germany on 4 August 1914, after Germany invaded Belgium.",
+            "On 1 July 1916, the first day of the Battle of the Somme, about 19,000 British soldiers were killed.",
+            "Around 880,000 British servicemen died in the war.",
+            "The war ended with the Armistice at 11am on 11 November 1918."
+          ]
+        },
+        {
+          "name": "Easter Rising",
+          "dates": "1916",
+          "facts": [
+            "On Easter Monday, 24 April 1916, Irish rebels seized buildings in Dublin, including the General Post Office.",
+            "Patrick Pearse read out a proclamation of an Irish Republic.",
+            "The rising was crushed within a week.",
+            "The execution of its leaders turned many Irish people towards independence."
+          ]
+        },
+        {
+          "name": "Votes for women",
+          "dates": "1918 and 1928",
+          "facts": [
+            "In 1918 many women over 30, and all men over 21, got the vote.",
+            "Constance Markievicz was the first woman elected as an MP, in 1918, but as a Sinn Féin MP she refused to sit.",
+            "Nancy Astor became the first woman to sit as an MP, in 1919.",
+            "In 1928 women got the vote on the same terms as men, from age 21."
+          ]
+        },
+        {
+          "name": "Irish independence and partition",
+          "dates": "1919 – 1922",
+          "facts": [
+            "Sinn Féin MPs set up their own parliament, the Dáil, in Dublin in January 1919.",
+            "The IRA, with Michael Collins, fought British forces in the War of Independence.",
+            "In 1921 six north-eastern counties became Northern Ireland, staying in the UK.",
+            "The Anglo-Irish Treaty created the Irish Free State in 1922, and a bitter civil war followed."
+          ]
+        },
+        {
+          "name": "BBC founded",
+          "dates": "1922",
+          "facts": [
+            "The British Broadcasting Company was set up in October 1922 and began radio broadcasts in November.",
+            "It became the British Broadcasting Corporation, a public body, in 1927.",
+            "Its first leader, John Reith, said it should inform, educate and entertain.",
+            "It started the world's first regular high-definition television service in 1936."
+          ]
+        },
+        {
+          "name": "General Strike",
+          "dates": "1926",
+          "facts": [
+            "Mine owners wanted to cut miners' wages and make them work longer hours.",
+            "The TUC called a general strike, and about 1.7 million workers stopped work.",
+            "It lasted nine days, from 4 to 12 May 1926.",
+            "The miners stayed out for months but were forced back on worse terms."
+          ]
+        },
+        {
+          "name": "Depression and Jarrow March",
+          "dates": "1936",
+          "facts": [
+            "The Great Depression after 1929 caused mass unemployment, worst in industrial areas.",
+            "In Jarrow, near Newcastle, most men were out of work after Palmer's shipyard closed.",
+            "In October 1936 about 200 men marched nearly 300 miles to London with a petition.",
+            "The march became a symbol of the hungry thirties."
+          ]
+        },
+        {
+          "name": "Abdication of Edward VIII",
+          "dates": "1936",
+          "facts": [
+            "Edward VIII wanted to marry Wallis Simpson, an American who had been divorced twice.",
+            "The government and the Church of England would not accept the marriage.",
+            "He gave up the throne on 11 December 1936, after less than a year as king.",
+            "His brother became King George VI."
+          ]
+        },
+        {
+          "name": "Second World War",
+          "dates": "1939 – 1945",
+          "facts": [
+            "Britain declared war on Germany on 3 September 1939, after Germany invaded Poland.",
+            "Winston Churchill became Prime Minister in May 1940.",
+            "Code-breakers at Bletchley Park cracked German codes, including Enigma messages.",
+            "About 450,000 people from the UK died, including around 70,000 civilians."
+          ]
+        },
+        {
+          "name": "Dunkirk evacuation",
+          "dates": "1940",
+          "facts": [
+            "German forces trapped the British army on the French coast in May 1940.",
+            "About 338,000 British and French soldiers were rescued between 26 May and 4 June.",
+            "Hundreds of small civilian boats helped the Royal Navy.",
+            "Churchill called it a miracle but warned that wars are not won by evacuations."
+          ]
+        },
+        {
+          "name": "Battle of Britain",
+          "dates": "1940",
+          "facts": [
+            "From July to October 1940 the RAF fought the German air force over southern England.",
+            "Germany needed control of the air before it could invade.",
+            "Radar and fighter planes like the Spitfire and Hurricane were vital.",
+            "Churchill said never was so much owed by so many to so few."
+          ]
+        },
+        {
+          "name": "The Blitz",
+          "dates": "1940 – 1941",
+          "facts": [
+            "German bombers attacked British cities from September 1940 to May 1941.",
+            "London was bombed on 57 nights in a row.",
+            "Coventry, Liverpool, Clydebank, Belfast, Swansea and many other places were badly hit.",
+            "About 43,000 civilians were killed."
+          ]
+        },
+        {
+          "name": "D-Day landings",
+          "dates": "1944",
+          "facts": [
+            "On 6 June 1944 Allied forces landed on five beaches in Normandy, France.",
+            "British troops landed on Gold and Sword beaches, and Canadians on Juno.",
+            "About 156,000 soldiers landed on the first day.",
+            "It began the freeing of western Europe from Nazi rule."
+          ]
+        },
+        {
+          "name": "VE Day",
+          "dates": "1945",
+          "facts": [
+            "Germany surrendered, and 8 May 1945 was celebrated as Victory in Europe Day.",
+            "Huge crowds filled London, and Churchill joined the royal family on the Buckingham Palace balcony.",
+            "The war with Japan ended in August 1945, after atomic bombs were dropped on Hiroshima and Nagasaki."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Post-war Britain",
+      "dates": "1945 – 1999",
+      "colour": "pink",
+      "items": [
+        {
+          "name": "Attlee's Labour landslide",
+          "dates": "1945",
+          "facts": [
+            "Labour, led by Clement Attlee, won a landslide in July 1945, defeating Churchill.",
+            "It followed the 1942 Beveridge Report, which aimed to defeat want, disease, ignorance, squalor and idleness.",
+            "Labour took coal, the railways and other industries into public ownership.",
+            "It built the welfare state, including family allowances and national insurance."
+          ]
+        },
+        {
+          "name": "Indian independence",
+          "dates": "1947",
+          "facts": [
+            "India and Pakistan became independent on 15 August 1947.",
+            "British India was partitioned, mainly along religious lines.",
+            "Violence during partition killed hundreds of thousands, and millions had to leave their homes.",
+            "Burma and Ceylon, now Sri Lanka, became independent in 1948."
+          ]
+        },
+        {
+          "name": "Empire Windrush arrives",
+          "dates": "1948",
+          "facts": [
+            "The ship Empire Windrush arrived at Tilbury, Essex, on 22 June 1948.",
+            "It carried hundreds of people from the Caribbean who came to work and help rebuild Britain.",
+            "People who came from the Caribbean in these years are called the Windrush generation.",
+            "In 2018 a scandal showed some had been wrongly told they had no right to live in Britain."
+          ]
+        },
+        {
+          "name": "NHS founded",
+          "dates": "1948",
+          "facts": [
+            "The National Health Service began on 5 July 1948.",
+            "Aneurin Bevan, the health minister, from Tredegar in Wales, set it up.",
+            "For the first time, healthcare was free for everyone when they used it.",
+            "Similar health services were set up in Scotland and Northern Ireland."
+          ]
+        },
+        {
+          "name": "Coronation of Elizabeth II",
+          "dates": "1953",
+          "facts": [
+            "Elizabeth became queen on 6 February 1952, when her father, George VI, died.",
+            "She was crowned in Westminster Abbey on 2 June 1953.",
+            "Millions watched on television, and many families bought their first set for it.",
+            "News that a British-led team had climbed Everest arrived on the same day."
+          ]
+        },
+        {
+          "name": "Suez Crisis",
+          "dates": "1956",
+          "facts": [
+            "Egypt's leader, Nasser, took over the Suez Canal, which was run by a British and French company.",
+            "Britain, France and Israel secretly planned an attack on Egypt.",
+            "The USA forced them to withdraw, a great humiliation for Britain.",
+            "Prime Minister Anthony Eden resigned in January 1957."
+          ]
+        },
+        {
+          "name": "End of empire",
+          "dates": "1950s – 1960s",
+          "facts": [
+            "Ghana, in 1957, was among the first British colonies in Africa to become independent.",
+            "In 1960 Harold Macmillan said a wind of change was blowing through Africa.",
+            "Kenya became independent in 1963, after the violent Mau Mau uprising.",
+            "Most former colonies joined the Commonwealth."
+          ]
+        },
+        {
+          "name": "Swinging Sixties and the Beatles",
+          "dates": "1960s",
+          "facts": [
+            "The Beatles, from Liverpool, released their first single, Love Me Do, in 1962.",
+            "Beatlemania swept Britain and then the USA.",
+            "London became a centre of fashion, with Mary Quant's miniskirts and Carnaby Street.",
+            "New laws ended hanging for murder in 1965 and partly decriminalised sex between men in 1967."
+          ]
+        },
+        {
+          "name": "England win the World Cup",
+          "dates": "1966",
+          "facts": [
+            "England hosted the football World Cup in 1966.",
+            "They beat West Germany 4–2 after extra time in the final at Wembley on 30 July.",
+            "Geoff Hurst scored a hat-trick, and Bobby Moore was captain."
+          ]
+        },
+        {
+          "name": "Aberfan disaster",
+          "dates": "1966",
+          "facts": [
+            "On 21 October 1966 a coal waste tip slid down onto the village of Aberfan, in South Wales.",
+            "It buried Pantglas Junior School and nearby houses.",
+            "144 people were killed, 116 of them children.",
+            "An inquiry blamed the National Coal Board."
+          ]
+        },
+        {
+          "name": "The Troubles and Bloody Sunday",
+          "dates": "1968 – 1998",
+          "facts": [
+            "In Northern Ireland, Catholic civil rights marchers protested against unfair treatment in housing, jobs and voting.",
+            "British troops were sent onto the streets in August 1969.",
+            "On Bloody Sunday, 30 January 1972, soldiers shot dead 13 civil rights marchers in Derry; another died later.",
+            "Over 3,500 people were killed by republicans, loyalists and the security forces."
+          ]
+        },
+        {
+          "name": "Britain joins the EEC",
+          "dates": "1973",
+          "facts": [
+            "Britain joined the European Economic Community on 1 January 1973, along with Ireland and Denmark.",
+            "Edward Heath's Conservative government took Britain in.",
+            "France's President de Gaulle had blocked earlier British attempts to join in 1963 and 1967.",
+            "In a 1975 referendum, about two-thirds voted to stay in."
+          ]
+        },
+        {
+          "name": "Thatcher becomes Prime Minister",
+          "dates": "1979",
+          "facts": [
+            "Margaret Thatcher became Britain's first woman Prime Minister on 4 May 1979.",
+            "She won after the Winter of Discontent, when many public workers went on strike.",
+            "She sold off state-owned industries and let council tenants buy their homes.",
+            "Her unpopular poll tax helped to bring her down in 1990."
+          ]
+        },
+        {
+          "name": "Falklands War",
+          "dates": "1982",
+          "facts": [
+            "Argentina invaded the Falkland Islands, a British territory in the South Atlantic, on 2 April 1982.",
+            "Britain sent a naval task force about 8,000 miles south.",
+            "Argentine forces surrendered on 14 June 1982.",
+            "255 British service personnel, 649 Argentines and three islanders died."
+          ]
+        },
+        {
+          "name": "Miners' strike",
+          "dates": "1984 – 1985",
+          "facts": [
+            "Miners went on strike against pit closures, led by Arthur Scargill of the National Union of Mineworkers.",
+            "There were violent clashes with police, such as at Orgreave in South Yorkshire.",
+            "The strike lasted about a year and ended in defeat for the miners.",
+            "Most coal mines closed over the next ten years, hitting communities in Wales, Scotland and northern England."
+          ]
+        },
+        {
+          "name": "Channel Tunnel opens",
+          "dates": "1994",
+          "facts": [
+            "The Queen and French President Mitterrand opened the tunnel on 6 May 1994.",
+            "It runs about 31 miles between Folkestone and Calais, much of it under the sea.",
+            "It is the first fixed link between Britain and mainland Europe since Britain became an island.",
+            "Eurostar trains link London with Paris and Brussels."
+          ]
+        },
+        {
+          "name": "Devolution for Scotland and Wales",
+          "dates": "1997 – 1999",
+          "facts": [
+            "Tony Blair's Labour Party won a landslide in May 1997.",
+            "In September 1997 Scotland voted strongly for its own parliament, and Wales narrowly voted for an assembly.",
+            "The Scottish Parliament and the National Assembly for Wales opened in 1999.",
+            "Donald Dewar became Scotland's first First Minister."
+          ]
+        },
+        {
+          "name": "Good Friday Agreement",
+          "dates": "1998",
+          "facts": [
+            "The agreement was signed in Belfast on 10 April 1998, which was Good Friday.",
+            "It set up a power-sharing government in Northern Ireland for unionists and nationalists.",
+            "Voters in Northern Ireland and the Republic of Ireland approved it in May 1998.",
+            "It said Northern Ireland would stay in the UK unless a majority there voted to leave."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Twenty-first century",
+      "dates": "2000 – present",
+      "colour": "green",
+      "items": [
+        {
+          "name": "Iraq War",
+          "dates": "2003",
+          "facts": [
+            "Britain joined the USA in invading Iraq in March 2003.",
+            "Hundreds of thousands of people marched against the war in London in February 2003.",
+            "No weapons of mass destruction were found.",
+            "179 British service personnel died, and the 2016 Chilcot report criticised the decision to go to war."
+          ]
+        },
+        {
+          "name": "7/7 London bombings",
+          "dates": "2005",
+          "facts": [
+            "On 7 July 2005 four suicide bombers attacked three Tube trains and a bus in London.",
+            "52 people were killed and hundreds were injured.",
+            "It happened the day after London was chosen to host the 2012 Olympics."
+          ]
+        },
+        {
+          "name": "Financial crisis",
+          "dates": "2007 – 2008",
+          "facts": [
+            "In 2007 savers queued to take their money out of Northern Rock, the first run on a British bank in over a century.",
+            "In 2008 the government rescued big banks, including RBS and Lloyds.",
+            "Britain fell into recession, and years of spending cuts followed.",
+            "In 2010 the Conservatives and Liberal Democrats formed the first coalition government since the war."
+          ]
+        },
+        {
+          "name": "London Olympics",
+          "dates": "2012",
+          "facts": [
+            "London hosted the Olympic Games from 27 July to 12 August 2012.",
+            "Danny Boyle's opening ceremony showed British history, from farms and factories to the NHS.",
+            "Team GB won 29 gold medals and came third in the medal table.",
+            "London became the first city to host the modern summer Olympics three times."
+          ]
+        },
+        {
+          "name": "Scottish independence referendum",
+          "dates": "2014",
+          "facts": [
+            "On 18 September 2014 Scotland voted on whether to become an independent country.",
+            "No won by 55% to 45%.",
+            "Turnout was about 85%, and 16 and 17-year-olds could vote."
+          ]
+        },
+        {
+          "name": "Brexit referendum",
+          "dates": "2016",
+          "facts": [
+            "On 23 June 2016 the UK voted to leave the European Union by 52% to 48%.",
+            "England and Wales voted to leave, but Scotland and Northern Ireland voted to remain.",
+            "David Cameron announced his resignation the next day, and Theresa May became Prime Minister."
+          ]
+        },
+        {
+          "name": "Grenfell Tower fire",
+          "dates": "2017",
+          "facts": [
+            "On 14 June 2017 fire spread through Grenfell Tower, a block of flats in west London.",
+            "72 people died.",
+            "Flammable cladding on the outside of the building helped the fire spread.",
+            "A public inquiry found that all the deaths could have been avoided."
+          ]
+        },
+        {
+          "name": "UK leaves the EU",
+          "dates": "2020",
+          "facts": [
+            "Boris Johnson won a big majority in December 2019, promising to get Brexit done.",
+            "The UK left the EU at 11pm on 31 January 2020.",
+            "A transition period ended on 31 December 2020.",
+            "Northern Ireland has special trade rules to avoid a hard border with Ireland."
+          ]
+        },
+        {
+          "name": "Covid-19 pandemic",
+          "dates": "2020 – 2022",
+          "facts": [
+            "The first national lockdown began on 23 March 2020.",
+            "On 8 December 2020 Margaret Keenan, in Coventry, was the first person in the world given an approved Covid vaccine.",
+            "Over 200,000 people in the UK died with Covid on their death certificate.",
+            "Parties held in Downing Street during lockdown led to the Partygate scandal."
+          ]
+        },
+        {
+          "name": "Death of Elizabeth II",
+          "dates": "2022",
+          "facts": [
+            "Elizabeth II died at Balmoral, in Scotland, on 8 September 2022, aged 96.",
+            "She had reigned for 70 years, longer than any other British monarch.",
+            "Two days before she died, she appointed Liz Truss, her 15th Prime Minister.",
+            "Her son became King Charles III and was crowned on 6 May 2023."
+          ]
+        },
+        {
+          "name": "Labour landslide",
+          "dates": "2024",
+          "facts": [
+            "Labour, led by Keir Starmer, won the general election on 4 July 2024.",
+            "Labour won 411 seats, and the Conservatives fell to 121, their worst result ever.",
+            "The Liberal Democrats and Reform UK also made big gains.",
+            "It ended 14 years of Conservative government."
+          ]
+        },
+        {
+          "name": "Burnham becomes Prime Minister",
+          "dates": "2026",
+          "facts": [
+            "Andy Burnham, the Mayor of Greater Manchester, won the Makerfield by-election held on 18 June 2026.",
+            "Keir Starmer announced his resignation on 22 June 2026, after pressure from within Labour.",
+            "Burnham was elected Labour leader unopposed on 17 July 2026.",
+            "He became Prime Minister on 20 July 2026."
+          ]
+        }
+      ]
+    }
+  ]
+}
