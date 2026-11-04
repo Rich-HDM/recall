@@ -1,0 +1,670 @@
+{
+  "groups": [
+    {
+      "name": "Founding era",
+      "dates": "1789 – 1825",
+      "colour": "blue",
+      "items": [
+        {
+          "name": "1. George Washington",
+          "dates": "1789 – 1797",
+          "tag": "Independent",
+          "facts": [
+            "Commanded the Continental Army in the War of Independence before becoming the first President in 1789.",
+            "Elected unanimously by the Electoral College in 1789 and again in 1792.",
+            "Led troops in person to put down the Whiskey Rebellion in Pennsylvania in 1794.",
+            "Signed the Jay Treaty with Britain in 1795, which was deeply unpopular at home.",
+            "His Farewell Address of 1796 warned against party divisions and permanent foreign alliances.",
+            "Refused a third term and retired to Mount Vernon in 1797, setting a two-term custom.",
+            "His vice president was John Adams, who succeeded him."
+          ]
+        },
+        {
+          "name": "2. John Adams",
+          "dates": "1797 – 1801",
+          "tag": "Federalist",
+          "facts": [
+            "Washington's vice president, and the first President to lose a bid for re-election.",
+            "Signed the Alien and Sedition Acts in 1798, which punished criticism of the government.",
+            "Fought an undeclared naval Quasi-War with France from 1798 to 1800.",
+            "First President to live in the White House, moving in in November 1800.",
+            "Lost the bitter election of 1800 to his own vice president, Thomas Jefferson.",
+            "Died on 4 July 1826, the same day as Jefferson, 50 years after independence."
+          ]
+        },
+        {
+          "name": "3. Thomas Jefferson",
+          "dates": "1801 – 1809",
+          "tag": "Democratic-Republican",
+          "facts": [
+            "Wrote the Declaration of Independence in 1776, long before becoming President.",
+            "The election of 1800 ended in a tie with Aaron Burr, so the House of Representatives chose Jefferson.",
+            "Bought the Louisiana Territory from France in 1803, doubling the size of the country.",
+            "Sent Lewis and Clark to explore the West from 1804 to 1806.",
+            "Fought the First Barbary War against pirates in North Africa from 1801 to 1805.",
+            "The Embargo Act of 1807 banned foreign trade and badly damaged the economy.",
+            "His vice president Aaron Burr shot and killed Alexander Hamilton in a duel in 1804."
+          ]
+        },
+        {
+          "name": "4. James Madison",
+          "dates": "1809 – 1817",
+          "tag": "Democratic-Republican",
+          "facts": [
+            "Called the Father of the Constitution for his work at the convention of 1787.",
+            "Led the country into the War of 1812 against Britain.",
+            "British troops burned the White House and the Capitol in August 1814.",
+            "The Treaty of Ghent ended the war in December 1814 with no change of borders.",
+            "Signed the charter of the Second Bank of the United States in 1816.",
+            "His wife Dolley Madison is famous for saving a portrait of Washington from the burning White House."
+          ]
+        },
+        {
+          "name": "5. James Monroe",
+          "dates": "1817 – 1825",
+          "tag": "Democratic-Republican",
+          "facts": [
+            "His presidency is known as the Era of Good Feelings because party conflict had faded.",
+            "The Panic of 1819 was the first major financial crisis of the United States.",
+            "Acquired Florida from Spain under the Adams-Onis Treaty of 1819.",
+            "Signed the Missouri Compromise in 1820, balancing slave states and free states.",
+            "Ran almost unopposed for re-election in 1820, winning all but one electoral vote.",
+            "The Monroe Doctrine of 1823 warned European powers not to colonise the Americas.",
+            "Died on 4 July 1831, the third President to die on Independence Day."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Jacksonian and antebellum",
+      "dates": "1825 – 1861",
+      "colour": "orange",
+      "items": [
+        {
+          "name": "6. John Quincy Adams",
+          "dates": "1825 – 1829",
+          "tag": "Democratic-Republican",
+          "facts": [
+            "Son of John Adams, the second President.",
+            "No candidate won a majority in 1824, so the House of Representatives chose him over Andrew Jackson.",
+            "Jackson's supporters called it a \"corrupt bargain\" when Henry Clay became his Secretary of State.",
+            "As Monroe's Secretary of State he had drafted the Monroe Doctrine and won Florida from Spain.",
+            "Lost heavily to Jackson in 1828.",
+            "Later served 17 years in the House of Representatives, fighting slavery, and collapsed at his desk there in 1848."
+          ]
+        },
+        {
+          "name": "7. Andrew Jackson",
+          "dates": "1829 – 1837",
+          "tag": "Democratic",
+          "facts": [
+            "A general who beat the British at the Battle of New Orleans in January 1815.",
+            "First President from the Democratic Party, which formed around him.",
+            "Signed the Indian Removal Act in 1830, leading to the Trail of Tears.",
+            "Vetoed the renewal of the Second Bank of the United States in 1832 and withdrew its funds.",
+            "Faced the Nullification Crisis of 1832 when South Carolina rejected federal tariffs.",
+            "Paid off the entire national debt in 1835, the only time this has ever happened.",
+            "Survived the first assassination attempt on a President in 1835 when both pistols misfired."
+          ]
+        },
+        {
+          "name": "8. Martin Van Buren",
+          "dates": "1837 – 1841",
+          "tag": "Democratic",
+          "facts": [
+            "Jackson's vice president and chosen successor, nicknamed the Little Magician.",
+            "First President born a United States citizen rather than a British subject.",
+            "Grew up speaking Dutch in Kinderhook, New York; English was his second language.",
+            "The Panic of 1837 struck weeks after he took office and caused a long depression.",
+            "The Cherokee were forced west on the Trail of Tears in 1838, during his term.",
+            "Set up an independent Treasury in 1840 to keep government money out of private banks.",
+            "Lost to William Henry Harrison in 1840 and later ran for the Free Soil Party in 1848."
+          ]
+        },
+        {
+          "name": "9. William Henry Harrison",
+          "dates": "1841",
+          "tag": "Whig",
+          "facts": [
+            "Won fame beating Tecumseh's warriors at the Battle of Tippecanoe in 1811.",
+            "Won in 1840 with the slogan \"Tippecanoe and Tyler Too\" and a log cabin campaign.",
+            "Gave the longest inaugural address in history, nearly two hours, in cold weather.",
+            "Died of illness on 4 April 1841, just 31 days into his term, the first President to die in office.",
+            "His grandson Benjamin Harrison became the 23rd President."
+          ]
+        },
+        {
+          "name": "10. John Tyler",
+          "dates": "1841 – 1845",
+          "tag": "Whig",
+          "facts": [
+            "First vice president to take over after a President's death, in 1841.",
+            "Insisted he was fully President, not just acting, setting the precedent for all later successions.",
+            "Expelled from the Whig Party in 1841 after vetoing its bank bills.",
+            "Signed the annexation of Texas in the last days of his term in 1845.",
+            "Fathered 15 children, more than any other President."
+          ]
+        },
+        {
+          "name": "11. James K. Polk",
+          "dates": "1845 – 1849",
+          "tag": "Democratic",
+          "facts": [
+            "A dark horse candidate in 1844 who promised to serve only one term and kept his word.",
+            "Settled the Oregon border with Britain at the 49th parallel in 1846.",
+            "Led the Mexican-American War from 1846 to 1848.",
+            "The Treaty of Guadalupe Hidalgo in 1848 gained California and the South West from Mexico.",
+            "Gold was discovered in California in 1848, during his term.",
+            "Died of cholera in June 1849, only three months after leaving office."
+          ]
+        },
+        {
+          "name": "12. Zachary Taylor",
+          "dates": "1849 – 1850",
+          "tag": "Whig",
+          "facts": [
+            "A career soldier nicknamed Old Rough and Ready, who won battles in the Mexican-American War.",
+            "Had never voted in a presidential election before running in 1848.",
+            "Opposed the spread of slavery to new territories, despite owning slaves himself.",
+            "Died suddenly in July 1850, probably of a stomach illness, after about 16 months in office.",
+            "Second President to die in office; his vice president Millard Fillmore took over."
+          ]
+        },
+        {
+          "name": "13. Millard Fillmore",
+          "dates": "1850 – 1853",
+          "tag": "Whig",
+          "facts": [
+            "Became President when Zachary Taylor died in July 1850.",
+            "Signed the Compromise of 1850, including the hated Fugitive Slave Act.",
+            "Sent Commodore Perry's fleet to Japan in 1852 to open it to trade.",
+            "The last Whig President; he ran again in 1856 for the Know Nothing Party."
+          ]
+        },
+        {
+          "name": "14. Franklin Pierce",
+          "dates": "1853 – 1857",
+          "tag": "Democratic",
+          "facts": [
+            "His only surviving son was killed in a train crash weeks before his inauguration in 1853.",
+            "The Gadsden Purchase of 1853 bought land from Mexico for a southern railway route.",
+            "Signed the Kansas-Nebraska Act of 1854, which let settlers vote on slavery and sparked \"Bleeding Kansas\".",
+            "His own party refused to nominate him again in 1856."
+          ]
+        },
+        {
+          "name": "15. James Buchanan",
+          "dates": "1857 – 1861",
+          "tag": "Democratic",
+          "facts": [
+            "The only President who never married.",
+            "The Supreme Court's Dred Scott decision came two days after his inauguration in 1857.",
+            "The Panic of 1857 brought a sharp economic downturn.",
+            "Seven Southern states left the Union after Lincoln's election, between December 1860 and February 1861, and he took no action.",
+            "Often ranked as the worst President for failing to prevent the Civil War."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Civil War and Reconstruction",
+      "dates": "1861 – 1877",
+      "colour": "red",
+      "items": [
+        {
+          "name": "16. Abraham Lincoln",
+          "dates": "1861 – 1865",
+          "tag": "Republican",
+          "facts": [
+            "First Republican President, elected in 1860; Southern states seceded before he took office.",
+            "The Civil War began when Confederates fired on Fort Sumter in April 1861.",
+            "Signed the Homestead Act and the Pacific Railway Act in 1862.",
+            "Issued the Emancipation Proclamation on 1 January 1863, freeing slaves in rebel states.",
+            "Gave the Gettysburg Address in November 1863: \"government of the people, by the people, for the people\".",
+            "Re-elected in 1864 on a National Union ticket with Andrew Johnson, a Southern Democrat.",
+            "Shot by John Wilkes Booth at Ford's Theatre on 14 April 1865, days after Lee surrendered, and died the next morning."
+          ]
+        },
+        {
+          "name": "17. Andrew Johnson",
+          "dates": "1865 – 1869",
+          "tag": "National Union",
+          "facts": [
+            "A Tennessee Democrat who stayed loyal to the Union and became Lincoln's vice president in 1865.",
+            "Took office when Lincoln was assassinated in April 1865.",
+            "Clashed with Radical Republicans in Congress over Reconstruction and the rights of freed slaves.",
+            "Vetoed the Civil Rights Act of 1866, but Congress overrode him.",
+            "Alaska was bought from Russia for 7.2 million dollars in 1867, mocked as \"Seward's Folly\".",
+            "First President to be impeached, in 1868; the Senate acquitted him by a single vote.",
+            "Returned to the Senate in 1875, the only former President to do so."
+          ]
+        },
+        {
+          "name": "18. Ulysses S. Grant",
+          "dates": "1869 – 1877",
+          "tag": "Republican",
+          "facts": [
+            "The Union general who accepted Lee's surrender at Appomattox in April 1865.",
+            "The first transcontinental railway was completed in May 1869.",
+            "Signed the Fifteenth Amendment, protecting Black men's right to vote, ratified in 1870.",
+            "Used the Enforcement Acts of 1870 and 1871 to crush the Ku Klux Klan.",
+            "The Panic of 1873 began a long economic depression.",
+            "His second term was marked by scandals, including the Whiskey Ring in 1875.",
+            "Wrote his famous memoirs while dying of throat cancer, finishing days before his death in 1885."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Gilded Age",
+      "dates": "1877 – 1901",
+      "colour": "amber",
+      "items": [
+        {
+          "name": "19. Rutherford B. Hayes",
+          "dates": "1877 – 1881",
+          "tag": "Republican",
+          "facts": [
+            "Won the disputed election of 1876 by one electoral vote after a special commission ruled in his favour.",
+            "The Compromise of 1877 gave him the presidency in exchange for withdrawing federal troops from the South.",
+            "That withdrawal ended Reconstruction.",
+            "Sent federal troops to break the Great Railroad Strike of 1877.",
+            "Banned alcohol from the White House; his wife was nicknamed \"Lemonade Lucy\".",
+            "Kept his promise to serve only one term and did not run in 1880."
+          ]
+        },
+        {
+          "name": "20. James A. Garfield",
+          "dates": "1881",
+          "tag": "Republican",
+          "facts": [
+            "Nominated in 1880 as a compromise candidate on the 36th ballot of a deadlocked convention.",
+            "Shot by Charles Guiteau, a disappointed office-seeker, at a Washington railway station in July 1881.",
+            "Lingered for 79 days as doctors probed the wound with unwashed hands, and died in September 1881.",
+            "Alexander Graham Bell tried and failed to find the bullet with a metal detector.",
+            "Served only 200 days, the second shortest presidency.",
+            "His murder led to the Pendleton Act of 1883, which reformed the civil service."
+          ]
+        },
+        {
+          "name": "21. Chester A. Arthur",
+          "dates": "1881 – 1885",
+          "tag": "Republican",
+          "facts": [
+            "Became President when Garfield died in September 1881.",
+            "Had been a New York machine politician, but surprised critics by backing reform.",
+            "Signed the Chinese Exclusion Act of 1882, the first law banning immigration by nationality.",
+            "Signed the Pendleton Civil Service Reform Act in 1883, ending the spoils system for many jobs.",
+            "Kept his kidney disease secret, did not seek a full term, and died in 1886."
+          ]
+        },
+        {
+          "name": "22. Grover Cleveland",
+          "dates": "1885 – 1889",
+          "tag": "Democratic",
+          "facts": [
+            "First Democrat elected President since the Civil War, in 1884.",
+            "Won despite a scandal over fathering a child outside marriage; opponents chanted \"Ma, Ma, where's my Pa?\"",
+            "Married 21-year-old Frances Folsom in the White House in 1886, the only President to wed there.",
+            "Signed the Interstate Commerce Act of 1887, the first federal regulation of railways.",
+            "Vetoed more bills in his first term than all previous Presidents put together.",
+            "Won the popular vote in 1888 but lost the Electoral College to Benjamin Harrison."
+          ]
+        },
+        {
+          "name": "23. Benjamin Harrison",
+          "dates": "1889 – 1893",
+          "tag": "Republican",
+          "facts": [
+            "Grandson of William Henry Harrison, the ninth President.",
+            "Lost the popular vote in 1888 but won in the Electoral College.",
+            "Six new states joined in 1889 and 1890: the two Dakotas, Montana, Washington, Idaho and Wyoming.",
+            "Signed the Sherman Antitrust Act in 1890, the first federal law against monopolies.",
+            "Signed the McKinley Tariff of 1890, which raised import duties to record levels.",
+            "Electricity was installed in the White House in 1891; the family feared touching the switches.",
+            "Lost the 1892 rematch to Grover Cleveland."
+          ]
+        },
+        {
+          "name": "24. Grover Cleveland",
+          "dates": "1893 – 1897",
+          "tag": "Democratic",
+          "facts": [
+            "Beat Benjamin Harrison in 1892 to return to office; the Panic of 1893 struck weeks later and caused a deep depression.",
+            "Had secret surgery for mouth cancer on a yacht in 1893 to avoid alarming the public.",
+            "Sent federal troops to break the Pullman railway strike in 1894."
+          ]
+        },
+        {
+          "name": "25. William McKinley",
+          "dates": "1897 – 1901",
+          "tag": "Republican",
+          "facts": [
+            "Won in 1896 against William Jennings Bryan, who campaigned for free silver.",
+            "Led the Spanish-American War of 1898 after the battleship Maine blew up in Havana harbour.",
+            "The USA gained Puerto Rico, Guam and the Philippines from Spain, and annexed Hawaii in 1898.",
+            "Signed the Gold Standard Act in 1900.",
+            "Shot by anarchist Leon Czolgosz at the Pan-American Exposition in Buffalo in September 1901 and died eight days later.",
+            "Third President assassinated; Theodore Roosevelt took over."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Progressive era and World Wars",
+      "dates": "1901 – 1945",
+      "colour": "teal",
+      "items": [
+        {
+          "name": "26. Theodore Roosevelt",
+          "dates": "1901 – 1909",
+          "tag": "Republican",
+          "facts": [
+            "Became President at 42 when McKinley was assassinated in 1901, the youngest ever.",
+            "A \"trust buster\" who broke up big monopolies such as Northern Securities in 1904.",
+            "Began building the Panama Canal after backing Panama's independence from Colombia in 1903.",
+            "Won the Nobel Peace Prize in 1906 for ending the Russo-Japanese War.",
+            "Signed the Pure Food and Drug Act and the Meat Inspection Act in 1906.",
+            "Created national parks, forests and monuments, protecting about 230 million acres.",
+            "Ran again in 1912 for his own Progressive \"Bull Moose\" Party, splitting the Republican vote."
+          ]
+        },
+        {
+          "name": "27. William Howard Taft",
+          "dates": "1909 – 1913",
+          "tag": "Republican",
+          "facts": [
+            "Roosevelt's chosen successor and the heaviest President, weighing well over 20 stone.",
+            "Brought more antitrust cases than Roosevelt; Standard Oil was broken up in 1911.",
+            "Congress passed the Sixteenth Amendment allowing a federal income tax in 1909; it was ratified in 1913.",
+            "Came third in the 1912 election behind Wilson and Roosevelt, who had split from him.",
+            "Later became Chief Justice of the Supreme Court from 1921 to 1930, the only person to hold both offices."
+          ]
+        },
+        {
+          "name": "28. Woodrow Wilson",
+          "dates": "1913 – 1921",
+          "tag": "Democratic",
+          "facts": [
+            "Won in 1912 when Roosevelt and Taft split the Republican vote.",
+            "Created the Federal Reserve in 1913 and signed the Clayton Antitrust Act in 1914.",
+            "Kept the USA out of the First World War until April 1917, after German submarine attacks and the Zimmermann Telegram.",
+            "Set out his Fourteen Points for peace in January 1918 and championed the League of Nations.",
+            "The Senate rejected the Treaty of Versailles in 1919 and 1920, so the USA never joined the League.",
+            "Suffered a severe stroke in October 1919; his wife Edith hid how ill he was.",
+            "The Nineteenth Amendment gave women the vote in 1920."
+          ]
+        },
+        {
+          "name": "29. Warren G. Harding",
+          "dates": "1921 – 1923",
+          "tag": "Republican",
+          "facts": [
+            "Won a landslide in 1920 promising a \"return to normalcy\" after the war.",
+            "His administration was riddled with corruption, most famously the Teapot Dome oil scandal.",
+            "Died suddenly in San Francisco in August 1923, probably of a heart attack.",
+            "His vice president Calvin Coolidge was sworn in by lamplight by his own father, a notary."
+          ]
+        },
+        {
+          "name": "30. Calvin Coolidge",
+          "dates": "1923 – 1929",
+          "tag": "Republican",
+          "facts": [
+            "Became President when Harding died in August 1923 and won his own term in 1924.",
+            "Nicknamed \"Silent Cal\" for saying very little.",
+            "Signed the Immigration Act of 1924, which sharply limited immigration using national quotas.",
+            "Said in 1925 that \"the chief business of the American people is business\".",
+            "Cut taxes and kept government small during the boom of the Roaring Twenties.",
+            "Chose not to run in 1928 with the words \"I do not choose to run\"."
+          ]
+        },
+        {
+          "name": "31. Herbert Hoover",
+          "dates": "1929 – 1933",
+          "tag": "Republican",
+          "facts": [
+            "A mining engineer who had organised food relief for Europe during and after the First World War.",
+            "The Wall Street Crash of October 1929 struck eight months after he took office.",
+            "Signed the Smoot-Hawley Tariff in 1930, which worsened the world depression.",
+            "Shanty towns of the homeless were nicknamed \"Hoovervilles\".",
+            "Sent the army to clear the Bonus Army of veterans from Washington in 1932.",
+            "Lost in a landslide to Franklin Roosevelt in 1932."
+          ]
+        },
+        {
+          "name": "32. Franklin D. Roosevelt",
+          "dates": "1933 – 1945",
+          "tag": "Democratic",
+          "facts": [
+            "Elected four times, from 1932 to 1944, more than any other President.",
+            "Paralysed by polio in 1921, he used a wheelchair for the rest of his life.",
+            "Launched the New Deal in 1933 to fight the Great Depression, declaring \"the only thing we have to fear is fear itself\".",
+            "Signed the Social Security Act in 1935.",
+            "Led the USA into the Second World War after Japan attacked Pearl Harbor on 7 December 1941.",
+            "Met Churchill and Stalin at Yalta in February 1945.",
+            "Died of a brain haemorrhage at Warm Springs, Georgia, in April 1945, weeks before Germany surrendered."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cold War",
+      "dates": "1945 – 1989",
+      "colour": "purple",
+      "items": [
+        {
+          "name": "33. Harry S. Truman",
+          "dates": "1945 – 1953",
+          "tag": "Democratic",
+          "facts": [
+            "Became President when Roosevelt died in April 1945, after only 82 days as vice president.",
+            "Ordered the atomic bombing of Hiroshima and Nagasaki in August 1945, ending the war with Japan.",
+            "The Truman Doctrine of 1947 and the Marshall Plan of 1948 aimed to contain communism.",
+            "Ordered the Berlin Airlift in 1948 and helped found NATO in 1949.",
+            "Won a surprise victory in 1948; the Chicago Tribune wrongly printed \"Dewey Defeats Truman\".",
+            "Sent US troops to the Korean War in 1950 and sacked General MacArthur in 1951.",
+            "Kept a sign on his desk reading \"The buck stops here\"."
+          ]
+        },
+        {
+          "name": "34. Dwight D. Eisenhower",
+          "dates": "1953 – 1961",
+          "tag": "Republican",
+          "facts": [
+            "Supreme Allied Commander who led the D-Day landings in June 1944.",
+            "Ended the Korean War with an armistice in July 1953.",
+            "Signed the Interstate Highway Act in 1956, creating the national motorway network.",
+            "Sent federal troops to Little Rock, Arkansas, in 1957 to enforce school desegregation.",
+            "Set up NASA in 1958 after the Soviet Union launched Sputnik.",
+            "His farewell address in 1961 warned of the \"military-industrial complex\".",
+            "His vice president was Richard Nixon."
+          ]
+        },
+        {
+          "name": "35. John F. Kennedy",
+          "dates": "1961 – 1963",
+          "tag": "Democratic",
+          "facts": [
+            "At 43, the youngest person elected President, and the first Roman Catholic.",
+            "Said \"ask not what your country can do for you\" in his inaugural address in January 1961.",
+            "The Bay of Pigs invasion of Cuba failed in April 1961.",
+            "Set the goal of landing a man on the Moon by the end of the 1960s.",
+            "Faced down the Soviet Union in the Cuban Missile Crisis of October 1962.",
+            "Said \"Ich bin ein Berliner\" in West Berlin in June 1963.",
+            "Assassinated by Lee Harvey Oswald in Dallas on 22 November 1963."
+          ]
+        },
+        {
+          "name": "36. Lyndon B. Johnson",
+          "dates": "1963 – 1969",
+          "tag": "Democratic",
+          "facts": [
+            "Sworn in aboard Air Force One hours after Kennedy was shot in November 1963.",
+            "Signed the Civil Rights Act of 1964 and the Voting Rights Act of 1965.",
+            "Won in 1964 with 61 per cent of the vote, the largest share in history.",
+            "His Great Society programme created Medicare and Medicaid in 1965.",
+            "Sharply escalated the Vietnam War after the Gulf of Tonkin Resolution in 1964.",
+            "Announced in March 1968 that he would not seek another term as the war grew unpopular."
+          ]
+        },
+        {
+          "name": "37. Richard Nixon",
+          "dates": "1969 – 1974",
+          "tag": "Republican",
+          "facts": [
+            "Eisenhower's vice president, who lost to Kennedy in 1960 and then won in 1968.",
+            "The first Moon landing, Apollo 11, happened in July 1969.",
+            "Set up the Environmental Protection Agency in 1970.",
+            "Visited communist China in February 1972, opening relations after decades of hostility.",
+            "Signed the Paris Peace Accords in January 1973, ending US involvement in Vietnam.",
+            "The Watergate scandal began with a burglary at Democratic headquarters in June 1972.",
+            "Resigned in August 1974 to avoid impeachment, the only President to do so."
+          ]
+        },
+        {
+          "name": "38. Gerald Ford",
+          "dates": "1974 – 1977",
+          "tag": "Republican",
+          "facts": [
+            "Appointed vice president in 1973 when Spiro Agnew resigned, so he was never elected to either office.",
+            "Became President when Nixon resigned in August 1974.",
+            "Pardoned Nixon a month later, which badly damaged his popularity.",
+            "Saigon fell to North Vietnam in April 1975, ending the Vietnam War.",
+            "Survived two assassination attempts in September 1975, both by women in California.",
+            "Lost narrowly to Jimmy Carter in 1976."
+          ]
+        },
+        {
+          "name": "39. Jimmy Carter",
+          "dates": "1977 – 1981",
+          "tag": "Democratic",
+          "facts": [
+            "A peanut farmer and former Governor of Georgia.",
+            "Signed treaties in 1977 handing the Panama Canal to Panama by the end of 1999.",
+            "Brokered the Camp David Accords between Egypt and Israel in 1978.",
+            "The Iran hostage crisis began in November 1979 and lasted 444 days.",
+            "High inflation and petrol shortages marked his term; he gave the \"crisis of confidence\" speech in 1979.",
+            "Lost in a landslide to Reagan in 1980 and later won the Nobel Peace Prize in 2002.",
+            "Died in December 2024 aged 100, the longest-lived President."
+          ]
+        },
+        {
+          "name": "40. Ronald Reagan",
+          "dates": "1981 – 1989",
+          "tag": "Republican",
+          "facts": [
+            "A former Hollywood actor and Governor of California, aged 69 when elected.",
+            "Shot by John Hinckley in March 1981, just 69 days into his term, and recovered.",
+            "Cut taxes sharply in 1981, a policy known as \"Reaganomics\".",
+            "Called the Soviet Union an \"evil empire\" in 1983 and launched the Star Wars missile defence plan.",
+            "The Iran-Contra scandal of 1986 revealed secret arms sales to Iran to fund Nicaraguan rebels.",
+            "Said \"Mr Gorbachev, tear down this wall!\" in Berlin in June 1987.",
+            "Signed the INF Treaty with Gorbachev in 1987 to scrap intermediate-range nuclear missiles."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Modern",
+      "dates": "1989 – present",
+      "colour": "green",
+      "items": [
+        {
+          "name": "41. George H. W. Bush",
+          "dates": "1989 – 1993",
+          "tag": "Republican",
+          "facts": [
+            "Reagan's vice president, and before that ambassador to the UN and director of the CIA.",
+            "The Berlin Wall fell in November 1989 and the Soviet Union collapsed in 1991.",
+            "Sent troops to Panama in December 1989 to remove Manuel Noriega.",
+            "Signed the Americans with Disabilities Act in 1990.",
+            "Led the Gulf War coalition that drove Iraq out of Kuwait in early 1991.",
+            "Broke his 1988 pledge \"Read my lips: no new taxes\" and lost to Bill Clinton in 1992.",
+            "His son George W. Bush became the 43rd President."
+          ]
+        },
+        {
+          "name": "42. Bill Clinton",
+          "dates": "1993 – 2001",
+          "tag": "Democratic",
+          "facts": [
+            "Former Governor of Arkansas who beat Bush in 1992, helped by Ross Perot's third-party run.",
+            "Signed the North American Free Trade Agreement, NAFTA, in 1993.",
+            "His health care reform plan, led by Hillary Clinton, failed in 1994.",
+            "Helped broker the Good Friday Agreement in Northern Ireland in 1998.",
+            "Oversaw a long economic boom and the first budget surpluses since 1969.",
+            "Impeached by the House in December 1998 over the Monica Lewinsky affair; acquitted by the Senate in 1999.",
+            "Led NATO's bombing of Serbia over Kosovo in 1999."
+          ]
+        },
+        {
+          "name": "43. George W. Bush",
+          "dates": "2001 – 2009",
+          "tag": "Republican",
+          "facts": [
+            "Won the 2000 election after a Supreme Court ruling ended the Florida recount, despite losing the popular vote.",
+            "The 11 September 2001 attacks killed nearly 3,000 people and defined his presidency.",
+            "Invaded Afghanistan in October 2001 and Iraq in March 2003.",
+            "Signed the Patriot Act in 2001 and created the Department of Homeland Security in 2002.",
+            "Signed the No Child Left Behind education law in 2002.",
+            "Hurricane Katrina devastated New Orleans in 2005 and the response was widely criticised.",
+            "The financial crisis of 2008 led to a 700 billion dollar bank bailout."
+          ]
+        },
+        {
+          "name": "44. Barack Obama",
+          "dates": "2009 – 2017",
+          "tag": "Democratic",
+          "facts": [
+            "The first Black President, elected in 2008 over John McCain.",
+            "Signed a 787 billion dollar stimulus package in 2009 to fight the Great Recession.",
+            "Won the Nobel Peace Prize in 2009.",
+            "Signed the Affordable Care Act, known as Obamacare, in March 2010.",
+            "Ordered the raid that killed Osama bin Laden in Pakistan in May 2011.",
+            "Agreed the Iran nuclear deal and the Paris climate agreement in 2015.",
+            "Restored diplomatic relations with Cuba in 2015."
+          ]
+        },
+        {
+          "name": "45. Donald Trump",
+          "dates": "2017 – 2021",
+          "tag": "Republican",
+          "facts": [
+            "A property developer and TV star, the first President with no previous political or military office.",
+            "Beat Hillary Clinton in 2016 while losing the popular vote.",
+            "Signed large tax cuts in December 2017.",
+            "Imposed tariffs on China, starting a trade war in 2018.",
+            "The Covid-19 pandemic struck in 2020; Operation Warp Speed produced vaccines by the end of the year.",
+            "Lost to Joe Biden in 2020 and refused to accept the result; supporters stormed the Capitol on 6 January 2021.",
+            "Impeached twice, in 2019 over Ukraine and in 2021 after the Capitol riot, and acquitted both times."
+          ]
+        },
+        {
+          "name": "46. Joe Biden",
+          "dates": "2021 – 2025",
+          "tag": "Democratic",
+          "facts": [
+            "Obama's vice president and, at 78, the oldest person to become President.",
+            "His vice president Kamala Harris was the first woman to hold the office.",
+            "Withdrew US troops from Afghanistan in August 2021 as the Taliban retook Kabul.",
+            "Signed a 1.2 trillion dollar infrastructure law in 2021 and the Inflation Reduction Act in 2022.",
+            "Sent large amounts of military aid to Ukraine after Russia's invasion in February 2022.",
+            "Inflation reached a 40-year high of about 9 per cent in 2022.",
+            "Dropped out of the 2024 race in July after a poor debate performance and endorsed Kamala Harris."
+          ]
+        },
+        {
+          "name": "47. Donald Trump",
+          "dates": "2025 – present",
+          "tag": "Republican",
+          "facts": [
+            "Beat Kamala Harris in November 2024, this time winning the popular vote, and returned to office in January 2025.",
+            "The first President since Grover Cleveland to serve two non-consecutive terms, and the first convicted of a felony.",
+            "Imposed sweeping tariffs on most countries in 2025, including the \"Liberation Day\" tariffs of April 2025."
+          ]
+        }
+      ]
+    }
+  ]
+}

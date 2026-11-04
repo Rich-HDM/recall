@@ -1,0 +1,1092 @@
+{
+  "groups": [
+    {
+      "name": "Prehistory and first civilisations",
+      "dates": "to 1000 BC",
+      "colour": "brown",
+      "items": [
+        {
+          "name": "Farming begins",
+          "dates": "c. 10,000 BC",
+          "facts": [
+            "People in the Fertile Crescent (modern Iraq, Syria, Turkey and Israel) began growing wheat and barley.",
+            "They tamed sheep, goats, cattle and pigs.",
+            "Farming started separately in China, Mexico, the Andes and Africa.",
+            "It let people settle in one place, and populations grew."
+          ]
+        },
+        {
+          "name": "First cities in Mesopotamia",
+          "dates": "c. 3500 BC",
+          "facts": [
+            "Uruk, in modern Iraq, was one of the first true cities, with tens of thousands of people.",
+            "Sumerian cities had temples, kings, trade and craftsmen.",
+            "Mesopotamia means the land between the rivers Tigris and Euphrates."
+          ]
+        },
+        {
+          "name": "Writing invented",
+          "dates": "c. 3200 BC",
+          "facts": [
+            "Sumerians pressed marks into wet clay with a reed; this is called cuneiform.",
+            "It began as a way of keeping accounts of grain and animals.",
+            "Egyptian hieroglyphs appeared at about the same time.",
+            "Writing marks the start of recorded history."
+          ]
+        },
+        {
+          "name": "Stonehenge",
+          "dates": "c. 3000 – 2000 BC",
+          "facts": [
+            "The stone circle on Salisbury Plain was built in stages over about 1,000 years.",
+            "The big sarsen stones were raised around 2500 BC.",
+            "The smaller bluestones were brought from Wales, over 200 kilometres away."
+          ]
+        },
+        {
+          "name": "Indus Valley civilisation",
+          "dates": "c. 2600 – 1900 BC",
+          "facts": [
+            "Cities such as Mohenjo-daro and Harappa, in modern Pakistan, had grid streets and drains.",
+            "The people used standard weights and traded with Mesopotamia.",
+            "Their script has never been read."
+          ]
+        },
+        {
+          "name": "Great Pyramid of Giza",
+          "dates": "c. 2560 BC",
+          "facts": [
+            "Built as a tomb for the pharaoh Khufu.",
+            "At about 146 metres it was the tallest building in the world for almost 4,000 years.",
+            "It is the only one of the Seven Wonders of the ancient world still standing."
+          ]
+        },
+        {
+          "name": "Hammurabi's law code",
+          "dates": "c. 1750 BC",
+          "facts": [
+            "Hammurabi, king of Babylon, had nearly 300 laws carved on a tall stone.",
+            "It is one of the oldest surviving law codes.",
+            "A famous rule: an eye for an eye, a tooth for a tooth.",
+            "The stone is now in the Louvre in Paris."
+          ]
+        },
+        {
+          "name": "Shang dynasty in China",
+          "dates": "c. 1600 – 1046 BC",
+          "facts": [
+            "The first Chinese dynasty with written records.",
+            "Kings asked questions of their ancestors on oracle bones, giving the earliest Chinese writing.",
+            "The Shang were skilled makers of bronze vessels.",
+            "They were overthrown by the Zhou in 1046 BC."
+          ]
+        },
+        {
+          "name": "Bronze Age collapse",
+          "dates": "c. 1200 BC",
+          "facts": [
+            "Many cities around the eastern Mediterranean were destroyed or abandoned.",
+            "The Hittite empire fell and Mycenaean Greece went into a dark age.",
+            "Causes may include drought, earthquakes, raiders known as the Sea Peoples and the collapse of trade."
+          ]
+        },
+        {
+          "name": "The Olmecs",
+          "dates": "c. 1200 – 400 BC",
+          "facts": [
+            "The first major civilisation in Mexico and Central America.",
+            "They are famous for carving giant stone heads, some 3 metres tall.",
+            "Later peoples such as the Maya and Aztecs borrowed from Olmec culture."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ancient world",
+      "dates": "1000 – 500 BC",
+      "colour": "amber",
+      "items": [
+        {
+          "name": "Phoenician alphabet",
+          "dates": "c. 1000 BC",
+          "facts": [
+            "The Phoenicians, sea traders from modern Lebanon, used a simple alphabet of 22 letters.",
+            "The Greeks adopted it around 800 BC and added vowels.",
+            "Most alphabets used today, including ours, descend from it."
+          ]
+        },
+        {
+          "name": "First Olympic Games",
+          "dates": "776 BC",
+          "facts": [
+            "Held at Olympia in Greece in honour of the god Zeus.",
+            "The first recorded event was a running race of about 190 metres.",
+            "Games were held every four years for over 1,000 years."
+          ]
+        },
+        {
+          "name": "Rome founded",
+          "dates": "753 BC",
+          "facts": [
+            "According to legend, Rome was founded by Romulus, who killed his twin brother Remus.",
+            "Rome was ruled by kings until 509 BC, when it became a republic.",
+            "The real city grew from villages on hills by the river Tiber."
+          ]
+        },
+        {
+          "name": "Kush rules Egypt",
+          "dates": "c. 750 – 650 BC",
+          "facts": [
+            "Kings from Kush, in modern Sudan, conquered Egypt and ruled as its 25th dynasty.",
+            "Kush built more pyramids than Egypt, many at Meroe.",
+            "The Assyrians drove the Kushites out of Egypt around 660 BC."
+          ]
+        },
+        {
+          "name": "Cyrus founds the Persian Empire",
+          "dates": "550 BC",
+          "facts": [
+            "Cyrus the Great united the Persians and Medes.",
+            "He conquered Babylon in 539 BC and let the exiled Jews return to Jerusalem.",
+            "His successors ruled the largest empire the world had seen, from Egypt to India."
+          ]
+        },
+        {
+          "name": "Confucius",
+          "dates": "551 – 479 BC",
+          "facts": [
+            "A Chinese teacher whose ideas shaped China for 2,000 years.",
+            "He taught respect for elders, duty, good conduct and education.",
+            "His sayings were collected in the Analects."
+          ]
+        },
+        {
+          "name": "The Buddha",
+          "dates": "c. 480 – 400 BC",
+          "facts": [
+            "Siddhartha Gautama, a prince in what is now Nepal, gave up his wealth to seek the end of suffering.",
+            "He became the Buddha, the enlightened one, and taught a middle way between luxury and hardship.",
+            "Buddhism spread across Asia and has hundreds of millions of followers today."
+          ]
+        },
+        {
+          "name": "Democracy in Athens",
+          "dates": "508 BC",
+          "facts": [
+            "Cleisthenes gave all male citizens of Athens a say in government.",
+            "Citizens voted in person in an assembly; women, slaves and foreigners were excluded.",
+            "The word democracy means rule by the people."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Classical world",
+      "dates": "500 BC – 500 AD",
+      "colour": "red",
+      "items": [
+        {
+          "name": "Persian Wars",
+          "dates": "490 – 479 BC",
+          "facts": [
+            "The Greeks defeated two Persian invasions.",
+            "The Athenians won at Marathon in 490 BC.",
+            "In 480 BC, 300 Spartans died at Thermopylae, and the Greek fleet won at Salamis.",
+            "Athens then had a golden age and built the Parthenon."
+          ]
+        },
+        {
+          "name": "Alexander the Great",
+          "dates": "336 – 323 BC",
+          "facts": [
+            "King of Macedon at 20, he conquered the Persian Empire in about ten years.",
+            "His empire stretched from Greece to Egypt and the border of India.",
+            "He died in Babylon aged 32.",
+            "Greek culture spread across the Middle East in his wake."
+          ]
+        },
+        {
+          "name": "Ashoka rules India",
+          "dates": "c. 268 – 232 BC",
+          "facts": [
+            "Ashoka ruled the Mauryan Empire, which covered most of India.",
+            "After a bloody war in Kalinga he turned to Buddhism and non-violence.",
+            "He had his laws and ideas carved on pillars and rocks across India.",
+            "His lion capital is the emblem of modern India."
+          ]
+        },
+        {
+          "name": "Qin unifies China",
+          "dates": "221 BC",
+          "facts": [
+            "Qin Shi Huang conquered the other warring states and became the first emperor of China.",
+            "He standardised writing, weights, coins and the width of cart axles.",
+            "He joined earlier walls to form the first Great Wall.",
+            "He was buried with the Terracotta Army of about 8,000 clay soldiers."
+          ]
+        },
+        {
+          "name": "Han dynasty",
+          "dates": "206 BC – 220 AD",
+          "facts": [
+            "The Han ruled China for 400 years and gave the Chinese people their name.",
+            "Trade along the Silk Road linked China to Persia and Rome.",
+            "Paper-making was perfected in China around 105 AD."
+          ]
+        },
+        {
+          "name": "Julius Caesar killed",
+          "dates": "44 BC",
+          "facts": [
+            "Caesar conquered Gaul (France) and made himself dictator of Rome.",
+            "He was stabbed to death by senators on the Ides of March, 15 March 44 BC.",
+            "After civil war his heir Octavian became Augustus, the first emperor, in 27 BC."
+          ]
+        },
+        {
+          "name": "Jesus of Nazareth",
+          "dates": "c. 4 BC – c. 30 AD",
+          "facts": [
+            "Jesus was born in Judaea, a Roman province, probably a few years before 1 AD.",
+            "He taught for about three years and was crucified under the Roman governor Pontius Pilate.",
+            "His followers founded Christianity, now the world's largest religion.",
+            "Our calendar counts years from his birth."
+          ]
+        },
+        {
+          "name": "Romans invade Britain",
+          "dates": "43 AD",
+          "facts": [
+            "The emperor Claudius sent four legions to conquer Britain.",
+            "Boudica led a revolt in 60 or 61 AD and burned London.",
+            "Hadrian's Wall was built from 122 AD to guard the northern frontier.",
+            "Roman rule lasted until about 410 AD."
+          ]
+        },
+        {
+          "name": "Maya classic period",
+          "dates": "c. 250 – 900",
+          "facts": [
+            "Maya cities such as Tikal flourished in modern Guatemala, Mexico and Belize.",
+            "The Maya had a full writing system, accurate calendars and the idea of zero.",
+            "Most of the big cities were abandoned around 900."
+          ]
+        },
+        {
+          "name": "Constantine and Christianity",
+          "dates": "313",
+          "facts": [
+            "The emperor Constantine made Christianity legal in the Roman Empire.",
+            "He founded a new capital, Constantinople, in 330.",
+            "In 380 Christianity became the official religion of the empire."
+          ]
+        },
+        {
+          "name": "Gupta Empire",
+          "dates": "c. 320 – 550",
+          "facts": [
+            "A golden age of India for art, maths and science.",
+            "Indian mathematicians developed the decimal number system we use today.",
+            "The astronomer Aryabhata worked out that the Earth spins."
+          ]
+        },
+        {
+          "name": "Aksum adopts Christianity",
+          "dates": "c. 330",
+          "facts": [
+            "Aksum, in modern Ethiopia and Eritrea, was a rich trading kingdom.",
+            "King Ezana made it one of the first Christian states.",
+            "Ethiopia has been largely Christian ever since."
+          ]
+        },
+        {
+          "name": "Fall of the Western Roman Empire",
+          "dates": "476",
+          "facts": [
+            "Germanic tribes had been moving into the empire for a century.",
+            "Rome was sacked by the Visigoths in 410 and the Vandals in 455.",
+            "In 476 the last western emperor, Romulus Augustulus, was deposed.",
+            "The eastern empire, based in Constantinople, lasted another 1,000 years."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Middle Ages",
+      "dates": "500 – 1450",
+      "colour": "purple",
+      "items": [
+        {
+          "name": "Tang dynasty",
+          "dates": "618 – 907",
+          "facts": [
+            "China's Tang period was a golden age of poetry, art and trade.",
+            "Its capital Chang'an was probably the biggest city in the world.",
+            "Woodblock printing began in China in this period."
+          ]
+        },
+        {
+          "name": "Muhammad and the birth of Islam",
+          "dates": "622",
+          "facts": [
+            "Muhammad, a merchant from Mecca, taught that there is one God, Allah.",
+            "In 622 he moved to Medina; this move, the Hijra, starts the Muslim calendar.",
+            "By his death in 632 most of Arabia was Muslim.",
+            "Within a century Arab armies ruled from Spain to the borders of India."
+          ]
+        },
+        {
+          "name": "Viking Age",
+          "dates": "793 – 1066",
+          "facts": [
+            "The first big Viking raid in England struck the monastery at Lindisfarne in 793.",
+            "Vikings from Scandinavia raided, traded and settled across Europe.",
+            "Alfred the Great stopped them conquering all of England in 878.",
+            "They reached Iceland, Greenland and, around 1000, North America."
+          ]
+        },
+        {
+          "name": "Charlemagne crowned emperor",
+          "dates": "800",
+          "facts": [
+            "Charlemagne, king of the Franks, united much of western Europe.",
+            "The Pope crowned him emperor in Rome on Christmas Day 800.",
+            "He supported learning and schools.",
+            "Both France and Germany claim him as a founder."
+          ]
+        },
+        {
+          "name": "Song dynasty",
+          "dates": "960 – 1279",
+          "facts": [
+            "Song China developed paper money, the magnetic compass for navigation and gunpowder weapons.",
+            "Movable type printing was invented around 1040.",
+            "The Mongols conquered the Song in 1279."
+          ]
+        },
+        {
+          "name": "Norman Conquest",
+          "dates": "1066",
+          "facts": [
+            "William, Duke of Normandy, defeated King Harold at the Battle of Hastings.",
+            "Harold had just marched south after beating a Viking army at Stamford Bridge.",
+            "The Normans built castles, and French words poured into English.",
+            "The Domesday Book of 1086 recorded who owned what."
+          ]
+        },
+        {
+          "name": "First Crusade",
+          "dates": "1095 – 1099",
+          "facts": [
+            "Pope Urban II called on Christians to take Jerusalem from Muslim rule.",
+            "The crusaders captured Jerusalem in 1099.",
+            "Saladin retook it in 1187, and crusades went on for two centuries."
+          ]
+        },
+        {
+          "name": "Great Zimbabwe",
+          "dates": "c. 1100 – 1450",
+          "facts": [
+            "A stone city in southern Africa, home to perhaps 18,000 people.",
+            "Its rulers grew rich from cattle and the gold trade with the coast.",
+            "The name Zimbabwe comes from a Shona phrase meaning houses of stone."
+          ]
+        },
+        {
+          "name": "Genghis Khan",
+          "dates": "1206",
+          "facts": [
+            "Temujin united the Mongol tribes and took the name Genghis Khan.",
+            "The Mongols built the largest land empire in history, from China to eastern Europe.",
+            "His grandson Kublai Khan ruled China.",
+            "The empire made trade along the Silk Road safer."
+          ]
+        },
+        {
+          "name": "Magna Carta",
+          "dates": "1215",
+          "facts": [
+            "English barons forced King John to seal the Great Charter at Runnymede.",
+            "It said the king must obey the law and could not jail free men without lawful judgment.",
+            "It is seen as a foundation of the rule of law."
+          ]
+        },
+        {
+          "name": "Mansa Musa's pilgrimage",
+          "dates": "1324",
+          "facts": [
+            "Mansa Musa, ruler of the Mali Empire in West Africa, went on pilgrimage to Mecca.",
+            "He gave away so much gold that its price in Cairo fell.",
+            "Timbuktu became a centre of Islamic learning."
+          ]
+        },
+        {
+          "name": "Tenochtitlan founded",
+          "dates": "1325",
+          "facts": [
+            "The Aztecs built their capital on an island in a lake in central Mexico.",
+            "By 1500 it had around 200,000 people, larger than any city in Europe.",
+            "Mexico City now stands on the site."
+          ]
+        },
+        {
+          "name": "Black Death",
+          "dates": "1347 – 1351",
+          "facts": [
+            "Plague spread from Asia along trade routes to Europe.",
+            "It killed around a third to a half of Europe's people.",
+            "It was carried by fleas on rats and by human breath.",
+            "Labour became scarce, so wages rose for the survivors."
+          ]
+        },
+        {
+          "name": "Zheng He's voyages",
+          "dates": "1405 – 1433",
+          "facts": [
+            "The Ming emperor sent admiral Zheng He on seven huge voyages.",
+            "His fleets reached India, Arabia and East Africa.",
+            "His largest ships were far bigger than those of Columbus.",
+            "After 1433 China stopped the voyages."
+          ]
+        },
+        {
+          "name": "Inca Empire expands",
+          "dates": "1438",
+          "facts": [
+            "Under Pachacuti the Incas spread out from Cusco in Peru.",
+            "The empire grew to run 4,000 kilometres along the Andes.",
+            "It had roads, bridges and stores, but no writing or wheels.",
+            "Machu Picchu was built around 1450."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Early modern world",
+      "dates": "1450 – 1750",
+      "colour": "teal",
+      "items": [
+        {
+          "name": "Printing press",
+          "dates": "c. 1450",
+          "facts": [
+            "Johannes Gutenberg in Mainz, Germany, printed with movable metal type.",
+            "His Bible of about 1455 was the first major printed book in Europe.",
+            "Books became cheap and ideas spread fast.",
+            "William Caxton set up the first press in England in 1476."
+          ]
+        },
+        {
+          "name": "Fall of Constantinople",
+          "dates": "1453",
+          "facts": [
+            "The Ottoman Turks under Mehmed II captured the city after a 53-day siege.",
+            "This ended the eastern Roman, or Byzantine, Empire.",
+            "Constantinople, now Istanbul, became the Ottoman capital."
+          ]
+        },
+        {
+          "name": "Columbus reaches the Americas",
+          "dates": "1492",
+          "facts": [
+            "Sailing for Spain, Columbus landed in the Bahamas on 12 October 1492.",
+            "He thought he had reached Asia.",
+            "Europe, Africa and the Americas were linked for the first time, exchanging crops, animals and deadly diseases.",
+            "In the same year Spain conquered Granada, the last Muslim state in Spain."
+          ]
+        },
+        {
+          "name": "Vasco da Gama reaches India",
+          "dates": "1498",
+          "facts": [
+            "The Portuguese sailor found a sea route from Europe round Africa to India.",
+            "Portugal built a trading empire in the Indian Ocean.",
+            "Spices could now reach Europe without passing through Muslim lands."
+          ]
+        },
+        {
+          "name": "The Reformation",
+          "dates": "1517",
+          "facts": [
+            "Martin Luther, a German monk, posted 95 theses attacking the sale of pardons by the Church.",
+            "He said people are saved by faith, and that the Bible, not the Pope, is the authority.",
+            "Western Christianity split into Catholic and Protestant.",
+            "Henry VIII broke with Rome in 1534 and made himself head of the Church of England."
+          ]
+        },
+        {
+          "name": "Spanish conquest of the Aztecs",
+          "dates": "1519 – 1521",
+          "facts": [
+            "Hernán Cortés landed in Mexico with about 500 men.",
+            "He allied with peoples who hated the Aztecs, and smallpox killed many defenders.",
+            "Tenochtitlan fell in 1521 and became Mexico City."
+          ]
+        },
+        {
+          "name": "Mughal Empire founded",
+          "dates": "1526",
+          "facts": [
+            "Babur, descended from Timur and Genghis Khan, defeated the Sultan of Delhi at Panipat.",
+            "The Mughals ruled most of India for two centuries.",
+            "Akbar was tolerant of other faiths; Shah Jahan built the Taj Mahal."
+          ]
+        },
+        {
+          "name": "Spanish conquest of the Incas",
+          "dates": "1532 – 1533",
+          "facts": [
+            "Francisco Pizarro captured the Inca emperor Atahualpa with fewer than 200 men.",
+            "Atahualpa paid a room full of gold as ransom but was killed anyway.",
+            "Spain took over Peru and its silver mines."
+          ]
+        },
+        {
+          "name": "Copernicus",
+          "dates": "1543",
+          "facts": [
+            "Copernicus published a book saying the Earth goes round the Sun.",
+            "Until then most people believed the Earth was the centre of the universe.",
+            "His idea started the Scientific Revolution."
+          ]
+        },
+        {
+          "name": "Atlantic slave trade",
+          "dates": "c. 1500 – 1860s",
+          "facts": [
+            "Over 350 years about 12.5 million Africans were shipped across the Atlantic.",
+            "Around 2 million died on the voyage.",
+            "They were forced to work on sugar, tobacco and cotton plantations.",
+            "Britain was a leading slave-trading nation in the 1700s."
+          ]
+        },
+        {
+          "name": "Spanish Armada",
+          "dates": "1588",
+          "facts": [
+            "Philip II of Spain sent 130 ships to invade England.",
+            "English fireships and storms scattered the fleet.",
+            "Elizabeth I's England was confirmed as a Protestant power."
+          ]
+        },
+        {
+          "name": "Tokugawa shogunate",
+          "dates": "1603",
+          "facts": [
+            "Tokugawa Ieyasu united Japan after a century of civil war.",
+            "The shoguns ruled from Edo, now Tokyo.",
+            "From the 1630s Japan shut itself off from most foreign contact for 200 years."
+          ]
+        },
+        {
+          "name": "Galileo's telescope",
+          "dates": "1610",
+          "facts": [
+            "Galileo turned a telescope to the sky and saw moons orbiting Jupiter.",
+            "This showed that not everything circles the Earth.",
+            "The Church tried him in 1633 and kept him under house arrest for the rest of his life."
+          ]
+        },
+        {
+          "name": "Thirty Years' War",
+          "dates": "1618 – 1648",
+          "facts": [
+            "A war between Catholic and Protestant powers, fought mainly in Germany.",
+            "About a third of the people in some German lands died.",
+            "The Peace of Westphalia in 1648 set up the idea of independent sovereign states."
+          ]
+        },
+        {
+          "name": "English Civil War",
+          "dates": "1642 – 1651",
+          "facts": [
+            "Parliament fought King Charles I over power, money and religion.",
+            "Parliament won and Charles was beheaded in 1649.",
+            "Oliver Cromwell ruled as Lord Protector; the monarchy returned in 1660."
+          ]
+        },
+        {
+          "name": "Newton's Principia",
+          "dates": "1687",
+          "facts": [
+            "Isaac Newton set out his laws of motion and gravity.",
+            "One set of laws explained both falling apples and the orbits of planets.",
+            "He also invented calculus and showed white light is made of colours."
+          ]
+        },
+        {
+          "name": "Glorious Revolution",
+          "dates": "1688",
+          "facts": [
+            "Parliament invited William of Orange to replace the Catholic king James II.",
+            "James fled, and William and Mary took the throne.",
+            "The Bill of Rights of 1689 limited the power of the crown."
+          ]
+        },
+        {
+          "name": "The Enlightenment",
+          "dates": "c. 1680 – 1800",
+          "facts": [
+            "Thinkers such as Locke, Voltaire, Rousseau and Kant argued for reason, science and liberty.",
+            "Ideas of rights and the consent of the governed inspired the American and French revolutions.",
+            "The French Encyclopédie tried to gather all knowledge in one work."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Age of revolutions",
+      "dates": "1750 – 1900",
+      "colour": "blue",
+      "items": [
+        {
+          "name": "Seven Years' War",
+          "dates": "1756 – 1763",
+          "facts": [
+            "A world war between Britain and France and their allies.",
+            "Britain won Canada and much of India; France lost most of its empire.",
+            "Its cost led Britain to tax the American colonies."
+          ]
+        },
+        {
+          "name": "Industrial Revolution",
+          "dates": "c. 1760 – 1840",
+          "facts": [
+            "Britain was the first country to use machines and steam power on a large scale.",
+            "James Watt improved the steam engine in the 1770s.",
+            "People moved from farms to factory towns.",
+            "The Liverpool and Manchester Railway opened in 1830."
+          ]
+        },
+        {
+          "name": "American independence",
+          "dates": "1776",
+          "facts": [
+            "Thirteen British colonies declared independence on 4 July 1776.",
+            "Britain recognised the United States in 1783 after losing the war.",
+            "The US Constitution of 1787 created a republic with an elected president."
+          ]
+        },
+        {
+          "name": "French Revolution",
+          "dates": "1789",
+          "facts": [
+            "Crowds stormed the Bastille prison in Paris on 14 July 1789.",
+            "The revolution ended the monarchy; Louis XVI was guillotined in 1793.",
+            "Its ideals were liberty, equality and fraternity.",
+            "The Terror of 1793 to 1794 killed thousands."
+          ]
+        },
+        {
+          "name": "Haitian Revolution",
+          "dates": "1791 – 1804",
+          "facts": [
+            "Enslaved people in the French colony of Saint-Domingue rose up.",
+            "Led by Toussaint Louverture, they defeated French, British and Spanish forces.",
+            "Haiti became the first state founded by former slaves."
+          ]
+        },
+        {
+          "name": "Napoleon and Waterloo",
+          "dates": "1804 – 1815",
+          "facts": [
+            "Napoleon crowned himself Emperor of the French in 1804.",
+            "He conquered most of Europe but lost an army in Russia in 1812.",
+            "Wellington and Blücher defeated him at Waterloo in 1815.",
+            "He died in exile on St Helena in 1821."
+          ]
+        },
+        {
+          "name": "Abolition of slavery in the British Empire",
+          "dates": "1807 – 1833",
+          "facts": [
+            "Britain banned the slave trade in 1807 after a campaign led by Wilberforce and others.",
+            "Slavery itself was abolished across most of the empire in 1833.",
+            "France abolished slavery in 1848, the USA in 1865 and Brazil in 1888."
+          ]
+        },
+        {
+          "name": "Latin American independence",
+          "dates": "1810 – 1825",
+          "facts": [
+            "Spain's colonies broke away while Spain was weakened by Napoleon.",
+            "Simón Bolívar and José de San Martín led the armies.",
+            "Brazil left Portugal peacefully in 1822."
+          ]
+        },
+        {
+          "name": "Opium Wars",
+          "dates": "1839 – 1860",
+          "facts": [
+            "Britain fought China to keep selling opium there.",
+            "China lost and had to open ports and hand over Hong Kong.",
+            "A century of foreign pressure on China followed."
+          ]
+        },
+        {
+          "name": "Revolutions of 1848",
+          "dates": "1848",
+          "facts": [
+            "Uprisings broke out in France, Germany, Italy, Austria and elsewhere.",
+            "People demanded constitutions, votes and national freedom.",
+            "Most were crushed within a year.",
+            "Marx and Engels published the Communist Manifesto the same year."
+          ]
+        },
+        {
+          "name": "Indian Rebellion",
+          "dates": "1857",
+          "facts": [
+            "Indian soldiers in the East India Company's army rose up against British rule.",
+            "The revolt was put down with great bloodshed.",
+            "In 1858 the British Crown took direct control of India; this was the Raj."
+          ]
+        },
+        {
+          "name": "Darwin's Origin of Species",
+          "dates": "1859",
+          "facts": [
+            "Charles Darwin explained how species evolve by natural selection.",
+            "His ideas came partly from his voyage on HMS Beagle.",
+            "The book changed how people saw life and humanity's place in nature."
+          ]
+        },
+        {
+          "name": "US Civil War",
+          "dates": "1861 – 1865",
+          "facts": [
+            "Eleven southern states left the Union to keep slavery.",
+            "About 620,000 soldiers died, more than in any other American war.",
+            "Lincoln's Union won; slavery was abolished by the 13th Amendment in 1865.",
+            "Lincoln was assassinated in April 1865."
+          ]
+        },
+        {
+          "name": "Unification of Italy",
+          "dates": "1861 – 1870",
+          "facts": [
+            "Garibaldi, Cavour and King Victor Emmanuel II joined the Italian states into one kingdom.",
+            "Rome became the capital in 1870."
+          ]
+        },
+        {
+          "name": "Meiji Restoration",
+          "dates": "1868",
+          "facts": [
+            "Power was returned to the emperor and the shogunate ended.",
+            "Japan modernised fast, copying Western industry, schools and armies.",
+            "By 1905 Japan had defeated Russia in a war."
+          ]
+        },
+        {
+          "name": "Unification of Germany",
+          "dates": "1871",
+          "facts": [
+            "Prussia's chancellor Otto von Bismarck united the German states through three wars.",
+            "The German Empire was declared at Versailles after defeating France.",
+            "A powerful new state changed the balance of Europe."
+          ]
+        },
+        {
+          "name": "Scramble for Africa",
+          "dates": "1884 – 1885",
+          "facts": [
+            "At the Berlin Conference, European powers agreed rules for carving up Africa.",
+            "By 1914 almost all of Africa was under European rule; only Ethiopia and Liberia stayed free.",
+            "Borders were drawn with little regard for the people living there."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Twentieth century",
+      "dates": "1900 – 2000",
+      "colour": "orange",
+      "items": [
+        {
+          "name": "First World War",
+          "dates": "1914 – 1918",
+          "facts": [
+            "The murder of Archduke Franz Ferdinand in Sarajevo set off the war.",
+            "Britain, France and Russia fought Germany, Austria-Hungary and the Ottoman Empire.",
+            "Trench warfare killed millions; about 9 million soldiers died.",
+            "It ended with an armistice on 11 November 1918."
+          ]
+        },
+        {
+          "name": "Russian Revolution",
+          "dates": "1917",
+          "facts": [
+            "The Tsar was overthrown in March 1917.",
+            "In November the Bolsheviks, led by Lenin, seized power.",
+            "The world's first communist state, the Soviet Union, was formed in 1922."
+          ]
+        },
+        {
+          "name": "Spanish flu",
+          "dates": "1918 – 1920",
+          "facts": [
+            "A flu pandemic killed around 50 million people worldwide.",
+            "It killed more people than the First World War.",
+            "It was called Spanish flu because Spain's press reported it freely."
+          ]
+        },
+        {
+          "name": "Great Depression",
+          "dates": "1929",
+          "facts": [
+            "The Wall Street Crash of October 1929 started a world slump.",
+            "Banks failed, trade fell and a quarter of American workers lost their jobs.",
+            "Hardship helped extreme parties, including Hitler's Nazis, who took power in 1933."
+          ]
+        },
+        {
+          "name": "Second World War",
+          "dates": "1939 – 1945",
+          "facts": [
+            "Germany's invasion of Poland on 1 September 1939 began the war.",
+            "It became the deadliest war in history, killing 70 to 85 million people.",
+            "Germany surrendered in May 1945, Japan in August.",
+            "Britain, the USA and the Soviet Union were the main Allies."
+          ]
+        },
+        {
+          "name": "The Holocaust",
+          "dates": "1941 – 1945",
+          "facts": [
+            "Nazi Germany murdered about six million Jews.",
+            "Most were killed in death camps such as Auschwitz or shot in mass killings.",
+            "Roma, disabled people and other groups were also murdered."
+          ]
+        },
+        {
+          "name": "Hiroshima and Nagasaki",
+          "dates": "1945",
+          "facts": [
+            "The USA dropped atomic bombs on Hiroshima on 6 August and Nagasaki on 9 August.",
+            "Around 110,000 people died at once, and many more later from injuries and radiation.",
+            "Japan surrendered on 15 August 1945."
+          ]
+        },
+        {
+          "name": "United Nations founded",
+          "dates": "1945",
+          "facts": [
+            "Fifty countries signed the UN Charter in San Francisco.",
+            "Its aim is to keep peace and help nations work together.",
+            "The Security Council has five permanent members: USA, Russia, China, Britain and France."
+          ]
+        },
+        {
+          "name": "Indian independence and partition",
+          "dates": "1947",
+          "facts": [
+            "Britain left India after a long campaign led by Gandhi and Nehru.",
+            "The land was split into India and Pakistan.",
+            "Up to 15 million people moved, and hundreds of thousands, perhaps a million, were killed."
+          ]
+        },
+        {
+          "name": "Cold War",
+          "dates": "1947 – 1991",
+          "facts": [
+            "The USA and the Soviet Union competed without fighting each other directly.",
+            "Both built thousands of nuclear weapons.",
+            "NATO formed in 1949 and the Warsaw Pact in 1955.",
+            "It ended when the Soviet Union collapsed in 1991."
+          ]
+        },
+        {
+          "name": "State of Israel founded",
+          "dates": "1948",
+          "facts": [
+            "Israel declared independence on 14 May 1948 as British rule in Palestine ended.",
+            "Neighbouring Arab states attacked and lost.",
+            "About 700,000 Palestinians fled or were driven out; they call this the Nakba."
+          ]
+        },
+        {
+          "name": "Chinese Revolution",
+          "dates": "1949",
+          "facts": [
+            "Mao Zedong's communists won the civil war against the Nationalists.",
+            "The People's Republic of China was declared on 1 October 1949.",
+            "The Nationalists fled to Taiwan.",
+            "Mao's Great Leap Forward of 1958 to 1962 caused a famine that killed tens of millions."
+          ]
+        },
+        {
+          "name": "Vietnam War",
+          "dates": "1955 – 1975",
+          "facts": [
+            "Communist North Vietnam fought the South and its American ally.",
+            "The USA sent over 500,000 troops but withdrew in 1973.",
+            "Saigon fell in 1975 and Vietnam was united under communist rule."
+          ]
+        },
+        {
+          "name": "US civil rights movement",
+          "dates": "1955 – 1968",
+          "facts": [
+            "Black Americans campaigned to end segregation and win equal rights.",
+            "Martin Luther King gave his I Have a Dream speech in 1963.",
+            "The Civil Rights Act of 1964 banned segregation.",
+            "King was murdered in 1968."
+          ]
+        },
+        {
+          "name": "Decolonisation of Africa",
+          "dates": "1957 – 1975",
+          "facts": [
+            "Ghana became the first black African colony to win independence, in 1957.",
+            "Seventeen countries became independent in 1960 alone.",
+            "Portugal's colonies were among the last, in 1975."
+          ]
+        },
+        {
+          "name": "Cuban Missile Crisis",
+          "dates": "1962",
+          "facts": [
+            "The USA found Soviet nuclear missiles in Cuba.",
+            "For 13 days in October the world stood on the edge of nuclear war.",
+            "Khrushchev withdrew the missiles; the USA secretly removed its missiles from Turkey."
+          ]
+        },
+        {
+          "name": "Moon landing",
+          "dates": "1969",
+          "facts": [
+            "Neil Armstrong and Buzz Aldrin landed on the Moon on 20 July 1969.",
+            "Armstrong said: that's one small step for man, one giant leap for mankind.",
+            "Twelve people walked on the Moon between 1969 and 1972."
+          ]
+        },
+        {
+          "name": "Fall of the Berlin Wall",
+          "dates": "1989",
+          "facts": [
+            "East Germany opened the wall on 9 November 1989.",
+            "Communist governments across eastern Europe collapsed that year.",
+            "Germany was reunited in 1990."
+          ]
+        },
+        {
+          "name": "World Wide Web",
+          "dates": "1989 – 1991",
+          "facts": [
+            "Tim Berners-Lee, a British scientist at CERN, invented the Web.",
+            "The first website went online in 1991.",
+            "The Web runs on the older internet, which dates from the 1960s and 1970s."
+          ]
+        },
+        {
+          "name": "Soviet Union dissolved",
+          "dates": "1991",
+          "facts": [
+            "The Soviet Union broke up into 15 independent countries on 26 December 1991.",
+            "Gorbachev's reforms had loosened control; a failed coup in August sped the collapse.",
+            "The Cold War was over."
+          ]
+        },
+        {
+          "name": "End of apartheid",
+          "dates": "1994",
+          "facts": [
+            "South Africa held its first election open to all races.",
+            "Nelson Mandela, freed from prison in 1990, became president.",
+            "Apartheid had separated people by race since 1948."
+          ]
+        },
+        {
+          "name": "Rwandan genocide",
+          "dates": "1994",
+          "facts": [
+            "In about 100 days Hutu extremists killed around 800,000 Tutsi and moderate Hutu.",
+            "The world failed to intervene.",
+            "The killing ended when Tutsi-led forces took the country."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Twenty-first century",
+      "dates": "2000 – present",
+      "colour": "green",
+      "items": [
+        {
+          "name": "9/11 attacks",
+          "dates": "2001",
+          "facts": [
+            "Al-Qaeda hijackers flew planes into the World Trade Center and the Pentagon on 11 September 2001.",
+            "Nearly 3,000 people died.",
+            "The USA and its allies invaded Afghanistan within weeks."
+          ]
+        },
+        {
+          "name": "Iraq War",
+          "dates": "2003",
+          "facts": [
+            "A US-led coalition, including Britain, invaded Iraq and removed Saddam Hussein.",
+            "The claimed weapons of mass destruction were never found.",
+            "Years of violence followed."
+          ]
+        },
+        {
+          "name": "Financial crisis",
+          "dates": "2008",
+          "facts": [
+            "A crash in US housing loans spread through the banks.",
+            "Lehman Brothers collapsed in September 2008.",
+            "Governments bailed out banks and the world fell into recession."
+          ]
+        },
+        {
+          "name": "Arab Spring",
+          "dates": "2010 – 2011",
+          "facts": [
+            "Protests began in Tunisia and spread across the Arab world.",
+            "Rulers fell in Tunisia, Egypt and Libya.",
+            "Syria fell into a civil war that killed hundreds of thousands."
+          ]
+        },
+        {
+          "name": "Paris climate agreement",
+          "dates": "2015",
+          "facts": [
+            "Almost every country agreed to limit global warming to well below 2 degrees Celsius.",
+            "Each country set its own targets for cutting emissions.",
+            "Global temperatures have risen by more than 1 degree since 1850."
+          ]
+        },
+        {
+          "name": "Brexit referendum",
+          "dates": "2016",
+          "facts": [
+            "The UK voted to leave the European Union by 52 to 48 per cent.",
+            "Britain had joined in 1973.",
+            "It formally left on 31 January 2020."
+          ]
+        },
+        {
+          "name": "Covid-19 pandemic",
+          "dates": "2020",
+          "facts": [
+            "A new coronavirus spread from Wuhan, China, around the world.",
+            "Countries locked down; schools, shops and borders closed.",
+            "Around 7 million deaths were recorded; the true figure is probably far higher.",
+            "Vaccines were developed within a year."
+          ]
+        },
+        {
+          "name": "Russian invasion of Ukraine",
+          "dates": "2022",
+          "facts": [
+            "Russia launched a full-scale invasion on 24 February 2022.",
+            "Russia had already seized Crimea in 2014.",
+            "It became the biggest war in Europe since 1945."
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+[
+  {
+    "id": "monarchs",
+    "title": "Kings & Queens",
+    "subtitle": "England, then Great Britain · 802 – present",
+    "type": "list",
+    "icon": "crown",
+    "colour": "orange"
+  },
+  {
+    "id": "pms",
+    "title": "Prime Ministers",
+    "subtitle": "United Kingdom · 1721 – present",
+    "type": "list",
+    "icon": "parliament",
+    "colour": "blue"
+  },
+  {
+    "id": "presidents",
+    "title": "US Presidents",
+    "subtitle": "United States · 1789 – present",
+    "type": "list",
+    "icon": "star",
+    "colour": "red"
+  },
+  {
+    "id": "uk",
+    "title": "British Counties",
+    "subtitle": "Ceremonial counties, towns and rivers",
+    "type": "map",
+    "icon": "map",
+    "colour": "green"
+  },
+  {
+    "id": "world",
+    "title": "World Map",
+    "subtitle": "Countries, capitals, seas and lakes",
+    "type": "map",
+    "icon": "globe",
+    "colour": "teal"
+  },
+  {
+    "id": "universe",
+    "title": "The Universe",
+    "subtitle": "bya = billion years ago · mya = million years ago",
+    "type": "list",
+    "icon": "planet",
+    "colour": "purple"
+  },
+  {
+    "id": "world-history",
+    "title": "World History",
+    "subtitle": "Key events across human history",
+    "type": "list",
+    "icon": "hourglass",
+    "colour": "pink"
+  }
+]

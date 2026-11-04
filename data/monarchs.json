@@ -1,0 +1,1037 @@
+{
+ "groups": [
+  {
+   "name": "House of Wessex",
+   "dates": "802 – 1013",
+   "colour": "green",
+   "items": [
+    {
+     "name": "Egbert",
+     "dates": "802 – 839",
+     "facts": [
+      "Became King of Wessex in 802 after years in exile at the court of Charlemagne.",
+      "Defeated the Mercians at the Battle of Ellendun in 825 and took Kent, Surrey, Sussex and Essex.",
+      "In 829 he briefly ruled Mercia too, and the Anglo-Saxon Chronicle calls him a Bretwalda, or overlord of Britain.",
+      "Defeated a joint Viking and Cornish army at Hingston Down in 838.",
+      "Died in 839 and was succeeded by his son Æthelwulf."
+     ]
+    },
+    {
+     "name": "Æthelwulf",
+     "dates": "839 – 858",
+     "facts": [
+      "Son of Egbert; he had ruled Kent for his father before becoming King of Wessex in 839.",
+      "Won a major victory over a Viking army at the Battle of Aclea in 851.",
+      "Went on pilgrimage to Rome in 855, taking his youngest son Alfred with him.",
+      "Married Judith, daughter of the Frankish king Charles the Bald, in 856.",
+      "On his return his son Æthelbald refused to give up power, so the kingdom was shared between them.",
+      "Father of four kings in turn: Æthelbald, Æthelberht, Æthelred I and Alfred the Great.",
+      "Died in 858."
+     ]
+    },
+    {
+     "name": "Æthelbald",
+     "dates": "858 – 860",
+     "facts": [
+      "Eldest surviving son of Æthelwulf.",
+      "Rebelled against his father in 855 while Æthelwulf was away in Rome.",
+      "Married his father's young widow Judith, which shocked the Church.",
+      "Died in 860 after a short reign and was buried at Sherborne."
+     ]
+    },
+    {
+     "name": "Æthelberht",
+     "dates": "860 – 865",
+     "facts": [
+      "Brother of Æthelbald; he had ruled Kent before 860.",
+      "Ruled Wessex and Kent together as one kingdom, instead of dividing them as before.",
+      "Vikings sacked Winchester, the royal city, during his reign.",
+      "Died in 865 and was buried at Sherborne, succeeded by his brother Æthelred."
+     ]
+    },
+    {
+     "name": "Æthelred I",
+     "dates": "865 – 871",
+     "facts": [
+      "Fourth son of Æthelwulf; brother of Æthelberht and of Alfred.",
+      "The Great Heathen Army of Danes landed in East Anglia in 865, the year he became king.",
+      "Fought the Danes with his brother Alfred in several battles in 870 and 871.",
+      "Won the Battle of Ashdown in January 871, but lost other battles that year.",
+      "Died in April 871, and his brother Alfred succeeded him because his own sons were children.",
+      "Buried at Wimborne Minster in Dorset."
+     ]
+    },
+    {
+     "name": "Alfred the Great",
+     "dates": "871 – 899",
+     "facts": [
+      "Youngest son of Æthelwulf; became king in 871 when his brother Æthelred I died.",
+      "Driven into hiding in the marshes of Athelney, Somerset, by a Danish surprise attack in early 878.",
+      "The famous story of Alfred burning the cakes comes from his time hiding at Athelney.",
+      "Defeated the Danish leader Guthrum at the Battle of Edington in May 878.",
+      "Guthrum was baptised, and a treaty divided England, with the Danes keeping the Danelaw.",
+      "Built a network of fortified towns called burhs and reorganised the army and navy.",
+      "Loved learning, translated Latin books into English, and issued a law code.",
+      "The only English king called 'the Great'; died 26 October 899."
+     ]
+    },
+    {
+     "name": "Edward the Elder",
+     "dates": "899 – 924",
+     "facts": [
+      "Son of Alfred the Great.",
+      "His cousin Æthelwold rebelled with Danish help, but was killed at the Battle of the Holme in 902.",
+      "With his sister Æthelflæd, Lady of the Mercians, he conquered the Danish Midlands and East Anglia.",
+      "By 918 he ruled all England south of the Humber.",
+      "Took direct control of Mercia when Æthelflæd died in 918.",
+      "Died at Farndon in Cheshire in 924 and was succeeded by his son Æthelstan."
+     ]
+    },
+    {
+     "name": "Æthelstan",
+     "dates": "924 – 939",
+     "facts": [
+      "Son of Edward the Elder; brought up in Mercia.",
+      "Took York from the Vikings in 927, so he is often called the first King of all England.",
+      "Won the great Battle of Brunanburh in 937 against the Scots, the Strathclyde Britons and the Dublin Vikings.",
+      "Issued many law codes and collected holy relics.",
+      "Married his half-sisters to rulers across Europe.",
+      "Never married and had no children; succeeded by his half-brother Edmund.",
+      "Died at Gloucester in 939 and was buried at Malmesbury Abbey."
+     ]
+    },
+    {
+     "name": "Edmund I",
+     "dates": "939 – 946",
+     "facts": [
+      "Half-brother of Æthelstan; became king aged 18.",
+      "Fought alongside Æthelstan at Brunanburh in 937 as a teenager.",
+      "Lost the north to the Vikings in 939 but recovered the Five Boroughs in 942 and York in 944.",
+      "Invaded Strathclyde in 945 and handed it to King Malcolm I of Scotland as an ally.",
+      "Supported Dunstan and made him Abbot of Glastonbury.",
+      "Stabbed to death at a feast at Pucklechurch, Gloucestershire, on 26 May 946 by a robber named Leofa.",
+      "Succeeded by his brother Eadred, because his sons Eadwig and Edgar were small children."
+     ]
+    },
+    {
+     "name": "Eadred",
+     "dates": "946 – 955",
+     "facts": [
+      "Younger brother of Edmund I and son of Edward the Elder.",
+      "Fought the Viking king Eric Bloodaxe for control of York.",
+      "Eric Bloodaxe was driven out and killed in 954, ending the Viking kingdom of York.",
+      "Suffered from a long illness and could only swallow the juices of his food.",
+      "Relied heavily on Dunstan and on his mother Eadgifu.",
+      "Died at Frome on 23 November 955, unmarried, and was succeeded by his nephew Eadwig."
+     ]
+    },
+    {
+     "name": "Eadwig",
+     "dates": "955 – 959",
+     "facts": [
+      "Eldest son of Edmund I; became king aged about 15.",
+      "The story goes that he left his coronation feast to be with a young woman, Ælfgifu, and her mother.",
+      "Dunstan dragged him back to the feast, and Eadwig sent Dunstan into exile.",
+      "He married Ælfgifu, but Archbishop Oda annulled the marriage in 958 because they were too closely related.",
+      "In 957 the Mercians and Northumbrians chose his brother Edgar as their king, splitting the kingdom at the Thames.",
+      "Died on 1 October 959, aged about 19, and Edgar reunited the kingdom."
+     ]
+    },
+    {
+     "name": "Edgar the Peaceful",
+     "dates": "959 – 975",
+     "facts": [
+      "Younger son of Edmund I; king north of the Thames from 957 and of all England from 959.",
+      "His reign was free of Viking attacks, which is why he is called 'the Peaceful'.",
+      "Backed the monastic reform led by Dunstan, Æthelwold and Oswald, making Dunstan Archbishop of Canterbury.",
+      "Crowned at Bath in 973 in a ceremony that became the model for later English coronations.",
+      "After the coronation, several British kings rowed him along the River Dee at Chester as a sign of submission.",
+      "Reformed the coinage in about 973 so that the whole kingdom used one standard currency.",
+      "Father of Edward the Martyr and Æthelred the Unready by different wives.",
+      "Died on 8 July 975, aged only about 32."
+     ]
+    },
+    {
+     "name": "Edward the Martyr",
+     "dates": "975 – 978",
+     "facts": [
+      "Eldest son of Edgar; his succession was disputed by supporters of his young half-brother Æthelred.",
+      "Dunstan backed Edward, but his short reign saw a backlash against the reformed monasteries.",
+      "Murdered at Corfe in Dorset on 18 March 978 while visiting his stepmother Ælfthryth and Æthelred.",
+      "Later writers blamed Ælfthryth, Æthelred's mother, for the killing.",
+      "Miracles were reported at his tomb; his body was moved to Shaftesbury Abbey in 979 and he became a saint."
+     ]
+    },
+    {
+     "name": "Æthelred the Unready",
+     "dates": "978 – 1013",
+     "facts": [
+      "Son of Edgar and Ælfthryth; became king aged about 10 after the murder of his half-brother Edward.",
+      "'Unready' comes from Old English 'unræd', meaning 'bad counsel', a pun on his name, which means 'noble counsel'.",
+      "Viking raids began again; the English were beaten at the Battle of Maldon in 991, remembered in a famous poem.",
+      "Paid huge sums of Danegeld to buy off the Vikings, starting with 10,000 pounds in 991.",
+      "Married Emma of Normandy in 1002; she was the mother of Edward the Confessor.",
+      "Ordered the St Brice's Day massacre of Danes living in England on 13 November 1002.",
+      "Sweyn Forkbeard of Denmark invaded in 1013, and Æthelred fled to Normandy."
+     ]
+    }
+   ]
+  },
+  {
+   "name": "House of Denmark",
+   "dates": "1013 – 1014",
+   "colour": "blue",
+   "items": [
+    {
+     "name": "Sweyn Forkbeard",
+     "dates": "1013 – 1014",
+     "facts": [
+      "King of Denmark from about 986, after rebelling against his father Harald Bluetooth.",
+      "Raided England repeatedly from 1003, after the St Brice's Day massacre.",
+      "Invaded in 1013; by Christmas the English had accepted him as king and Æthelred had fled to Normandy.",
+      "Died at Gainsborough, Lincolnshire, on 3 February 1014, after only about five weeks as king.",
+      "Never crowned; the shortest reign of any King of England.",
+      "Father of Cnut the Great and grandfather of Harold Harefoot and Harthacnut."
+     ]
+    }
+   ]
+  },
+  {
+   "name": "House of Wessex, restored",
+   "dates": "1014 – 1016",
+   "colour": "green",
+   "items": [
+    {
+     "name": "Æthelred the Unready",
+     "dates": "1014 – 1016",
+     "facts": [
+      "Recalled from Normandy by the Witan in 1014 after Sweyn's death, on condition that he governed better.",
+      "This is the first known agreement between an English king and his subjects.",
+      "Drove Sweyn's son Cnut out of England in 1014.",
+      "Cnut returned with a large fleet in 1015, and Æthelred's son Edmund Ironside led the resistance.",
+      "Died in London on 23 April 1016.",
+      "Reigned about 37 years in total, the longest of any Anglo-Saxon king."
+     ]
+    },
+    {
+     "name": "Edmund Ironside",
+     "dates": "1016",
+     "facts": [
+      "Son of Æthelred the Unready by his first wife.",
+      "Nicknamed 'Ironside' for his bravery and toughness in fighting Cnut.",
+      "Chosen as king by the people of London in April 1016, while other nobles chose Cnut.",
+      "Fought Cnut in a string of battles in 1016, including Penselwood, Sherston, Brentford and Otford.",
+      "Defeated at Assandun in Essex on 18 October 1016 after the ealdorman Eadric Streona changed sides.",
+      "Agreed with Cnut to divide England: Edmund kept Wessex and Cnut took the north.",
+      "Died on 30 November 1016, possibly murdered, and Cnut took the whole kingdom.",
+      "Grandfather of Edgar Ætheling through his son Edward the Exile."
+     ]
+    }
+   ]
+  },
+  {
+   "name": "House of Denmark",
+   "dates": "1016 – 1042",
+   "colour": "blue",
+   "items": [
+    {
+     "name": "Cnut the Great",
+     "dates": "1016 – 1035",
+     "facts": [
+      "Son of Sweyn Forkbeard; became king of all England after Edmund Ironside died in 1016.",
+      "Also King of Denmark from 1018 and of Norway from 1028, ruling a North Sea empire.",
+      "Married Emma of Normandy, Æthelred's widow, in 1017.",
+      "Had the treacherous Eadric Streona executed in 1017.",
+      "Divided England into four great earldoms: Wessex, Mercia, East Anglia and Northumbria.",
+      "Paid off his fleet in 1018 with a tax of 82,500 pounds, the largest Danegeld ever raised.",
+      "The famous story says he had his throne put by the sea to show his courtiers that even a king cannot stop the tide.",
+      "A generous supporter of the Church; he travelled to Rome in 1027 for the Emperor's coronation.",
+      "Died at Shaftesbury on 12 November 1035 and was buried at Winchester."
+     ]
+    },
+    {
+     "name": "Harold Harefoot",
+     "dates": "1035 – 1040",
+     "facts": [
+      "Son of Cnut by his first wife, Ælfgifu of Northampton.",
+      "His nickname probably refers to his speed and skill as a hunter.",
+      "Became regent in 1035 because his half-brother Harthacnut was busy in Denmark, then king in 1037.",
+      "In 1036 Æthelred's son Alfred came to England, was seized and blinded, and died; Earl Godwin was blamed.",
+      "Sent Queen Emma into exile in Flanders in 1037.",
+      "Died at Oxford on 17 March 1040 and was buried at Westminster.",
+      "Harthacnut later had his body dug up and thrown into a marsh."
+     ]
+    },
+    {
+     "name": "Harthacnut",
+     "dates": "1040 – 1042",
+     "facts": [
+      "Son of Cnut and Emma of Normandy; King of Denmark from 1035.",
+      "Was preparing to invade England when Harold Harefoot died, and was invited to take the throne in 1040.",
+      "Had Harold's body dug up, beheaded and thrown into the Thames.",
+      "Raised a very heavy tax to pay for his fleet; when Worcester rebelled he had the town burned in 1041.",
+      "In 1041 invited his half-brother Edward, later the Confessor, back from Normandy to share his court.",
+      "Collapsed while drinking at a wedding feast at Lambeth and died on 8 June 1042.",
+      "The last Danish king of England."
+     ]
+    }
+   ]
+  },
+  {
+   "name": "House of Wessex, restored",
+   "dates": "1042 – 1066",
+   "colour": "green",
+   "items": [
+    {
+     "name": "Edward the Confessor",
+     "dates": "1042 – 1066",
+     "facts": [
+      "Son of Æthelred the Unready and Emma of Normandy; spent about 25 years in exile in Normandy.",
+      "Became king in 1042 when his half-brother Harthacnut died; crowned at Winchester at Easter 1043.",
+      "Married Edith, daughter of Earl Godwin, in 1045, but they had no children.",
+      "Quarrelled with Godwin and exiled him in 1051, but Godwin returned in force in 1052.",
+      "Rebuilt Westminster Abbey, which was consecrated on 28 December 1065, a week before he died.",
+      "Called 'the Confessor' because of his piety; made a saint in 1161.",
+      "Died on 5 January 1066 and was buried in his new abbey; Harold Godwinson was chosen to succeed him.",
+      "Patron saint of England until Edward III promoted St George."
+     ]
+    },
+    {
+     "name": "Harold II",
+     "dates": "1066",
+     "facts": [
+      "Son of Earl Godwin; Earl of Wessex from 1053 and the most powerful man in England.",
+      "Norman writers say he swore an oath in Normandy, about 1064, to support William's claim to the throne.",
+      "Crowned on 6 January 1066, the day after Edward the Confessor died.",
+      "Defeated the Norwegian king Harald Hardrada and his own brother Tostig at Stamford Bridge on 25 September 1066.",
+      "Marched south and was killed at the Battle of Hastings on 14 October 1066.",
+      "The Bayeux Tapestry seems to show him struck in the eye by an arrow.",
+      "The last Anglo-Saxon king of England; he reigned about nine months."
+     ]
+    },
+    {
+     "name": "Edgar Ætheling",
+     "dates": "1066 (elected, never crowned)",
+     "facts": [
+      "Grandson of Edmund Ironside; his father Edward the Exile died in 1057 soon after returning to England.",
+      "Chosen as king by the Witan in London after Hastings in October 1066, aged about 15.",
+      "Submitted to William at Berkhamsted in December 1066 and was never crowned.",
+      "Joined rebellions against William in the north in 1069 and later took refuge in Scotland.",
+      "His sister Margaret married Malcolm III of Scotland and became St Margaret.",
+      "Went on the First Crusade and lived on quietly into the 1120s."
+     ]
+    }
+   ]
+  },
+  {
+   "name": "House of Normandy",
+   "dates": "1066 – 1154",
+   "colour": "orange",
+   "items": [
+    {
+     "name": "William I (the Conqueror)",
+     "dates": "1066 – 1087",
+     "facts": [
+      "Duke of Normandy from 1035, aged about seven; the illegitimate son of Duke Robert, so also called 'the Bastard'.",
+      "Claimed that Edward the Confessor had promised him the English throne.",
+      "Defeated and killed Harold at the Battle of Hastings on 14 October 1066.",
+      "Crowned in Westminster Abbey on Christmas Day 1066.",
+      "Crushed rebellion in the north with the brutal Harrying of the North in 1069 and 1070.",
+      "Built castles across England, including the White Tower at the Tower of London.",
+      "Ordered the Domesday Book survey of England in 1085; it was completed in 1086.",
+      "Died at Rouen on 9 September 1087 after a riding injury, and was buried at Caen.",
+      "Left Normandy to his eldest son Robert and England to his son William Rufus."
+     ]
+    },
+    {
+     "name": "William II (Rufus)",
+     "dates": "1087 – 1100",
+     "facts": [
+      "Third son of William the Conqueror; called 'Rufus' for his red face or red hair.",
+      "Fought his elder brother Robert Curthose for Normandy; Robert pawned the duchy to him in 1096 to go on crusade.",
+      "Quarrelled with Archbishop Anselm, who went into exile in 1097.",
+      "Built Westminster Hall, finished in 1099.",
+      "Never married and had no children.",
+      "Killed by an arrow while hunting in the New Forest on 2 August 1100; Walter Tirel was blamed.",
+      "His younger brother Henry seized the treasury at Winchester and was crowned three days later.",
+      "The Rufus Stone in the New Forest marks the spot where he is said to have fallen."
+     ]
+    },
+    {
+     "name": "Henry I",
+     "dates": "1100 – 1135",
+     "facts": [
+      "Youngest son of William the Conqueror; nicknamed 'Beauclerc' for his learning.",
+      "Seized the throne in 1100 when William Rufus died, while his brother Robert was away on crusade.",
+      "Issued a Charter of Liberties at his coronation, later used as a model for Magna Carta.",
+      "Married Edith (renamed Matilda) of Scotland, a descendant of Alfred, in 1100.",
+      "Defeated Robert at Tinchebrai in 1106, took Normandy, and kept Robert in prison for 28 years.",
+      "His only legitimate son, William, drowned in the White Ship disaster on 25 November 1120.",
+      "Made his barons swear to accept his daughter Matilda as heir in 1127.",
+      "Fathered more than 20 illegitimate children, a record for an English king.",
+      "Died in Normandy on 1 December 1135, supposedly after eating too many lampreys."
+     ]
+    },
+    {
+     "name": "Stephen",
+     "dates": "1135 – 1154",
+     "facts": [
+      "Grandson of William the Conqueror through his daughter Adela; nephew of Henry I.",
+      "Rushed to England when Henry died and was crowned in December 1135, despite his oath to Matilda.",
+      "His reign became a civil war with Matilda known as 'the Anarchy'.",
+      "The Anglo-Saxon Chronicle said of these years that 'Christ and his saints slept'.",
+      "Captured at the Battle of Lincoln on 2 February 1141 and later exchanged for Matilda's half-brother Robert of Gloucester.",
+      "His son Eustace died in 1153, and the Treaty of Wallingford let Stephen keep the throne for life.",
+      "Agreed that Matilda's son Henry of Anjou would succeed him.",
+      "Died at Dover on 25 October 1154 and was buried at Faversham Abbey."
+     ]
+    },
+    {
+     "name": "Empress Matilda",
+     "dates": "1141 (disputed)",
+     "facts": [
+      "Daughter of Henry I; called 'Empress' from her first marriage to the Holy Roman Emperor Henry V.",
+      "Her second husband was Geoffrey Plantagenet, Count of Anjou; their son became Henry II.",
+      "Henry I named her his heir and made the barons swear to support her in 1127.",
+      "Landed in England in 1139 to fight Stephen, backed by her half-brother Robert of Gloucester.",
+      "After Stephen's capture in 1141 she was declared 'Lady of the English', but London drove her out before her coronation.",
+      "Escaped from besieged Oxford Castle across the snow, wrapped in a white cloak, in December 1142.",
+      "Left England in 1148 and died in Normandy in 1167."
+     ]
+    }
+   ]
+  },
+  {
+   "name": "House of Plantagenet",
+   "dates": "1154 – 1399",
+   "colour": "red",
+   "items": [
+    {
+     "name": "Henry II",
+     "dates": "1154 – 1189",
+     "facts": [
+      "Son of Empress Matilda and Geoffrey of Anjou; the first Plantagenet king.",
+      "The name Plantagenet comes from the sprig of broom, 'planta genista', that Geoffrey wore.",
+      "Married Eleanor of Aquitaine in 1152, so he ruled England, Normandy, Anjou and Aquitaine: the Angevin Empire.",
+      "Reformed the law with travelling royal judges and juries; seen as the founder of English common law.",
+      "Quarrelled with Archbishop Thomas Becket, his former chancellor, over the rights of the Church.",
+      "Four of his knights murdered Becket in Canterbury Cathedral on 29 December 1170.",
+      "Did public penance at Becket's tomb in 1174.",
+      "His sons rebelled against him in 1173 and 1174, backed by Queen Eleanor.",
+      "Died at Chinon on 6 July 1189, after learning that his favourite son John had joined Richard's rebellion."
+     ]
+    },
+    {
+     "name": "Richard I (the Lionheart)",
+     "dates": "1189 – 1199",
+     "facts": [
+      "Third son of Henry II and Eleanor of Aquitaine; became king in 1189.",
+      "Spent only about six months of his ten-year reign in England.",
+      "Led the Third Crusade from 1190; captured Acre in 1191 and beat Saladin at Arsuf.",
+      "Failed to retake Jerusalem but agreed a truce with Saladin in 1192.",
+      "Captured on his way home by Leopold of Austria and held for ransom by the Emperor Henry VI.",
+      "England paid a ransom of 150,000 marks to free him in 1194.",
+      "His brother John plotted against him while he was away, but Richard forgave him.",
+      "Hit by a crossbow bolt at the siege of Châlus and died on 6 April 1199.",
+      "Had no legitimate children; succeeded by his brother John."
+     ]
+    },
+    {
+     "name": "John",
+     "dates": "1199 – 1216",
+     "facts": [
+      "Youngest son of Henry II; nicknamed 'Lackland' because he was given no lands as a boy.",
+      "Became king in 1199, pushing aside his nephew Arthur of Brittany, who vanished in 1203.",
+      "Lost Normandy, Anjou and most of his French lands to Philip II of France by 1204.",
+      "Quarrelled with the Pope over the choice of archbishop; England was placed under interdict in 1208.",
+      "Excommunicated in 1209, but made peace with the Pope in 1213.",
+      "His allies were crushed by Philip II at Bouvines in 1214, ending his hopes of recovering Normandy.",
+      "Forced by rebel barons to seal Magna Carta at Runnymede on 15 June 1215.",
+      "Lost his baggage train and treasure crossing the Wash in October 1216.",
+      "Died of dysentery at Newark Castle on 18 October 1216 and was buried in Worcester Cathedral."
+     ]
+    },
+    {
+     "name": "Henry III",
+     "dates": "1216 – 1272",
+     "facts": [
+      "Son of John; became king aged nine in 1216, with William Marshal as regent.",
+      "Magna Carta was reissued in 1216, 1217 and 1225; the 1225 version became the final text.",
+      "Reigned for 56 years, the longest reign of any medieval English king.",
+      "Rebuilt Westminster Abbey in the Gothic style from 1245 as a shrine to Edward the Confessor.",
+      "Married Eleanor of Provence in 1236; her foreign relatives were deeply unpopular.",
+      "Barons led by Simon de Montfort forced the Provisions of Oxford on him in 1258.",
+      "Defeated and captured by de Montfort at the Battle of Lewes on 14 May 1264.",
+      "De Montfort's parliament of 1265 was the first to include knights and townsmen together.",
+      "His son Edward defeated and killed de Montfort at Evesham on 4 August 1265.",
+      "Died on 16 November 1272 and was buried in Westminster Abbey."
+     ]
+    },
+    {
+     "name": "Edward I",
+     "dates": "1272 – 1307",
+     "facts": [
+      "Son of Henry III; called 'Longshanks' for his height and 'Hammer of the Scots'.",
+      "Was on crusade when his father died; crowned in 1274.",
+      "Conquered Wales between 1277 and 1283; Prince Llywelyn was killed in 1282.",
+      "Built the great Welsh castles of Caernarfon, Conwy, Harlech and Beaumaris.",
+      "Made his son the first English Prince of Wales in 1301.",
+      "Expelled all Jews from England in 1290.",
+      "Built the Eleanor Crosses in memory of his wife Eleanor of Castile, who died in 1290.",
+      "Invaded Scotland in 1296 and took the Stone of Scone to Westminster.",
+      "Defeated William Wallace at Falkirk in 1298; Wallace was executed in 1305.",
+      "Died on 7 July 1307 at Burgh by Sands while marching against Robert the Bruce."
+     ]
+    },
+    {
+     "name": "Edward II",
+     "dates": "1307 – 1327",
+     "facts": [
+      "Son of Edward I; the first English Prince of Wales.",
+      "Devoted to his favourite Piers Gaveston, whom angry barons killed in 1312.",
+      "Married Isabella of France in 1308.",
+      "Heavily defeated by Robert the Bruce at Bannockburn on 23 and 24 June 1314.",
+      "Later relied on the hated Despensers, Hugh the father and Hugh the son.",
+      "Beat the rebel barons at Boroughbridge in 1322 and executed his cousin Thomas of Lancaster.",
+      "His wife Isabella and her lover Roger Mortimer invaded in 1326 and overthrew him.",
+      "Forced to give up the throne in January 1327 in favour of his son Edward III.",
+      "Died at Berkeley Castle in September 1327, almost certainly murdered."
+     ]
+    },
+    {
+     "name": "Edward III",
+     "dates": "1327 – 1377",
+     "facts": [
+      "Son of Edward II; became king aged 14 when his father was deposed in 1327.",
+      "Took real power in 1330, executing Roger Mortimer and sidelining his mother Isabella.",
+      "Claimed the French throne through his mother, starting the Hundred Years' War in 1337.",
+      "Won the sea battle of Sluys in 1340 and the Battle of Crécy on 26 August 1346.",
+      "Captured Calais in 1347 after a long siege.",
+      "His son, the Black Prince, won at Poitiers in 1356 and captured the French king.",
+      "Founded the Order of the Garter in about 1348.",
+      "The Black Death reached England in 1348 and killed perhaps a third of the people.",
+      "Parliament split into Lords and Commons during his reign, and English replaced French in the law courts in 1362.",
+      "The Black Prince died in 1376; Edward died on 21 June 1377 and was succeeded by his grandson Richard II."
+     ]
+    },
+    {
+     "name": "Richard II",
+     "dates": "1377 – 1399",
+     "facts": [
+      "Son of the Black Prince and grandson of Edward III; became king aged 10.",
+      "Faced the Peasants' Revolt in 1381, meeting the rebel leader Wat Tyler at Smithfield aged 14.",
+      "The Lords Appellant seized control and the Merciless Parliament of 1388 executed his friends.",
+      "Took revenge on the Appellants in 1397, executing or exiling them.",
+      "A great patron of art: the Wilton Diptych and the hammerbeam roof of Westminster Hall date from his reign.",
+      "Married Anne of Bohemia in 1382 and, after her death, the child princess Isabella of France in 1396.",
+      "Exiled his cousin Henry Bolingbroke in 1398 and seized the Lancaster estates when John of Gaunt died in 1399.",
+      "Bolingbroke invaded while Richard was in Ireland and Richard was deposed in September 1399.",
+      "Died in Pontefract Castle in February 1400, probably starved to death."
+     ]
+    }
+   ]
+  },
+  {
+   "name": "House of Lancaster",
+   "dates": "1399 – 1471",
+   "colour": "purple",
+   "items": [
+    {
+     "name": "Henry IV",
+     "dates": "1399 – 1413",
+     "facts": [
+      "Son of John of Gaunt, Duke of Lancaster, a younger son of Edward III.",
+      "Known as Henry Bolingbroke, after the castle in Lincolnshire where he was born.",
+      "Exiled by Richard II in 1398; returned in 1399, deposed Richard and took the throne.",
+      "Faced the long Welsh revolt of Owain Glyndwr, which began in 1400.",
+      "Defeated the rebel Percy family at Shrewsbury on 21 July 1403; Harry Hotspur was killed.",
+      "Had Archbishop Scrope of York executed for rebellion in 1405.",
+      "A law of 1401 allowed heretics, the Lollards, to be burned at the stake.",
+      "Suffered from a disfiguring skin disease in his last years.",
+      "Died on 20 March 1413 in the Jerusalem Chamber at Westminster, fulfilling a prophecy that he would die in Jerusalem."
+     ]
+    },
+    {
+     "name": "Henry V",
+     "dates": "1413 – 1422",
+     "facts": [
+      "Son of Henry IV; as a prince he was hit in the face by an arrow at Shrewsbury in 1403 and survived.",
+      "Crushed a Lollard rising led by his old friend Sir John Oldcastle in 1414.",
+      "Renewed the Hundred Years' War and captured Harfleur in 1415.",
+      "Won the Battle of Agincourt on 25 October 1415, St Crispin's Day, against a far larger French army.",
+      "Conquered Normandy between 1417 and 1419, taking Rouen after a long siege.",
+      "The Treaty of Troyes in 1420 made him heir to the French throne and he married Catherine of Valois.",
+      "Died of dysentery at Vincennes on 31 August 1422, aged 35, before he could become King of France.",
+      "Succeeded by his nine-month-old son Henry VI."
+     ]
+    },
+    {
+     "name": "Henry VI",
+     "dates": "1422 – 1461, 1470 – 1471",
+     "facts": [
+      "Became king at nine months old; his uncles Bedford and Gloucester governed for him.",
+      "Crowned King of France in Paris in 1431, but Joan of Arc had already turned the war.",
+      "By 1453 England had lost all its French lands except Calais.",
+      "Founded Eton College in 1440 and King's College, Cambridge, in 1441.",
+      "Married the strong-willed Margaret of Anjou in 1445.",
+      "Suffered a mental breakdown in 1453, and Richard, Duke of York, was made Protector.",
+      "The Wars of the Roses began at the first Battle of St Albans on 22 May 1455.",
+      "Deposed by Edward IV in 1461; captured in 1465 and held in the Tower.",
+      "Restored by Warwick the Kingmaker in October 1470, but only for six months.",
+      "Killed in the Tower of London on 21 May 1471 after the Yorkist victory at Tewkesbury."
+     ]
+    }
+   ]
+  },
+  {
+   "name": "House of York",
+   "dates": "1461 – 1485",
+   "colour": "amber",
+   "items": [
+    {
+     "name": "Edward IV",
+     "dates": "1461 – 1470, 1471 – 1483",
+     "facts": [
+      "Son of Richard, Duke of York, who was killed at Wakefield in December 1460.",
+      "Won the Battle of Towton on 29 March 1461, the bloodiest battle fought on English soil.",
+      "Secretly married the widow Elizabeth Woodville in 1464, angering Warwick the Kingmaker.",
+      "Warwick and Edward's brother Clarence rebelled, and Edward fled to Burgundy in October 1470.",
+      "Returned in 1471 and won at Barnet on 14 April, where Warwick died, and at Tewkesbury on 4 May.",
+      "Had his brother Clarence executed in 1478; legend says he was drowned in a butt of Malmsey wine.",
+      "Invaded France in 1475 but accepted a French pension at Picquigny instead of fighting.",
+      "Supported William Caxton, who set up England's first printing press in 1476.",
+      "Very tall and handsome in youth, he grew fat; died suddenly on 9 April 1483, aged 40."
+     ]
+    },
+    {
+     "name": "Edward V",
+     "dates": "1483",
+     "facts": [
+      "Son of Edward IV and Elizabeth Woodville; became king aged 12 on 9 April 1483.",
+      "His uncle Richard, Duke of Gloucester, seized him at Stony Stratford and arrested his Woodville relatives.",
+      "Lodged in the Tower of London with his younger brother Richard: the 'Princes in the Tower'.",
+      "Declared illegitimate in June 1483 on the grounds that his parents' marriage was invalid.",
+      "Reigned for about eleven weeks and was never crowned.",
+      "The princes disappeared in the summer of 1483 and are presumed to have been murdered.",
+      "Bones found in the Tower in 1674 were placed in Westminster Abbey as the princes."
+     ]
+    },
+    {
+     "name": "Richard III",
+     "dates": "1483 – 1485",
+     "facts": [
+      "Youngest brother of Edward IV; as Duke of Gloucester he fought loyally for Edward at Barnet and Tewkesbury.",
+      "Made Protector for his nephew Edward V in April 1483; took the throne on 26 June and was crowned on 6 July.",
+      "Had Lord Hastings executed without trial on 13 June 1483.",
+      "Widely suspected of murdering the Princes in the Tower.",
+      "Crushed the Duke of Buckingham's rebellion in October 1483.",
+      "His only son died in 1484 and his wife Anne Neville in March 1485.",
+      "Killed at the Battle of Bosworth on 22 August 1485 by the army of Henry Tudor.",
+      "The last English king to die in battle and the last Plantagenet king.",
+      "His skeleton was found under a Leicester car park in 2012 and reburied in Leicester Cathedral in 2015."
+     ]
+    }
+   ]
+  },
+  {
+   "name": "House of Tudor",
+   "dates": "1485 – 1603",
+   "colour": "teal",
+   "items": [
+    {
+     "name": "Henry VII",
+     "dates": "1485 – 1509",
+     "facts": [
+      "Won the crown by defeating Richard III at the Battle of Bosworth Field in 1485.",
+      "Married Elizabeth of York in 1486, uniting the houses of Lancaster and York.",
+      "The red and white Tudor rose symbolised that union and the end of the Wars of the Roses.",
+      "Defeated the pretender Lambert Simnel at the Battle of Stoke Field in 1487.",
+      "Had the pretender Perkin Warbeck executed in 1499.",
+      "Built up a full royal treasury through careful finance and heavy fines on the nobles.",
+      "His elder son Arthur married Catherine of Aragon in 1501 but died in 1502.",
+      "Died in 1509 and was succeeded by his second son, Henry VIII."
+     ]
+    },
+    {
+     "name": "Henry VIII",
+     "dates": "1509 – 1547",
+     "facts": [
+      "Had six wives: Catherine of Aragon, Anne Boleyn, Jane Seymour, Anne of Cleves, Catherine Howard and Catherine Parr.",
+      "The rhyme for their fates: divorced, beheaded, died, divorced, beheaded, survived.",
+      "Broke with Rome; the Act of Supremacy of 1534 made him head of the Church of England.",
+      "Dissolved the monasteries between 1536 and 1541, with Thomas Cromwell running the process.",
+      "Met Francis I of France at the Field of the Cloth of Gold in 1520.",
+      "Had Thomas More executed in 1535 and Thomas Cromwell executed in 1540.",
+      "His warship the Mary Rose sank in the Solent in 1545.",
+      "Died in 1547, leaving three children: Mary, Elizabeth and his successor Edward VI."
+     ]
+    },
+    {
+     "name": "Edward VI",
+     "dates": "1547 – 1553",
+     "facts": [
+      "Son of Henry VIII and Jane Seymour; became king aged nine in 1547.",
+      "Ruled first through his uncle Edward Seymour, Duke of Somerset, then through John Dudley, Duke of Northumberland.",
+      "The English won the Battle of Pinkie against Scotland in 1547.",
+      "The Act of Uniformity of 1549 introduced Thomas Cranmer's Book of Common Prayer; a second version followed in 1552.",
+      "Kett's Rebellion in Norfolk and the Prayer Book Rebellion in the West both broke out in 1549.",
+      "Somerset was executed in 1552.",
+      "Died aged 15 in 1553, probably of tuberculosis, having named Lady Jane Grey as his heir."
+     ]
+    },
+    {
+     "name": "Lady Jane Grey",
+     "dates": "1553 (9 days, disputed)",
+     "facts": [
+      "Great-granddaughter of Henry VII; married Guildford Dudley, son of the Duke of Northumberland, in 1553.",
+      "Proclaimed queen on 10 July 1553, as Northumberland tried to keep Mary off the throne.",
+      "Deposed after nine days when the country rallied to Mary; called the Nine Days' Queen.",
+      "Beheaded at the Tower of London in February 1554, aged about 16."
+     ]
+    },
+    {
+     "name": "Mary I",
+     "dates": "1553 – 1558",
+     "facts": [
+      "Daughter of Henry VIII and Catherine of Aragon; the first queen to rule England in her own right.",
+      "Restored Roman Catholicism and the authority of the Pope.",
+      "Married Philip II of Spain at Winchester Cathedral in 1554; they had no children.",
+      "Wyatt's Rebellion against the Spanish marriage was crushed in 1554.",
+      "Had around 280 Protestants burned at the stake, including Cranmer, Latimer and Ridley.",
+      "Her burnings earned her the nickname Bloody Mary.",
+      "Lost Calais, England's last possession in France, in 1558.",
+      "Died in 1558 and was succeeded by her half-sister Elizabeth."
+     ]
+    },
+    {
+     "name": "Elizabeth I",
+     "dates": "1558 – 1603",
+     "facts": [
+      "Daughter of Henry VIII and Anne Boleyn; became queen in 1558 aged 25.",
+      "Her Religious Settlement of 1559 re-established the Protestant Church of England.",
+      "Never married and was known as the Virgin Queen; Virginia was named after her.",
+      "Had Mary, Queen of Scots, executed at Fotheringhay in 1587 after the Babington Plot.",
+      "The Spanish Armada was defeated in 1588; she rallied the troops at Tilbury.",
+      "Francis Drake sailed round the world between 1577 and 1580 and was knighted in 1581.",
+      "Her reign was the age of Shakespeare and Marlowe; the Poor Law was passed in 1601.",
+      "Died in 1603 and was succeeded by James VI of Scotland, ending the Tudor line."
+     ]
+    }
+   ]
+  },
+  {
+   "name": "House of Stuart",
+   "dates": "1603 – 1649",
+   "colour": "purple",
+   "items": [
+    {
+     "name": "James I",
+     "dates": "1603 – 1625",
+     "facts": [
+      "Already James VI of Scotland since 1567; his accession in 1603 was the Union of the Crowns.",
+      "Son of Mary, Queen of Scots; married Anne of Denmark.",
+      "The Gunpowder Plot to blow up Parliament was foiled on 5 November 1605; Guy Fawkes was caught.",
+      "Jamestown, Virginia, England's first permanent colony in America, was founded in 1607.",
+      "The King James Bible, the Authorised Version, was published in 1611.",
+      "The Pilgrim Fathers sailed to America on the Mayflower in 1620.",
+      "Believed in the divine right of kings and quarrelled with Parliament over money.",
+      "Died in 1625 and was succeeded by his son Charles I, his elder son Henry having died in 1612."
+     ]
+    },
+    {
+     "name": "Charles I",
+     "dates": "1625 – 1649",
+     "facts": [
+      "Married Henrietta Maria of France, a Catholic, in 1625.",
+      "Accepted the Petition of Right in 1628 but ruled without Parliament from 1629 to 1640.",
+      "Raised money without Parliament through Ship Money.",
+      "The Bishops' Wars with Scotland forced him to recall Parliament in 1640.",
+      "Tried and failed to arrest five MPs in the Commons in January 1642.",
+      "The Civil War began at Edgehill in 1642; he lost at Marston Moor in 1644 and Naseby in 1645.",
+      "His advisers Strafford and Archbishop Laud were executed in 1641 and 1645.",
+      "Tried for treason and beheaded outside the Banqueting House in Whitehall on 30 January 1649."
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Commonwealth and Protectorate",
+   "dates": "1649 – 1660",
+   "colour": "brown",
+   "items": [
+    {
+     "name": "Oliver Cromwell (Lord Protector)",
+     "dates": "1653 – 1658",
+     "facts": [
+      "After Charles I's execution in 1649, England was a republic, the Commonwealth, ruled by Parliament until 1653.",
+      "Cromwell was a cavalry commander in the New Model Army, which beat the Royalists at Naseby in 1645.",
+      "Led a brutal campaign in Ireland in 1649, including the storming of Drogheda and Wexford.",
+      "Beat the Scots at Dunbar in 1650 and Charles II's army at Worcester in 1651.",
+      "Dissolved the Rump Parliament in 1653 and became Lord Protector in December 1653.",
+      "Ruled through the Major-Generals from 1655 to 1657 and allowed Jews back into England in 1656.",
+      "Refused the offer of the crown in 1657.",
+      "Died on 3 September 1658; after the Restoration his body was dug up and hanged at Tyburn in 1661."
+     ]
+    },
+    {
+     "name": "Richard Cromwell (Lord Protector)",
+     "dates": "1658 – 1659",
+     "facts": [
+      "Oliver Cromwell's son; became Lord Protector on his father's death in September 1658.",
+      "Lacked the support of the army and was nicknamed Tumbledown Dick.",
+      "Resigned in May 1659 and the Rump Parliament was recalled; the monarchy was restored in 1660.",
+      "Lived quietly abroad and then in England, dying in 1712 aged 85."
+     ]
+    }
+   ]
+  },
+  {
+   "name": "House of Stuart, restored",
+   "dates": "1660 – 1714",
+   "colour": "purple",
+   "items": [
+    {
+     "name": "Charles II",
+     "dates": "1660 – 1685",
+     "facts": [
+      "Hid in an oak tree at Boscobel after losing the Battle of Worcester in 1651.",
+      "Restored to the throne in 1660 with General Monck's help, entering London on 29 May, his 30th birthday.",
+      "Married Catherine of Braganza in 1662; many mistresses, including Nell Gwyn, but no legitimate children.",
+      "The Great Plague struck London in 1665 and the Great Fire in 1666.",
+      "The Dutch raided the Medway and burned English ships in 1667.",
+      "The Habeas Corpus Act was passed in 1679.",
+      "The Popish Plot of 1678 and the Exclusion Crisis gave rise to the names Whig and Tory.",
+      "Known as the Merry Monarch; died in 1685 and was succeeded by his brother James."
+     ]
+    },
+    {
+     "name": "James II",
+     "dates": "1685 – 1688",
+     "facts": [
+      "Catholic younger brother of Charles II; also James VII of Scotland.",
+      "Crushed the Monmouth Rebellion at Sedgemoor in 1685; Judge Jeffreys then held the Bloody Assizes.",
+      "His Declaration of Indulgence of 1687 suspended laws against Catholics and Dissenters.",
+      "Seven bishops who opposed him were tried and acquitted in June 1688.",
+      "The birth of his Catholic son in June 1688 raised fears of a Catholic dynasty.",
+      "William of Orange landed at Torbay in November 1688 and James fled to France: the Glorious Revolution.",
+      "Defeated at the Battle of the Boyne in Ireland in 1690.",
+      "Died in exile in France in 1701; his son became the Old Pretender."
+     ]
+    },
+    {
+     "name": "William III and Mary II",
+     "dates": "1689 – 1702 (Mary died 1694)",
+     "facts": [
+      "Mary was James II's Protestant daughter; William was her Dutch husband and James's nephew.",
+      "Offered the crown jointly by Parliament in 1689 and accepted the Bill of Rights.",
+      "The Toleration Act of 1689 gave freedom of worship to Protestant Dissenters.",
+      "William defeated James II at the Battle of the Boyne on 1 July 1690.",
+      "The Massacre of Glencoe took place in 1692.",
+      "The Bank of England was founded in 1694; Mary died of smallpox the same year, childless.",
+      "The Act of Settlement of 1701 passed the succession to the Protestant House of Hanover.",
+      "William died in 1702 after his horse stumbled on a molehill; his sister-in-law Anne succeeded."
+     ]
+    },
+    {
+     "name": "Anne",
+     "dates": "1702 – 1714",
+     "facts": [
+      "Younger daughter of James II; married Prince George of Denmark in 1683.",
+      "Had seventeen pregnancies but no surviving child; her son William died in 1700 aged 11.",
+      "The Duke of Marlborough won Blenheim in 1704, Ramillies in 1706, Oudenarde in 1708 and Malplaquet in 1709.",
+      "Gibraltar was captured in 1704.",
+      "The Act of Union with Scotland in 1707 created the Kingdom of Great Britain.",
+      "Her close friend Sarah Churchill, Duchess of Marlborough, was replaced in her favour by Abigail Masham.",
+      "The Treaty of Utrecht ended the War of the Spanish Succession in 1713.",
+      "Died in 1714, the last Stuart monarch; George of Hanover succeeded under the Act of Settlement."
+     ]
+    }
+   ]
+  },
+  {
+   "name": "House of Hanover",
+   "dates": "1714 – 1901",
+   "colour": "orange",
+   "items": [
+    {
+     "name": "George I",
+     "dates": "1714 – 1727",
+     "facts": [
+      "Elector of Hanover and great-grandson of James I; more than fifty Catholics with better claims were passed over.",
+      "Born in Germany and spoke mainly German and French, not English.",
+      "Had his wife Sophia Dorothea locked up in Ahlden Castle from 1694 until her death in 1726.",
+      "The Jacobite rising of 1715, the Fifteen, was defeated.",
+      "The South Sea Bubble burst in 1720, ruining many investors.",
+      "Robert Walpole took charge of the government from 1721, becoming the first Prime Minister.",
+      "The Septennial Act of 1716 allowed Parliaments to last seven years.",
+      "Died in 1727 at Osnabruck on the way to Hanover; succeeded by his son George II."
+     ]
+    },
+    {
+     "name": "George II",
+     "dates": "1727 – 1760",
+     "facts": [
+      "Born in Hanover, the last British monarch born outside Great Britain.",
+      "Handel wrote Zadok the Priest for his coronation in 1727.",
+      "Married Caroline of Ansbach, who died in 1737.",
+      "Led his troops at Dettingen in 1743, the last British monarch to fight in battle.",
+      "The Jacobite rising of 1745 under Bonnie Prince Charlie ended at Culloden in 1746.",
+      "Britain switched to the Gregorian calendar in 1752, losing eleven days.",
+      "The Seven Years' War began in 1756; Wolfe took Quebec in 1759, the Year of Victories.",
+      "His son Frederick died in 1751, so his grandson George III succeeded him in 1760."
+     ]
+    },
+    {
+     "name": "George III",
+     "dates": "1760 – 1820",
+     "facts": [
+      "First Hanoverian king born in Britain, with English as his first language.",
+      "Married Charlotte of Mecklenburg-Strelitz in 1761 and had fifteen children.",
+      "Bought Buckingham House in 1761; it later became Buckingham Palace.",
+      "Lost the American colonies in the War of Independence, 1775 to 1783.",
+      "The Act of Union with Ireland in 1801 created the United Kingdom.",
+      "Britain fought Revolutionary and Napoleonic France; Trafalgar in 1805, Waterloo in 1815.",
+      "Parliament abolished the slave trade in 1807.",
+      "Nicknamed Farmer George; bouts of madness led to the Regency of 1811 and he died in 1820."
+     ]
+    },
+    {
+     "name": "George IV",
+     "dates": "1820 – 1830",
+     "facts": [
+      "Ruled as Prince Regent from 1811 to 1820 during his father's illness, giving the Regency era its name.",
+      "Secretly and unlawfully married Maria Fitzherbert in 1785, then Caroline of Brunswick in 1795.",
+      "His only child, Princess Charlotte, died in childbirth in 1817.",
+      "Tried to divorce Caroline in 1820 and had her barred from his coronation in 1821.",
+      "Built the Royal Pavilion at Brighton and employed John Nash on Regent Street and Buckingham Palace.",
+      "Visited Scotland in 1822 wearing a kilt, the first reigning monarch there since the 1650s.",
+      "Reluctantly agreed to Catholic Emancipation in 1829 under Wellington.",
+      "Nicknamed Prinny; fat and debt-ridden, he died in 1830 and his brother William succeeded."
+     ]
+    },
+    {
+     "name": "William IV",
+     "dates": "1830 – 1837",
+     "facts": [
+      "Joined the Royal Navy at 13 and was a friend of Nelson; known as the Sailor King.",
+      "Had ten illegitimate children with the actress Dorothea Jordan.",
+      "Married Adelaide of Saxe-Meiningen in 1818; their two daughters died in infancy.",
+      "The Great Reform Act of 1832 passed under Earl Grey after William agreed to create new peers.",
+      "The Slavery Abolition Act of 1833 ended slavery across most of the British Empire.",
+      "The Factory Act of 1833 and the Poor Law Amendment Act of 1834 were passed.",
+      "The old Palace of Westminster burned down in 1834.",
+      "Died in 1837; his niece Victoria succeeded, and Hanover passed to his brother Ernest."
+     ]
+    },
+    {
+     "name": "Victoria",
+     "dates": "1837 – 1901",
+     "facts": [
+      "Became queen in 1837 aged 18; her father, the Duke of Kent, had died in 1820.",
+      "Married Prince Albert of Saxe-Coburg and Gotha in 1840; they had nine children.",
+      "Albert organised the Great Exhibition at the Crystal Palace in 1851.",
+      "The Crimean War, 1854 to 1856, led to the Victoria Cross in 1856.",
+      "Albert died in 1861 and she wore black for the rest of her life.",
+      "Disraeli made her Empress of India in 1876; her other Prime Ministers included Peel, Palmerston and Gladstone.",
+      "Celebrated her Golden Jubilee in 1887 and Diamond Jubilee in 1897.",
+      "Died in January 1901 at Osborne House after 63 years; succeeded by her son Edward VII."
+     ]
+    }
+   ]
+  },
+  {
+   "name": "House of Saxe-Coburg and Gotha",
+   "dates": "1901 – 1910",
+   "colour": "pink",
+   "items": [
+    {
+     "name": "Edward VII",
+     "dates": "1901 – 1910",
+     "facts": [
+      "Known as Bertie; waited nearly sixty years as Prince of Wales before becoming king aged 59.",
+      "Married Alexandra of Denmark in 1863; they had six children.",
+      "Took the house name Saxe-Coburg and Gotha from his father, Prince Albert.",
+      "Had many mistresses and was caught up in the Tranby Croft baccarat scandal of 1891.",
+      "His coronation was postponed in 1902 when he needed an operation for appendicitis.",
+      "The Entente Cordiale with France was signed in 1904; he was called the Peacemaker.",
+      "The Liberals won a landslide in 1906; Lloyd George's People's Budget of 1909 caused a crisis with the Lords.",
+      "Died in 1910 and was succeeded by his son George V."
+     ]
+    }
+   ]
+  },
+  {
+   "name": "House of Windsor",
+   "dates": "1910 – present",
+   "colour": "blue",
+   "items": [
+    {
+     "name": "George V",
+     "dates": "1910 – 1936",
+     "facts": [
+      "A naval officer and second son; became heir when his brother Albert Victor died in 1892.",
+      "Married Mary of Teck in 1893; she had been engaged to his late brother.",
+      "The Parliament Act of 1911 cut the power of the House of Lords.",
+      "Reigned through the First World War, 1914 to 1918.",
+      "Changed the royal family's name from Saxe-Coburg and Gotha to Windsor in 1917.",
+      "The Irish Free State was created in 1922; the first Labour government took office in 1924.",
+      "The General Strike was in 1926; he gave the first royal Christmas radio broadcast in 1932.",
+      "Celebrated his Silver Jubilee in 1935 and died at Sandringham in January 1936."
+     ]
+    },
+    {
+     "name": "Edward VIII",
+     "dates": "1936",
+     "facts": [
+      "Reigned from 20 January to 11 December 1936 and was never crowned.",
+      "Abdicated to marry the American divorcee Wallis Simpson, which Prime Minister Baldwin opposed.",
+      "Became Duke of Windsor and married Wallis in France in June 1937.",
+      "Governor of the Bahamas from 1940 to 1945; died in Paris in 1972."
+     ]
+    },
+    {
+     "name": "George VI",
+     "dates": "1936 – 1952",
+     "facts": [
+      "Born Albert and known as Bertie; became king when his brother abdicated in 1936.",
+      "Fought at the Battle of Jutland in 1916 as a naval officer.",
+      "Married Elizabeth Bowes-Lyon in 1923; their daughters were Elizabeth and Margaret.",
+      "Had a stammer and was helped by the speech therapist Lionel Logue.",
+      "Stayed in London during the Blitz; Buckingham Palace was bombed in 1940.",
+      "Reigned through the Second World War with Churchill as Prime Minister from 1940.",
+      "Was the last Emperor of India; India became independent in 1947.",
+      "Died at Sandringham in February 1952 and was succeeded by his daughter Elizabeth II."
+     ]
+    },
+    {
+     "name": "Elizabeth II",
+     "dates": "1952 – 2022",
+     "facts": [
+      "Served as a driver and mechanic in the ATS during the Second World War.",
+      "Married Philip Mountbatten in 1947; children Charles, Anne, Andrew and Edward.",
+      "Became queen in February 1952 while in Kenya; her coronation was televised on 2 June 1953.",
+      "Her first Prime Minister was Churchill and her last was Liz Truss, fifteen in all.",
+      "Called 1992 her annus horribilis after the Windsor Castle fire and family break-ups.",
+      "Diana, Princess of Wales, died in 1997.",
+      "Celebrated Silver, Golden, Diamond and Platinum Jubilees in 1977, 2002, 2012 and 2022.",
+      "Died at Balmoral on 8 September 2022 after 70 years, the longest reign in British history."
+     ]
+    },
+    {
+     "name": "Charles III",
+     "dates": "2022 – present",
+     "facts": [
+      "Born in 1948; Prince of Wales from 1958 and the longest-serving heir apparent.",
+      "Served in the Royal Navy and RAF from 1971 to 1976 and founded the Prince's Trust in 1976.",
+      "Married Lady Diana Spencer in 1981; sons William and Harry; divorced in 1996.",
+      "Married Camilla Parker Bowles in 2005.",
+      "Became king on 8 September 2022 aged 73, the oldest person to take the throne.",
+      "Crowned with Queen Camilla at Westminster Abbey on 6 May 2023.",
+      "Long known for campaigning on the environment and organic farming at Highgrove.",
+      "Announced in February 2024 that he was being treated for cancer."
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,462 @@
+{
+  "groups": [
+    {
+      "name": "The early universe",
+      "dates": "13.8 – 13.4 billion years ago",
+      "colour": "purple",
+      "items": [
+        {
+          "name": "The Big Bang",
+          "dates": "13.8 bya",
+          "facts": [
+            "The universe began about 13.8 billion years ago as a hot, dense point and has been expanding ever since.",
+            "Space itself expanded; the Big Bang was not an explosion into empty space.",
+            "In its first few minutes the universe made the nuclei of hydrogen and helium."
+          ]
+        },
+        {
+          "name": "Cosmic inflation",
+          "dates": "first fraction of a second",
+          "facts": [
+            "In a tiny fraction of a second, the universe grew enormously in size.",
+            "Inflation explains why the universe looks so smooth and even in every direction.",
+            "Tiny ripples from this time later grew into galaxies."
+          ]
+        },
+        {
+          "name": "First atoms and the cosmic microwave background",
+          "dates": "380,000 years after",
+          "facts": [
+            "After about 380,000 years, the universe cooled enough for electrons to join nuclei and form atoms.",
+            "Light could then travel freely for the first time.",
+            "That ancient light is still all around us today as the cosmic microwave background.",
+            "It was discovered by accident in 1964 by Arno Penzias and Robert Wilson."
+          ]
+        },
+        {
+          "name": "The cosmic dark ages",
+          "dates": "c. 13.8 – 13.6 bya",
+          "facts": [
+            "After the first atoms formed there were no stars, so the universe was dark.",
+            "Gas slowly clumped together under gravity.",
+            "This period lasted more than 100 million years."
+          ]
+        },
+        {
+          "name": "The first stars",
+          "dates": "c. 13.6 bya",
+          "facts": [
+            "The first stars lit up roughly 100 to 200 million years after the Big Bang.",
+            "They were huge, hot and short-lived, made only of hydrogen and helium.",
+            "Their light helped burn away the fog of neutral gas, ending the dark ages."
+          ]
+        },
+        {
+          "name": "The first galaxies",
+          "dates": "c. 13.4 bya",
+          "facts": [
+            "Gravity pulled stars and gas together into the first small galaxies.",
+            "The James Webb Space Telescope has seen galaxies from about 300 million years after the Big Bang.",
+            "Small galaxies merged over time to build bigger ones."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Stars and galaxies",
+      "dates": "13.5 – 5 billion years ago",
+      "colour": "indigo",
+      "items": [
+        {
+          "name": "Heavy elements from supernovae",
+          "dates": "from c. 13.5 bya",
+          "facts": [
+            "Stars fuse hydrogen into helium, then into heavier elements such as carbon and oxygen.",
+            "When a big star dies in a supernova, it scatters these elements into space.",
+            "The carbon in your body and the iron in your blood were made inside stars."
+          ]
+        },
+        {
+          "name": "The Milky Way forms",
+          "dates": "c. 13 bya",
+          "facts": [
+            "Our galaxy, the Milky Way, began forming within about a billion years of the Big Bang.",
+            "It grew by swallowing smaller galaxies.",
+            "Today it holds 100 to 400 billion stars and is about 100,000 light years across."
+          ]
+        },
+        {
+          "name": "Dark energy speeds up expansion",
+          "dates": "c. 5 bya",
+          "facts": [
+            "About 5 to 6 billion years ago the expansion of the universe began to speed up.",
+            "The cause is called dark energy; nobody knows what it is.",
+            "Astronomers found this in 1998 by studying distant exploding stars."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The Solar System",
+      "dates": "4.6 – 3.8 billion years ago",
+      "colour": "orange",
+      "items": [
+        {
+          "name": "The Sun forms",
+          "dates": "4.6 bya",
+          "facts": [
+            "A cloud of gas and dust collapsed under gravity, and the Sun lit up at its centre.",
+            "The leftover disc of dust and gas formed the planets.",
+            "The Sun holds 99.8 per cent of the mass of the Solar System."
+          ]
+        },
+        {
+          "name": "Earth forms",
+          "dates": "4.54 bya",
+          "facts": [
+            "Dust and rocks in the disc stuck together to build the Earth.",
+            "Earth's age of 4.54 billion years comes from dating meteorites and the oldest rocks.",
+            "The young Earth was hot, molten and had no oceans."
+          ]
+        },
+        {
+          "name": "The Moon-forming impact",
+          "dates": "c. 4.5 bya",
+          "facts": [
+            "A Mars-sized body, often called Theia, crashed into the young Earth.",
+            "Debris thrown into orbit came together to form the Moon.",
+            "Moon rocks brought back by Apollo astronauts support this idea."
+          ]
+        },
+        {
+          "name": "Oceans form",
+          "dates": "c. 4.4 – 4.0 bya",
+          "facts": [
+            "Earth cooled and water vapour condensed to make the first oceans.",
+            "Tiny zircon crystals from Australia suggest liquid water by about 4.4 billion years ago.",
+            "Some of the water may have arrived on comets and asteroids."
+          ]
+        },
+        {
+          "name": "Late Heavy Bombardment",
+          "dates": "c. 4.1 – 3.8 bya",
+          "facts": [
+            "Many large asteroids and comets struck the Earth and Moon.",
+            "Many of the big craters on the Moon may date from this time.",
+            "Scientists still argue about whether it was one burst or a slow decline."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Early life",
+      "dates": "3.7 billion – 600 million years ago",
+      "colour": "green",
+      "items": [
+        {
+          "name": "First life",
+          "dates": "c. 3.7 bya",
+          "facts": [
+            "Simple single-celled microbes appeared in the oceans.",
+            "The oldest likely fossils are stromatolites, mounds built by microbes, about 3.5 billion years old.",
+            "Possible traces of life in Greenland rocks are about 3.7 billion years old."
+          ]
+        },
+        {
+          "name": "Photosynthesis begins",
+          "dates": "c. 3.4 bya",
+          "facts": [
+            "Some microbes learned to use sunlight to make food.",
+            "Early photosynthesis did not make oxygen.",
+            "Later, cyanobacteria began to release oxygen as waste, some time before 2.4 billion years ago."
+          ]
+        },
+        {
+          "name": "Great Oxidation Event",
+          "dates": "c. 2.4 bya",
+          "facts": [
+            "Oxygen from cyanobacteria built up in the air for the first time.",
+            "It killed many microbes that could not cope with oxygen.",
+            "Iron in the oceans rusted, leaving red bands in rocks we can see today."
+          ]
+        },
+        {
+          "name": "First eukaryotes",
+          "dates": "c. 1.8 bya",
+          "facts": [
+            "Cells with a nucleus appeared; these are called eukaryotes.",
+            "They formed when one cell took in another, which became the mitochondria.",
+            "All plants, animals and fungi are made of eukaryotic cells."
+          ]
+        },
+        {
+          "name": "Multicellular life",
+          "dates": "c. 1.2 bya",
+          "facts": [
+            "Cells began living together as single organisms.",
+            "A red alga called Bangiomorpha, about 1 billion years old, is one of the earliest known examples.",
+            "Multicellular life evolved separately many times."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Complex life",
+      "dates": "540 – 66 million years ago",
+      "colour": "teal",
+      "items": [
+        {
+          "name": "Cambrian explosion",
+          "dates": "c. 538 mya",
+          "facts": [
+            "Most major animal groups appeared within a few tens of millions of years.",
+            "Animals grew hard shells, eyes and legs, and began to hunt each other.",
+            "The Burgess Shale in Canada preserves strange soft-bodied animals from this time."
+          ]
+        },
+        {
+          "name": "First land plants",
+          "dates": "c. 470 mya",
+          "facts": [
+            "Small moss-like plants began to grow on land.",
+            "Their spores are found in rocks about 470 million years old.",
+            "Plants on land changed the soil and the air."
+          ]
+        },
+        {
+          "name": "First land animals",
+          "dates": "c. 430 mya",
+          "facts": [
+            "Small arthropods such as millipedes were among the first animals to live on land.",
+            "One of the oldest known, found in Scotland, is over 400 million years old.",
+            "Land animals needed ways to breathe air and stop drying out."
+          ]
+        },
+        {
+          "name": "First insects",
+          "dates": "c. 400 mya",
+          "facts": [
+            "The oldest known insect fossil, from Scotland, is about 400 million years old.",
+            "Insects were the first animals to fly, by about 325 million years ago.",
+            "Today insects make up more than half of all known species."
+          ]
+        },
+        {
+          "name": "First forests",
+          "dates": "c. 385 mya",
+          "facts": [
+            "Tall trees appeared and formed the first forests.",
+            "The oldest known forest fossils are in New York State, about 385 million years old.",
+            "Forests pulled carbon dioxide from the air and cooled the planet."
+          ]
+        },
+        {
+          "name": "First reptiles",
+          "dates": "c. 315 mya",
+          "facts": [
+            "Reptiles were the first animals to lay eggs with a shell, so they could breed away from water.",
+            "One of the oldest, Hylonomus, was found inside fossil tree stumps in Nova Scotia.",
+            "At this time much of the land was covered in swampy coal forests."
+          ]
+        },
+        {
+          "name": "Permian extinction",
+          "dates": "252 mya",
+          "facts": [
+            "The biggest mass extinction ever killed most species in the sea, perhaps 80 to 90 per cent.",
+            "Huge volcanic eruptions in Siberia are the likely cause.",
+            "It is sometimes called the Great Dying."
+          ]
+        },
+        {
+          "name": "First dinosaurs",
+          "dates": "c. 230 mya",
+          "facts": [
+            "The earliest dinosaurs were small, and lived in what is now Argentina and Brazil.",
+            "Dinosaurs ruled the land for about 165 million years.",
+            "All the continents were joined in one landmass, Pangaea."
+          ]
+        },
+        {
+          "name": "First mammals",
+          "dates": "c. 200 mya",
+          "facts": [
+            "The first mammals were small, furry and active at night.",
+            "They lived alongside the dinosaurs for over 130 million years.",
+            "Mammals feed their young on milk and are warm-blooded."
+          ]
+        },
+        {
+          "name": "Flowering plants",
+          "dates": "c. 130 mya",
+          "facts": [
+            "Flowering plants appeared in the Cretaceous period.",
+            "They spread quickly, helped by insects that carried their pollen.",
+            "Today about 9 in 10 plant species have flowers."
+          ]
+        },
+        {
+          "name": "Chicxulub impact",
+          "dates": "66 mya",
+          "facts": [
+            "An asteroid about 10 kilometres wide hit what is now Mexico.",
+            "Dust and soot blocked the Sun, and plants and food chains collapsed.",
+            "All dinosaurs except birds died out, along with about three quarters of all species.",
+            "The crater lies half under the sea near the town of Chicxulub."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mammals and humans",
+      "dates": "66 million – 10,000 years ago",
+      "colour": "amber",
+      "items": [
+        {
+          "name": "First primates",
+          "dates": "c. 55 mya",
+          "facts": [
+            "After the dinosaurs died out, mammals spread into new roles.",
+            "Early primates were small tree-dwellers with grasping hands and forward-facing eyes.",
+            "They were the ancestors of lemurs, monkeys, apes and humans."
+          ]
+        },
+        {
+          "name": "First apes",
+          "dates": "c. 25 mya",
+          "facts": [
+            "Apes split from monkeys; apes have no tail and bigger brains.",
+            "Humans share about 98 to 99 per cent of their DNA with chimpanzees.",
+            "The human and chimp lines separated about 6 to 7 million years ago."
+          ]
+        },
+        {
+          "name": "Australopithecus",
+          "dates": "c. 4 – 2 mya",
+          "facts": [
+            "These early human relatives walked upright but had small brains.",
+            "The famous skeleton Lucy, found in Ethiopia in 1974, is about 3.2 million years old.",
+            "Footprints at Laetoli in Tanzania show upright walking 3.7 million years ago."
+          ]
+        },
+        {
+          "name": "Homo habilis",
+          "dates": "c. 2.4 – 1.6 mya",
+          "facts": [
+            "One of the earliest species in our own group, Homo.",
+            "Its name means handy man, because it was found with stone tools.",
+            "The oldest known stone tools, from Kenya, are about 3.3 million years old, even older than Homo habilis."
+          ]
+        },
+        {
+          "name": "Homo erectus",
+          "dates": "c. 1.9 mya",
+          "facts": [
+            "Homo erectus had a bigger brain and a body shape much like ours.",
+            "It was the first human species to spread out of Africa into Asia.",
+            "It made teardrop-shaped hand axes."
+          ]
+        },
+        {
+          "name": "Control of fire",
+          "dates": "c. 1 mya",
+          "facts": [
+            "Burned bones and ash in Wonderwerk Cave, South Africa, suggest fire use about 1 million years ago.",
+            "Regular use of fire is clear by about 400,000 years ago.",
+            "Cooking made food easier to digest and may have helped brains grow."
+          ]
+        },
+        {
+          "name": "Neanderthals",
+          "dates": "c. 400,000 – 40,000 ya",
+          "facts": [
+            "Neanderthals lived in Europe and western Asia.",
+            "They were strong, had big brains, made tools and buried their dead.",
+            "They died out about 40,000 years ago, but most people today carry some Neanderthal DNA."
+          ]
+        },
+        {
+          "name": "Homo sapiens",
+          "dates": "c. 300,000 ya",
+          "facts": [
+            "Our own species appeared in Africa.",
+            "The oldest known fossils were found at Jebel Irhoud in Morocco.",
+            "Every person alive today belongs to Homo sapiens."
+          ]
+        },
+        {
+          "name": "Out of Africa",
+          "dates": "c. 70,000 – 50,000 ya",
+          "facts": [
+            "Modern humans spread from Africa into Asia, Europe and Australia.",
+            "People reached Australia by about 65,000 years ago and Europe by about 45,000.",
+            "Later they crossed into the Americas, by at least 15,000 years ago."
+          ]
+        },
+        {
+          "name": "Cave art",
+          "dates": "c. 45,000 ya",
+          "facts": [
+            "The oldest known cave paintings are in Sulawesi, Indonesia, and show animals and human-like figures.",
+            "In Europe, Chauvet Cave in France has paintings about 36,000 years old.",
+            "Lascaux in France was painted about 17,000 years ago."
+          ]
+        },
+        {
+          "name": "End of the last Ice Age",
+          "dates": "c. 11,700 ya",
+          "facts": [
+            "The last cold period ended and the warm Holocene epoch began.",
+            "Melting ice sheets raised sea levels by more than 100 metres.",
+            "Britain became an island about 8,000 years ago when the land bridge to Europe, Doggerland, flooded."
+          ]
+        },
+        {
+          "name": "Farming begins",
+          "dates": "c. 10,000 BC",
+          "facts": [
+            "People in the Fertile Crescent of the Middle East began to grow wheat and barley.",
+            "They kept sheep, goats, pigs and cattle.",
+            "Farming arose separately in China, the Americas, Africa and New Guinea.",
+            "Settled farming led to villages, then towns and cities."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The far future",
+      "dates": "1 – 8 billion years from now",
+      "colour": "blue",
+      "items": [
+        {
+          "name": "Oceans boil away",
+          "dates": "c. 1 billion years from now",
+          "facts": [
+            "The Sun slowly gets brighter, by about 10 per cent every billion years.",
+            "In about a billion years Earth will be too hot for liquid water.",
+            "Complex life on Earth will probably end long before the Sun dies."
+          ]
+        },
+        {
+          "name": "Milky Way meets Andromeda",
+          "dates": "c. 4.5 billion years from now",
+          "facts": [
+            "The Andromeda galaxy is heading towards us at about 110 kilometres per second.",
+            "The two galaxies are expected to merge into one, sometimes called Milkomeda.",
+            "Stars are so far apart that almost none will collide.",
+            "Some newer studies say a near miss is also possible."
+          ]
+        },
+        {
+          "name": "Sun becomes a red giant",
+          "dates": "c. 5 billion years from now",
+          "facts": [
+            "The Sun will run out of hydrogen in its core and swell up into a red giant.",
+            "It will swallow Mercury and Venus and may swallow Earth.",
+            "Afterwards it will shrink to a white dwarf, a hot ember about the size of Earth."
+          ]
+        }
+      ]
+    }
+  ]
+}
