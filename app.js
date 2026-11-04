@@ -196,7 +196,9 @@
           <button type="button" class="reset" data-reset>Reset view</button>
         </div>
         <div class="map-wrap"><div class="map-loading">Loading map…</div></div>
-        <div class="map-foot">${checks}</div>
+        <div class="map-foot">${checks}<div class="credit">${col.id === 'uk'
+          ? 'Boundaries: ONS (OGL v3), Natural Earth. Rivers: © OpenStreetMap contributors (ODbL), Natural Earth.'
+          : 'Map data: Natural Earth (public domain).'}</div></div>
       </div>`;
 
     const wrap = app.querySelector('.map-wrap');

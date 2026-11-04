@@ -3,7 +3,7 @@
 Both files are plain JSON with unprojected lon/lat coordinates (WGS84). Built 2026-11-04 with pure-Python
 scripts (Douglas-Peucker simplification, spherical areas, edge-based dissolve); no GIS libraries.
 
-## uk.json (~393 KB)
+## uk.json (~465 KB)
 
 ### counties (93 entries: England 47, Wales 8, Northern Ireland 6, Scotland 32)
 - **England, Wales, Northern Ireland**: `uk-ceremonial-counties.geojson` from the GitHub repo
@@ -35,16 +35,28 @@ Coordinates from Natural Earth `ne_10m_populated_places` where the town is prese
 hand-entered to 2 decimals. Rank 2 holds every county town and cathedral city, which is why the total is above
 the ~100 target. Rank 3 was trimmed to the best-known towns.
 
-### rivers (35)
-- From Natural Earth (public domain): Thames, Severn, Trent, Ness (with Loch Ness), Shannon
+### rivers (52)
+- From Natural Earth (public domain), unchanged: Thames, Severn, Trent, Ness (with Loch Ness), Shannon
   (`ne_10m_rivers_lake_centerlines`); Great Ouse, Ouse (Yorkshire) (NE's "Swale" feature, which runs
   Swale -> Ouse to Trent Falls), Tay, Tweed, Wye (`ne_10m_rivers_europe`). Thames and Severn estuaries were
-  extended by a few hand-entered points.
-- Natural Earth has no other named British rivers, and no reachable GitHub repo held a UK rivers file, so the
-  following are **hand-drawn approximations** from 5-14 waypoints (towns along the river, 2 decimals):
-  Tyne, Tees, Wear, Mersey, Dee, Humber, Nene, Welland, Witham, Medway, Exe, Tamar, Taff, Usk, Towy, Clyde,
-  Forth, Spey, Dee (Aberdeenshire), Don, Bann (Upper and Lower), Lagan, Foyle, Avon (Bristol),
-  Avon (Warwickshire). They are fine at country/county zoom but are not survey-accurate.
+  extended by a few hand-entered points. Natural Earth has no other named British rivers.
+- The other 42 rivers are **hybrid**: a dense hand-drawn backbone (25-60 waypoints through the towns and
+  villages on the river, Chaikin-smoothed, 2 iterations) onto which real OpenStreetMap river centrelines are
+  substituted wherever they follow it. The OSM centrelines come from `data/v1/network.geojson` in the GitHub
+  repo `mchittineni/uk-river-flow` (OSM `waterway=river` ways via Overpass, simplified to ~90 m, named ways
+  of 3 km or longer only) - (c) OpenStreetMap contributors, ODbL 1.0. Because that file dropped short ways,
+  each river is a series of OSM chains with gaps; the gaps, the headwaters and the estuaries are filled from
+  the smoothed backbone with offset-blended joins. Share of each river's length that is real OSM geometry:
+  Tyne (South Tyne + Tyne, with a North Tyne branch) 75%/40%, Tees 70%, Wear 95%, Mersey 78%, Dee 53%,
+  Nene 33%, Welland 48%, Witham 66%, Exe 30%, Tamar 38%, Taff 39%, Usk 70%, Towy 79%, Clyde 69%, Forth 15%,
+  Spey 88%, Dee (Aberdeenshire) 93%, Don 85%, Avon (Bristol) 36%, Avon (Warwickshire) 45%, Eden (Cumbria) 96%,
+  Ribble 43%, Aire 66%, Derwent (Derbyshire) 17%, Derwent (Yorkshire) 64%, Teme 38%, Cam 36%, Itchen 9%,
+  Test 82%, Frome (Dorset) 53%, Wensum 76%, Yare 47%, Waveney 13%, Lune 73%, Kent (Cumbria) 23%, Conwy 50%.
+- **Backbone only (no OSM data in that file)**: Humber, Medway, Great Stour, Bann (Upper and Lower),
+  Lagan, Foyle (with the Finn branch). These are smoothed waypoint polylines through the right towns, not
+  survey data.
+- Final lines are Douglas-Peucker simplified at 0.0012 deg (OSM/hybrid) or 0.002 deg (NE) and rounded to
+  4 decimals; the whole rivers array is ~85 KB.
 
 ## world.json (~748 KB)
 All from Natural Earth v5 (public domain, naturalearthdata.com), fetched from
@@ -80,5 +92,5 @@ github.com/nvkelso/natural-earth-vector.
 ## Approximations / gaps summary
 - Scotland uses council areas, not lieutenancy areas.
 - City of London is merged into Greater London.
-- 25 of the 35 UK rivers are hand-drawn waypoint polylines, not survey data.
+- 6 of the 52 UK rivers (Humber, Medway, Great Stour, Bann, Lagan, Foyle) are smoothed waypoint polylines only; the other hybrid rivers use real OSM geometry for most of their length with waypoint fills at the gaps.
 - Isle of Man and Channel Islands are not in uk.json.
