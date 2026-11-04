@@ -45,14 +45,14 @@
         },
         {
           "name": "Duke of Newcastle",
-          "dates": "1754 – 1756, 1757 – 1762",
+          "dates": "1754 – 1756",
           "tag": "Whig",
           "facts": [
-            "Thomas Pelham-Holles succeeded his brother Henry Pelham in 1754.",
+            "Thomas Pelham-Holles succeeded his brother Henry Pelham as Prime Minister in 1754.",
             "A master of patronage who had already been Secretary of State for thirty years.",
-            "Resigned in 1756 after the loss of Minorca at the start of the Seven Years' War.",
-            "Returned in 1757 in a famous partnership with Pitt the Elder, who ran the war.",
-            "Served two terms and resigned in 1762 after falling out with the new king, George III."
+            "Served George II, who relied on him to manage Parliament and elections.",
+            "The Seven Years' War with France began during this term, in 1756.",
+            "Resigned in November 1756 after the loss of Minorca to the French and the outcry that followed."
           ]
         },
         {
@@ -64,6 +64,18 @@
             "His government was really led by Pitt the Elder as Secretary of State.",
             "Lasted only about seven months, in the early years of the Seven Years' War.",
             "Admiral Byng was shot in 1757 for failing to save Minorca, during his term."
+          ]
+        },
+        {
+          "name": "Duke of Newcastle",
+          "dates": "1757 – 1762",
+          "tag": "Whig",
+          "facts": [
+            "Returned to office in July 1757 in a famous partnership with Pitt the Elder, who ran the war.",
+            "Newcastle managed the money and Parliament while Pitt directed the Seven Years' War.",
+            "1759 was the 'year of victories', with Quebec, Minden and Quiberon Bay all won.",
+            "George III came to the throne in 1760 and favoured his old tutor, the Earl of Bute.",
+            "Pitt resigned in 1761; Newcastle resigned in May 1762 after falling out with the new king and Bute."
           ]
         },
         {
@@ -90,14 +102,15 @@
         },
         {
           "name": "Marquess of Rockingham",
-          "dates": "1765 – 1766, 1782",
+          "dates": "1765 – 1766",
           "tag": "Whig",
           "facts": [
             "Charles Watson-Wentworth, a wealthy Yorkshire landowner who loved horse racing.",
-            "Repealed the hated Stamp Act in 1766 to calm the American colonies.",
+            "Chosen by George III in 1765 after the king fell out with George Grenville.",
             "Edmund Burke was his private secretary and closest political ally.",
-            "Returned in 1782 to open peace talks with the Americans after the defeat at Yorktown.",
-            "Served twice; died of influenza only fourteen weeks into his second term in 1782."
+            "Repealed the hated Stamp Act in 1766 to calm the American colonies.",
+            "The Declaratory Act of 1766 still said Parliament could make laws for the colonies.",
+            "Dismissed by George III in July 1766 and replaced by Pitt the Elder."
           ]
         },
         {
@@ -140,6 +153,18 @@
           ]
         },
         {
+          "name": "Marquess of Rockingham",
+          "dates": "1782",
+          "tag": "Whig",
+          "facts": [
+            "Returned to office in March 1782 after Lord North resigned following the defeat at Yorktown.",
+            "His government opened peace talks with the Americans to end the War of Independence.",
+            "Passed 'economical reform' to cut the Crown's patronage and spending.",
+            "Gave the Irish Parliament the right to make its own laws in 1782.",
+            "Died of influenza in July 1782, only fourteen weeks into the term, and was succeeded by Shelburne."
+          ]
+        },
+        {
           "name": "Earl of Shelburne",
           "dates": "1782 – 1783",
           "tag": "Whig",
@@ -152,29 +177,28 @@
         },
         {
           "name": "Duke of Portland",
-          "dates": "1783, 1807 – 1809",
-          "tag": "Whig / Tory",
+          "dates": "1783",
+          "tag": "Whig",
           "facts": [
-            "William Cavendish-Bentinck served two terms, 24 years apart.",
-            "In 1783 he was the figurehead of the Fox-North coalition, which George III hated.",
-            "George III dismissed the coalition in December 1783 over Fox's India Bill.",
-            "Returned in 1807 as a Tory, aged 69 and in poor health.",
-            "His second government began the Peninsular War against Napoleon in Spain and Portugal.",
-            "Resigned in 1809 after his ministers Canning and Castlereagh fought a duel."
+            "William Cavendish-Bentinck, a great landowner and head of one of the richest Whig families.",
+            "Became Prime Minister in April 1783 as figurehead of the Fox-North coalition, which George III hated.",
+            "Charles James Fox and Lord North held the real power in the government.",
+            "The Treaty of Paris, ending the American War of Independence, was signed in September 1783.",
+            "George III dismissed the coalition in December 1783 after the Lords rejected Fox's India Bill."
           ]
         },
         {
           "name": "William Pitt the Younger",
-          "dates": "1783 – 1801, 1804 – 1806",
+          "dates": "1783 – 1801",
           "tag": "Tory",
           "facts": [
-            "Became Prime Minister in December 1783 aged just 24, the youngest ever.",
-            "Son of Pitt the Elder; served George III through the king's bouts of madness.",
+            "Son of Pitt the Elder; became Prime Minister in December 1783 aged just 24, the youngest ever.",
+            "Chosen by George III after the king dismissed the Fox-North coalition; won a big election victory in 1784.",
+            "Survived the Regency Crisis of 1788 to 1789, when the king's madness nearly brought Fox to power.",
             "Led Britain in war against revolutionary France from 1793.",
             "Introduced income tax in 1799 to pay for the war.",
             "His Act of Union with Ireland created the United Kingdom in 1801.",
-            "Resigned in 1801 when George III refused to allow Catholic emancipation.",
-            "Returned in 1804 and died in office in 1806, soon after Napoleon's victory at Austerlitz."
+            "Resigned in 1801 when George III refused to allow Catholic emancipation."
           ]
         },
         {
@@ -190,6 +214,18 @@
           ]
         },
         {
+          "name": "William Pitt the Younger",
+          "dates": "1804 – 1806",
+          "tag": "Tory",
+          "facts": [
+            "Returned to office in May 1804 after Addington's government lost support in the renewed war with France.",
+            "Built the Third Coalition with Austria and Russia against Napoleon in 1805.",
+            "Nelson's victory at Trafalgar in October 1805 ended the threat of French invasion.",
+            "Napoleon crushed the coalition at Austerlitz in December 1805, a blow said to have broken Pitt.",
+            "Died in office in January 1806, aged 46, and Parliament voted to pay his debts."
+          ]
+        },
+        {
           "name": "Lord Grenville",
           "dates": "1806 – 1807",
           "tag": "Whig",
@@ -198,6 +234,18 @@
             "Led the 'Ministry of All the Talents' after Pitt's death in 1806.",
             "His government abolished the slave trade across the British Empire in 1807.",
             "Dismissed by George III in 1807 after proposing to let Catholics hold army commissions."
+          ]
+        },
+        {
+          "name": "Duke of Portland",
+          "dates": "1807 – 1809",
+          "tag": "Tory",
+          "facts": [
+            "Returned to office in March 1807 as a Tory, aged 69 and in poor health, 24 years after his first term.",
+            "George III had dismissed Grenville's government in a row over Catholics serving in the armed forces.",
+            "The Royal Navy bombarded Copenhagen in 1807 to stop the Danish fleet falling to Napoleon.",
+            "His government began the Peninsular War against Napoleon in Spain and Portugal in 1808.",
+            "Resigned in October 1809 after his ministers Canning and Castlereagh fought a duel; died weeks later."
           ]
         },
         {
@@ -251,15 +299,16 @@
         },
         {
           "name": "Duke of Wellington",
-          "dates": "1828 – 1830, 1834",
+          "dates": "1828 – 1830",
           "tag": "Tory",
           "facts": [
             "Arthur Wellesley, the general who defeated Napoleon at Waterloo in 1815.",
-            "Nicknamed 'the Iron Duke'; served George IV and William IV.",
+            "Nicknamed 'the Iron Duke'; became Prime Minister in January 1828 under George IV.",
             "Passed Catholic Emancipation in 1829, letting Catholics sit in Parliament.",
             "Fought a duel with the Earl of Winchilsea in 1829 over Catholic Emancipation.",
-            "Opposed parliamentary reform, and his government fell in 1830.",
-            "Served briefly again as caretaker in late 1834 until Peel could take over."
+            "Robert Peel, his Home Secretary, founded the Metropolitan Police in 1829.",
+            "William IV became king in 1830 after the death of George IV.",
+            "Opposed parliamentary reform, and his government fell in November 1830."
           ]
         },
         {
@@ -277,30 +326,51 @@
         },
         {
           "name": "Lord Melbourne",
-          "dates": "1834, 1835 – 1841",
+          "dates": "1834",
           "tag": "Whig",
           "facts": [
             "William Lamb, husband of Lady Caroline Lamb, who had a famous affair with Byron.",
             "As Home Secretary in 1834 he let the Tolpuddle Martyrs be transported to Australia.",
-            "Dismissed by William IV in 1834, the last time a monarch sacked a Prime Minister.",
-            "Returned in 1835 and became a mentor and father figure to the young Queen Victoria from 1837.",
-            "The 'Bedchamber Crisis' of 1839 kept him in office when Peel refused to form a government.",
-            "Resigned in 1841 after losing the general election to Peel.",
-            "The city of Melbourne in Australia is named after him."
+            "Became Prime Minister in July 1834 when Earl Grey resigned over Irish policy.",
+            "The Poor Law Amendment Act of 1834 set up the workhouse system.",
+            "The old Palace of Westminster burned down in October 1834.",
+            "Dismissed by William IV in November 1834, the last time a monarch sacked a Prime Minister."
+          ]
+        },
+        {
+          "name": "Duke of Wellington",
+          "dates": "1834",
+          "tag": "Tory",
+          "facts": [
+            "Returned as caretaker Prime Minister in November 1834 after William IV dismissed Melbourne.",
+            "Held almost every senior office himself for about three weeks while Peel hurried back from Italy.",
+            "Handed over to Peel in December 1834 and served under him as Foreign Secretary."
           ]
         },
         {
           "name": "Robert Peel",
-          "dates": "1834 – 1835, 1841 – 1846",
+          "dates": "1834 – 1835",
           "tag": "Conservative",
           "facts": [
-            "As Home Secretary he founded the Metropolitan Police in 1829; officers were called 'bobbies' or 'peelers'.",
+            "Son of a wealthy Lancashire cotton manufacturer; as Home Secretary he founded the Metropolitan Police in 1829.",
+            "Police officers were called 'bobbies' or 'peelers' after him.",
+            "Became Prime Minister in December 1834 when William IV asked him to form a minority government.",
             "His Tamworth Manifesto of 1834 is seen as the founding of the Conservative Party.",
-            "Served two terms, under William IV and then Queen Victoria.",
-            "Brought back income tax in 1842, in peacetime.",
-            "Repealed the Corn Laws in 1846 during the Irish Famine, splitting his party.",
-            "His followers, the Peelites, included the young William Gladstone.",
-            "Died in 1850 after falling from his horse on Constitution Hill in London."
+            "Called a general election in January 1835 but failed to win a majority.",
+            "Resigned in April 1835 after repeated defeats in the Commons, and Melbourne returned."
+          ]
+        },
+        {
+          "name": "Lord Melbourne",
+          "dates": "1835 – 1841",
+          "tag": "Whig",
+          "facts": [
+            "Returned to office in April 1835 after Peel's minority government was defeated in the Commons.",
+            "Became a mentor and father figure to the young Queen Victoria from 1837.",
+            "The city of Melbourne in Australia was named after him in 1837.",
+            "The 'Bedchamber Crisis' of 1839 kept him in office when Peel refused to form a government.",
+            "The Penny Post began in 1840, and Victoria married Prince Albert the same year.",
+            "Resigned in August 1841 after losing the general election to Peel."
           ]
         }
       ]
@@ -311,30 +381,44 @@
       "colour": "purple",
       "items": [
         {
+          "name": "Robert Peel",
+          "dates": "1841 – 1846",
+          "tag": "Conservative",
+          "facts": [
+            "Returned to office in 1841 after winning a clear majority at the general election against Melbourne.",
+            "Brought back income tax in 1842, in peacetime.",
+            "The Bank Charter Act of 1844 tied the issue of banknotes to gold reserves.",
+            "Repealed the Corn Laws in 1846 during the Irish Famine, splitting his party.",
+            "His followers, the Peelites, included the young William Gladstone.",
+            "Resigned in June 1846 after defeat on an Irish bill; died in 1850 after falling from his horse."
+          ]
+        },
+        {
           "name": "Lord John Russell",
-          "dates": "1846 – 1852, 1865 – 1866",
-          "tag": "Whig / Liberal",
+          "dates": "1846 – 1852",
+          "tag": "Whig",
           "facts": [
             "Son of the Duke of Bedford; he helped to draft the Great Reform Act of 1832.",
             "Became PM in 1846 after Peel fell over the Corn Laws.",
             "His government's response to the Irish Famine is widely seen as inadequate.",
+            "The Chartists presented their last great petition in 1848, the year of revolutions in Europe.",
             "The Great Exhibition was held in London in 1851 during his first term.",
-            "Served twice; his short second term as Earl Russell fell over a reform bill in 1866.",
+            "Resigned in February 1852 after Palmerston, whom he had sacked, helped to defeat him in the Commons.",
             "Grandfather of the philosopher Bertrand Russell."
           ]
         },
         {
           "name": "Earl of Derby",
-          "dates": "1852, 1858 – 1859, 1866 – 1868",
+          "dates": "1852",
           "tag": "Conservative",
           "facts": [
             "Edward Stanley led the Conservative Party for 22 years, longer than anyone else.",
-            "Served three times, each time heading a minority government.",
-            "His 1852 cabinet was nicknamed the 'Who? Who?' ministry after the deaf Wellington's comments.",
-            "Disraeli was his Chancellor in all three governments.",
-            "His third government passed the Second Reform Act of 1867, giving many working men the vote.",
-            "Resigned through ill health in 1868 and Disraeli succeeded him.",
-            "The Derby horse race is named after his ancestor, the 12th Earl."
+            "As a Whig minister he carried the act that abolished slavery in the Empire in 1833, before joining the Tories.",
+            "The Derby horse race is named after his ancestor, the 12th Earl.",
+            "Became Prime Minister in February 1852, under Queen Victoria, heading a minority government.",
+            "His cabinet was nicknamed the 'Who? Who?' ministry after the deaf Wellington's comments.",
+            "Disraeli was his Chancellor, as he would be in all three Derby governments.",
+            "Fell in December 1852 when Disraeli's budget was defeated; Aberdeen's coalition took over."
           ]
         },
         {
@@ -351,58 +435,171 @@
         },
         {
           "name": "Lord Palmerston",
-          "dates": "1855 – 1858, 1859 – 1865",
-          "tag": "Whig / Liberal",
+          "dates": "1855 – 1858",
+          "tag": "Whig",
           "facts": [
             "Henry John Temple, nicknamed 'Pam' and 'Lord Cupid' because of his love affairs.",
-            "Became PM in 1855 aged 70 to win the Crimean War, ended by the Treaty of Paris in 1856.",
             "Famous for 'gunboat diplomacy'; said Britain had no permanent allies, only permanent interests.",
-            "His first government dealt with the Indian Mutiny of 1857.",
-            "His second government, from 1859, is seen as the first Liberal government.",
-            "Kept Britain neutral during the American Civil War.",
-            "Died in office in October 1865 aged 80, the last PM to die in office."
+            "Became PM in February 1855, aged 70, after Aberdeen fell over the handling of the Crimean War.",
+            "Queen Victoria distrusted him but had to accept him as the man to win the war.",
+            "The Crimean War ended with the Treaty of Paris in 1856.",
+            "His government dealt with the Indian Mutiny of 1857.",
+            "Resigned in February 1858 after the Commons rejected his Conspiracy to Murder Bill, brought in after a plot against Napoleon III."
+          ]
+        },
+        {
+          "name": "Earl of Derby",
+          "dates": "1858 – 1859",
+          "tag": "Conservative",
+          "facts": [
+            "Returned to office in February 1858 after Palmerston's government fell over a bill brought in after the Orsini bomb plot.",
+            "The Government of India Act of 1858 moved the rule of India from the East India Company to the Crown.",
+            "The Jews Relief Act of 1858 allowed Lionel de Rothschild to take his seat in the Commons.",
+            "The property qualification for MPs was abolished in 1858.",
+            "Called a general election in 1859 after his own Reform Bill was defeated, but still lacked a majority.",
+            "Resigned in June 1859 after losing a confidence vote; Palmerston formed the first Liberal government."
+          ]
+        },
+        {
+          "name": "Lord Palmerston",
+          "dates": "1859 – 1865",
+          "tag": "Liberal",
+          "facts": [
+            "Returned to office in June 1859 after Derby's Conservatives lost a confidence vote.",
+            "His 1859 government is seen as the first Liberal government, with Gladstone as Chancellor.",
+            "The Second Opium War with China ended in 1860 with the burning of the Summer Palace in Beijing.",
+            "Kept Britain neutral during the American Civil War, despite the Trent affair of 1861.",
+            "Supported Italian unification and built forts along the south coast against a French invasion scare.",
+            "Won the 1865 general election, but died in office in October 1865 aged 80, the last PM to die in office."
+          ]
+        },
+        {
+          "name": "Lord John Russell",
+          "dates": "1865 – 1866",
+          "tag": "Liberal",
+          "facts": [
+            "Returned to office in October 1865, now Earl Russell, after Palmerston died in office.",
+            "He was 73 and led the government from the House of Lords.",
+            "Tried to pass a new Reform Bill in 1866 to give the vote to more working men.",
+            "Rebel Liberals, nicknamed the 'Adullamites', joined the Conservatives to defeat the bill.",
+            "Resigned in June 1866 and never held office again; the Conservatives under Derby took over."
+          ]
+        },
+        {
+          "name": "Earl of Derby",
+          "dates": "1866 – 1868",
+          "tag": "Conservative",
+          "facts": [
+            "Returned to office in June 1866 after Russell's Liberal government fell over its Reform Bill.",
+            "Passed the Second Reform Act of 1867 with Disraeli, giving many working men in towns the vote.",
+            "Called the new Act 'a leap in the dark'.",
+            "The British North America Act of 1867 created the Dominion of Canada.",
+            "Resigned through ill health in February 1868 and Disraeli succeeded him."
           ]
         },
         {
           "name": "Benjamin Disraeli",
-          "dates": "1868, 1874 – 1880",
+          "dates": "1868",
           "tag": "Conservative",
           "facts": [
             "A novelist of Jewish birth, baptised a Christian as a boy; nicknamed 'Dizzy'.",
             "Great rival of Gladstone; Queen Victoria much preferred Disraeli.",
-            "On becoming PM in 1868 he said 'I have climbed to the top of the greasy pole'.",
-            "Bought Britain a large share in the Suez Canal in 1875.",
-            "Made Victoria Empress of India in 1876 and became Earl of Beaconsfield the same year.",
-            "His second government passed reforms on public health, housing and trade unions in 1875.",
-            "Returned from the Congress of Berlin in 1878 claiming 'peace with honour'; lost the 1880 election."
+            "Became PM in February 1868 when Derby retired through ill health.",
+            "On becoming PM he said 'I have climbed to the top of the greasy pole'.",
+            "A British expedition rescued hostages held in Abyssinia at Magdala in April 1868.",
+            "Public executions were ended in 1868.",
+            "Lost the general election of November 1868 to Gladstone and resigned in December."
           ]
         },
         {
           "name": "William Gladstone",
-          "dates": "1868 – 1874, 1880 – 1885, 1886, 1892 – 1894",
+          "dates": "1868 – 1874",
           "tag": "Liberal",
           "facts": [
-            "Served four terms, more than any other PM, and was 84 when he retired in 1894.",
+            "Son of a Liverpool merchant; began as a Tory and a Peelite before leading the Liberals.",
             "Nicknamed 'the Grand Old Man' or 'GOM'; Disraeli said it stood for 'God's Only Mistake'.",
-            "His first government passed the Education Act of 1870 and the Secret Ballot Act of 1872.",
+            "Became PM in December 1868 after winning the general election, saying his mission was 'to pacify Ireland'.",
+            "Disestablished the Church of Ireland in 1869.",
+            "Passed the Education Act of 1870, bringing primary schools to every area.",
+            "The Secret Ballot Act of 1872 ended open voting.",
+            "Lost the 1874 general election to Disraeli."
+          ]
+        },
+        {
+          "name": "Benjamin Disraeli",
+          "dates": "1874 – 1880",
+          "tag": "Conservative",
+          "facts": [
+            "Returned to office in 1874 after winning the general election against Gladstone, the first Conservative majority since 1841.",
+            "Bought Britain a large share in the Suez Canal in 1875.",
+            "Passed reforms on public health, housing and trade unions in 1875.",
+            "Made Victoria Empress of India in 1876 and became Earl of Beaconsfield the same year.",
+            "Returned from the Congress of Berlin in 1878 claiming 'peace with honour'.",
+            "Lost the 1880 election to Gladstone after costly wars in Afghanistan and against the Zulus."
+          ]
+        },
+        {
+          "name": "William Gladstone",
+          "dates": "1880 – 1885",
+          "tag": "Liberal",
+          "facts": [
+            "Returned to office in April 1880 after the Liberals won the general election; Victoria accepted him reluctantly.",
+            "Queen Victoria complained that he spoke to her 'as if I were a public meeting'.",
+            "British forces occupied Egypt in 1882 after bombarding Alexandria.",
             "The Third Reform Act of 1884 gave the vote to rural working men.",
-            "Blamed for the death of General Gordon at Khartoum in 1885.",
-            "Twice failed to pass Home Rule for Ireland, in 1886 and 1893, splitting the Liberals.",
-            "Queen Victoria complained that he spoke to her 'as if I were a public meeting'."
+            "Blamed for the death of General Gordon at Khartoum in January 1885; critics turned 'GOM' into 'MOG', Murderer of Gordon.",
+            "Resigned in June 1885 after a defeat on the budget; Salisbury formed a minority government."
           ]
         },
         {
           "name": "Lord Salisbury",
-          "dates": "1885 – 1886, 1886 – 1892, 1895 – 1902",
+          "dates": "1885 – 1886",
           "tag": "Conservative",
           "facts": [
             "Robert Gascoyne-Cecil, the last PM to govern from the House of Lords.",
-            "Served three terms, over thirteen years in all, often acting as his own Foreign Secretary.",
-            "His time saw the 'Scramble for Africa' and the policy known as 'splendid isolation'.",
-            "Queen Victoria's Diamond Jubilee of 1897 took place during his third term.",
-            "Led Britain into the Boer War in South Africa, which ran from 1899 to 1902.",
-            "Victoria died in 1901 and he served Edward VII until retiring in 1902.",
-            "Was succeeded by his nephew Arthur Balfour, which some say gave us the phrase 'Bob's your uncle'."
+            "Led the Conservatives in the Lords after Disraeli's death in 1881.",
+            "Became Prime Minister in June 1885, under Queen Victoria, after Gladstone's government was defeated on its budget.",
+            "Headed a minority government that depended on Irish Nationalist votes.",
+            "Acted as his own Foreign Secretary, as he often did.",
+            "Britain annexed Upper Burma after the Third Anglo-Burmese War of 1885.",
+            "Lost power in January 1886 when the Liberals and Irish MPs defeated him, after the November 1885 election left no majority."
+          ]
+        },
+        {
+          "name": "William Gladstone",
+          "dates": "1886",
+          "tag": "Liberal",
+          "facts": [
+            "Returned to office in February 1886 after the Liberals and Irish MPs defeated Salisbury's minority government.",
+            "Announced his conversion to Home Rule for Ireland, splitting the Liberal Party.",
+            "Joseph Chamberlain and Lord Hartington led the Liberal Unionists who broke away over Home Rule.",
+            "His first Home Rule Bill was defeated in the Commons in June 1886 when 93 Liberals voted against it.",
+            "Lost the general election of July 1886 to the Conservatives and Liberal Unionists after about six months in office."
+          ]
+        },
+        {
+          "name": "Lord Salisbury",
+          "dates": "1886 – 1892",
+          "tag": "Conservative",
+          "facts": [
+            "Returned to office in July 1886 after the Conservatives and Liberal Unionists won the election fought over Home Rule.",
+            "Lord Randolph Churchill resigned as Chancellor in December 1886, and Salisbury let him go.",
+            "Queen Victoria's Golden Jubilee of 1887 took place during this term.",
+            "The Local Government Act of 1888 created elected county councils, including the London County Council.",
+            "The 'Scramble for Africa' went on; Britain gained Zanzibar from Germany in exchange for Heligoland in 1890.",
+            "Lost the 1892 general election to Gladstone and the Irish MPs, and resigned in August."
+          ]
+        },
+        {
+          "name": "William Gladstone",
+          "dates": "1892 – 1894",
+          "tag": "Liberal",
+          "facts": [
+            "Returned to office in August 1892, aged 82, after the Liberals won the general election with Irish support.",
+            "He was the oldest person ever to become Prime Minister.",
+            "His second Home Rule Bill passed the Commons in 1893, but the Lords threw it out by 419 votes to 41.",
+            "Retired in March 1894, aged 84, after his cabinet rejected his opposition to higher naval spending.",
+            "Succeeded by Lord Rosebery; Gladstone died in 1898 and was buried in Westminster Abbey."
           ]
         },
         {
@@ -414,6 +611,19 @@
             "Married a Rothschild heiress and owned racehorses; his horses won the Derby in 1894 and 1895.",
             "Led a divided Liberal government from the Lords for only about fifteen months.",
             "Resigned in 1895 after a Commons defeat over army supplies of cordite."
+          ]
+        },
+        {
+          "name": "Lord Salisbury",
+          "dates": "1895 – 1902",
+          "tag": "Conservative",
+          "facts": [
+            "Returned to office in June 1895 after Rosebery's Liberal government resigned, and won the election the next month.",
+            "Joseph Chamberlain joined his cabinet as Colonial Secretary; 'splendid isolation' described Britain's foreign policy.",
+            "Queen Victoria's Diamond Jubilee of 1897 took place during this term.",
+            "Kitchener reconquered the Sudan at Omdurman in 1898, and Britain faced down France at Fashoda.",
+            "Led Britain into the Boer War in South Africa, which ran from 1899 to 1902, and won the 'khaki election' of 1900.",
+            "Served Edward VII after Victoria died in 1901, and retired in 1902 in favour of his nephew Arthur Balfour, hence perhaps 'Bob's your uncle'."
           ]
         }
       ]
@@ -490,30 +700,67 @@
         },
         {
           "name": "Stanley Baldwin",
-          "dates": "1923 – 1924, 1924 – 1929, 1935 – 1937",
+          "dates": "1923 – 1924",
           "tag": "Conservative",
           "facts": [
             "A Worcestershire ironmaster and a cousin of Rudyard Kipling.",
-            "Served three terms under George V, Edward VIII and George VI.",
-            "Faced the General Strike of 1926, which collapsed after nine days.",
-            "Gave the vote to all women over 21 in 1928, the so-called 'flapper vote'.",
-            "Attacked the press barons in 1931 for wanting 'power without responsibility'.",
-            "Handled the abdication crisis of 1936 when Edward VIII gave up the throne for Wallis Simpson.",
-            "Retired in 1937; later blamed for slow rearmament against Hitler."
+            "Became Prime Minister in May 1923 when Bonar Law resigned through ill health; George V chose him over Lord Curzon.",
+            "Later famous for telling the press barons in 1931 that they wanted 'power without responsibility'.",
+            "Called a general election in December 1923 to seek a mandate for protective tariffs.",
+            "Lost his majority, and in January 1924 Labour and the Liberals voted his government out.",
+            "Ramsay MacDonald then formed the first Labour government."
           ]
         },
         {
           "name": "Ramsay MacDonald",
-          "dates": "1924, 1929 – 1935",
+          "dates": "1924",
+          "tag": "Labour",
+          "facts": [
+            "Illegitimate son of a Scottish farm worker; born in Lossiemouth and largely self-taught.",
+            "Became the first Labour Prime Minister in January 1924, heading a minority government under George V.",
+            "Served as his own Foreign Secretary and recognised the Soviet Union.",
+            "The Wheatley Housing Act of 1924 paid for new council houses.",
+            "His government lasted nine months and fell after the Campbell case, a row over a Communist editor.",
+            "Lost the October 1924 election amid the 'Zinoviev letter' affair."
+          ]
+        },
+        {
+          "name": "Stanley Baldwin",
+          "dates": "1924 – 1929",
+          "tag": "Conservative",
+          "facts": [
+            "Returned to office in November 1924 after a landslide election win, helped by the 'Zinoviev letter' scare.",
+            "Winston Churchill, his Chancellor, put Britain back on the gold standard in 1925.",
+            "Faced the General Strike of May 1926, which collapsed after nine days.",
+            "The BBC was given its royal charter in 1927.",
+            "Gave the vote to all women over 21 in 1928, the so-called 'flapper vote'.",
+            "Lost the general election of May 1929 to Labour, after campaigning on 'Safety First'."
+          ]
+        },
+        {
+          "name": "Ramsay MacDonald",
+          "dates": "1929 – 1935",
           "tag": "Labour / National Govt",
           "facts": [
-            "Illegitimate son of a Scottish farm worker; the first Labour Prime Minister in 1924.",
-            "His first minority government lasted nine months and fell amid the 'Zinoviev letter' affair.",
-            "Returned in 1929, just before the Wall Street Crash and the Great Depression.",
-            "Split Labour in 1931 by forming a National Government with the Conservatives to cut spending.",
+            "Returned to office in June 1929 after Labour became the largest party for the first time.",
+            "The Wall Street Crash of October 1929 brought the Great Depression and soaring unemployment.",
+            "Split Labour in August 1931 by forming a National Government with the Conservatives to cut spending.",
             "Expelled from the Labour Party, which branded him a traitor.",
-            "Britain left the gold standard in 1931 under his National Government.",
-            "Handed over to Baldwin in 1935 as his health failed."
+            "Britain left the gold standard in September 1931, and the National Government won a landslide election in October.",
+            "Handed over to Baldwin in June 1935 as his health failed; died at sea in 1937."
+          ]
+        },
+        {
+          "name": "Stanley Baldwin",
+          "dates": "1935 – 1937",
+          "tag": "Conservative",
+          "facts": [
+            "Returned to office in June 1935, taking over from MacDonald as head of the National Government, and won the election that autumn.",
+            "The Hoare-Laval pact of December 1935 to carve up Abyssinia caused an outcry and Hoare resigned.",
+            "George V died in January 1936 and Edward VIII came to the throne.",
+            "Hitler reoccupied the Rhineland in March 1936 and Britain did nothing.",
+            "Handled the abdication crisis of December 1936 when Edward VIII gave up the throne for Wallis Simpson.",
+            "Retired in May 1937 after the coronation of George VI; later blamed for slow rearmament against Hitler."
           ]
         },
         {
@@ -532,16 +779,16 @@
         },
         {
           "name": "Winston Churchill",
-          "dates": "1940 – 1945, 1951 – 1955",
+          "dates": "1940 – 1945",
           "tag": "Conservative",
           "facts": [
-            "Became PM on 10 May 1940, the day Germany invaded France and the Low Countries.",
+            "Son of Lord Randolph Churchill and an American mother; a soldier, war reporter and minister for both Liberals and Conservatives.",
+            "Became PM on 10 May 1940, the day Germany invaded France and the Low Countries, after Chamberlain resigned.",
             "Led the wartime coalition; famous for 'blood, toil, tears and sweat' and 'we shall fight on the beaches'.",
-            "Worked with Roosevelt and Stalin to win the Second World War in 1945.",
-            "Lost the 1945 election to Attlee despite victory in Europe.",
-            "Coined the phrase 'Iron Curtain' in a speech at Fulton, Missouri, in 1946.",
-            "Returned in 1951 aged 76; won the Nobel Prize for Literature and a knighthood in 1953.",
-            "Resigned in 1955 in favour of Eden; given a state funeral in 1965."
+            "The Battle of Britain in 1940 saved Britain from invasion; he praised 'the few'.",
+            "Served George VI, who became a close friend; the two lunched together each week during the war.",
+            "Worked with Roosevelt and Stalin to win the Second World War in Europe in May 1945.",
+            "Lost the July 1945 election to Attlee despite victory in Europe."
           ]
         }
       ]
@@ -563,6 +810,19 @@
             "Granted independence to India and Pakistan in 1947.",
             "Britain joined NATO in 1949 and built its own atomic bomb.",
             "Narrowly lost the 1951 election to Churchill."
+          ]
+        },
+        {
+          "name": "Winston Churchill",
+          "dates": "1951 – 1955",
+          "tag": "Conservative",
+          "facts": [
+            "Returned to office in October 1951, aged 76, after six years in opposition in which he gave his 'Iron Curtain' speech of 1946.",
+            "George VI died in February 1952 and Elizabeth II came to the throne.",
+            "Food rationing finally ended in 1954.",
+            "Won the Nobel Prize for Literature and became a Knight of the Garter in 1953.",
+            "Suffered a serious stroke in June 1953 that was kept secret from the public.",
+            "Resigned in April 1955 in favour of Anthony Eden; given a state funeral in 1965."
           ]
         },
         {
@@ -607,16 +867,16 @@
         },
         {
           "name": "Harold Wilson",
-          "dates": "1964 – 1970, 1974 – 1976",
+          "dates": "1964 – 1970",
           "tag": "Labour",
           "facts": [
             "A grammar school boy from Huddersfield, famous for his pipe and Gannex raincoat.",
-            "Won four general elections: 1964, 1966 and both of 1974.",
+            "Became a cabinet minister at 31 in 1947, and Labour leader in 1963 after Hugh Gaitskell died.",
             "Promised to forge a new Britain in the 'white heat' of technology.",
+            "Became Prime Minister in October 1964, under Elizabeth II, with a majority of four; won a landslide in 1966.",
             "Devalued the pound in 1967, saying it would not hit 'the pound in your pocket'.",
-            "His first government saw the end of the death penalty and the legalising of abortion and homosexuality.",
-            "Refused to send British troops to Vietnam, and won the 1975 referendum to stay in the Common Market.",
-            "Resigned unexpectedly in March 1976, aged 60, and was succeeded by Callaghan."
+            "His government saw the end of the death penalty and the legalising of abortion and homosexuality.",
+            "Refused to send British troops to Vietnam, and lost the June 1970 election to Edward Heath."
           ]
         },
         {
@@ -631,6 +891,18 @@
             "Miners' strikes and the oil crisis led to the three-day week in early 1974.",
             "Called an election in February 1974 asking 'Who governs Britain?' and lost.",
             "Ousted as party leader by Margaret Thatcher in 1975, then sulked for decades."
+          ]
+        },
+        {
+          "name": "Harold Wilson",
+          "dates": "1974 – 1976",
+          "tag": "Labour",
+          "facts": [
+            "Returned to office in March 1974 after a hung parliament, when Heath failed to make a deal with the Liberals.",
+            "Won a second election in October 1974 with a majority of only three.",
+            "Won the 1975 referendum to stay in the Common Market by two to one.",
+            "Inflation passed 20 per cent in 1975 and the government agreed a 'social contract' with the unions.",
+            "Resigned unexpectedly in March 1976, aged 60, and was succeeded by James Callaghan."
           ]
         },
         {
