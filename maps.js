@@ -155,6 +155,7 @@ window.RecallMaps = (function () {
 
     const layers = {};
     const dots = []; // circles whose radius must stay constant on screen
+    const offsetTexts = []; // [text, x, y, dx] labels kept a fixed screen distance from their dot
 
     if (isUK) {
       layers.rivers = [gRivers, gRiverLabels];
@@ -182,6 +183,7 @@ window.RecallMaps = (function () {
         dots.push([c, p.rank === 1 ? 3.5 : 2.6]);
         const t = el('text', { x: (x + 5).toFixed(1), y: y.toFixed(1) }, g);
         t.textContent = p.name;
+        offsetTexts.push([t, x, 6]);
       });
     } else {
       layers.lakes = [gLakes];
@@ -211,6 +213,7 @@ window.RecallMaps = (function () {
         dots.push([c, 2.6]);
         const t = el('text', { x: (x + 4).toFixed(1), y: y.toFixed(1), class: 't' + Math.min(4, tier + 1) }, g);
         t.textContent = p.name;
+        offsetTexts.push([t, x, 5]);
       });
     }
 
@@ -228,6 +231,7 @@ window.RecallMaps = (function () {
       if (svg.getAttribute('data-z') !== z) svg.setAttribute('data-z', z);
       const r = 1 / k;
       dots.forEach(([c, base]) => c.setAttribute('r', (base * r).toFixed(2)));
+      offsetTexts.forEach(([t, x, dx]) => t.setAttribute('x', (x + dx * r).toFixed(2)));
     }
     function schedule() { if (!frame) frame = requestAnimationFrame(apply); }
     function clamp() {

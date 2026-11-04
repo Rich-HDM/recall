@@ -1,5 +1,5 @@
 /* Recall service worker: makes the app work offline. Bump VERSION whenever files change. */
-const VERSION = 'recall-v1';
+const VERSION = 'recall-v2';
 const SHELL = [
   './',
   './index.html',

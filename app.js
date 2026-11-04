@@ -64,20 +64,31 @@
     try { sessionStorage.setItem(openKey(id), JSON.stringify([...set])); } catch (e) { /* ignore */ }
   }
 
+  // Party colours for the tag pills (and the bullet markers of that entry).
+  const PARTY = [
+    ['conservative', 'blue'], ['tory', 'blue'], ['labour', 'red'], ['liberal', 'amber'], ['whig', 'orange'],
+    ['peelite', 'teal'], ['democratic-republican', 'green'], ['democratic', 'blue'], ['republican', 'red'],
+    ['federalist', 'brown'], ['national union', 'purple'], ['independent', 'grey']
+  ];
+  function partyTone(tag) {
+    const t = (tag || '').toLowerCase();
+    const hit = PARTY.find(([k]) => t.startsWith(k));
+    return hit ? hit[1] : null;
+  }
+
   function renderList(col, data) {
     document.title = col.title + ' · Recall';
     const open = getOpen(col.id);
     let n = 0;
-    const chips = data.groups.map((g, gi) =>
-      `<button class="chip ${tone(g.colour)}" data-go="g${gi}"><span class="dot"></span>${esc(g.name)}</button>`).join('');
 
-    const groups = data.groups.map((g, gi) => {
+    const groups = data.groups.map(g => {
       const items = g.items.map(it => {
         const key = col.id + ':' + n++;
         const isOpen = open.has(key);
         const facts = (it.facts || []).map(f => `<li>${esc(f)}</li>`).join('');
+        const pt = partyTone(it.tag);
         return `
-          <div class="item ${isOpen ? 'open' : ''}" data-key="${key}">
+          <div class="item ${isOpen ? 'open' : ''} ${pt ? tone(pt) : ''}" data-key="${key}">
             <button class="row" aria-expanded="${isOpen}">
               <span class="name">${esc(it.name)}</span>
               ${it.tag ? `<span class="tag">${esc(it.tag)}</span>` : ''}
@@ -89,7 +100,7 @@
       }).join('');
       return `
         <section class="group ${tone(g.colour)}">
-          <div class="group-head" id="g${gi}">
+          <div class="group-head">
             <div class="name"><span class="dot"></span>${esc(g.name)}</div>
             <div class="dates">${esc(g.dates || '')}</div>
           </div>
@@ -99,6 +110,10 @@
 
     app.innerHTML = `
       <div class="page ${tone(col.colour)}">
+        <div class="topbar">
+          <a class="back" href="#/" aria-label="Home">${ICONS.back}</a>
+          <span class="topbar-title">${esc(col.title)}</span>
+        </div>
         <a class="back" href="#/">${ICONS.back}Home</a>
         <div class="head">
           <div>
@@ -107,75 +122,39 @@
           </div>
           <div class="badge">${ICONS[col.icon] || ''}</div>
         </div>
-        <div class="toolbar">
-          <div class="chips">${chips}</div>
-          <div class="tools"><button type="button" data-toggle-all>Expand all</button></div>
-        </div>
         ${groups}
       </div>`;
 
     const page = app.firstElementChild;
+
+    // One entry open at a time: opening an entry closes the previous one.
     page.addEventListener('click', e => {
-      const chip = e.target.closest('[data-go]');
-      if (chip) {
-        const target = document.getElementById(chip.dataset.go);
-        if (target) target.scrollIntoView({ behavior: 'smooth', block: 'start' });
-        return;
-      }
       const row = e.target.closest('.row');
-      if (row) {
-        const item = row.parentElement;
-        const nowOpen = !item.classList.contains('open');
-        item.classList.toggle('open', nowOpen);
-        row.setAttribute('aria-expanded', nowOpen);
-        const set = getOpen(col.id);
-        if (nowOpen) set.add(item.dataset.key); else set.delete(item.dataset.key);
-        saveOpen(col.id, set);
-        updateToggleAll();
-        return;
-      }
-      const all = e.target.closest('[data-toggle-all]');
-      if (all) {
-        const items = page.querySelectorAll('.item');
-        const anyClosed = [...items].some(i => !i.classList.contains('open'));
-        const set = new Set();
-        items.forEach(i => {
-          i.classList.toggle('open', anyClosed);
-          i.querySelector('.row').setAttribute('aria-expanded', anyClosed);
-          if (anyClosed) set.add(i.dataset.key);
-        });
-        saveOpen(col.id, set);
-        updateToggleAll();
+      if (!row) return;
+      const item = row.parentElement;
+      const nowOpen = !item.classList.contains('open');
+      page.querySelectorAll('.item.open').forEach(o => {
+        o.classList.remove('open');
+        o.querySelector('.row').setAttribute('aria-expanded', 'false');
+      });
+      item.classList.toggle('open', nowOpen);
+      row.setAttribute('aria-expanded', nowOpen);
+      saveOpen(col.id, nowOpen ? new Set([item.dataset.key]) : new Set());
+      if (nowOpen) {
+        // keep the opened entry comfortably in view below the sticky bar
+        const top = item.getBoundingClientRect().top;
+        if (top < 64) window.scrollBy({ top: top - 64, behavior: 'smooth' });
       }
     });
 
-    function updateToggleAll() {
-      const items = page.querySelectorAll('.item');
-      const anyClosed = [...items].some(i => !i.classList.contains('open'));
-      page.querySelector('[data-toggle-all]').textContent = anyClosed ? 'Expand all' : 'Collapse all';
-    }
-    updateToggleAll();
-
-    // Highlight the chip of the group currently in view.
-    const heads = [...page.querySelectorAll('.group-head')];
-    const chipEls = [...page.querySelectorAll('.chip')];
-    function syncChips() {
-      let current = 0;
-      const line = 130;
-      heads.forEach((h, i) => { if (h.getBoundingClientRect().top <= line) current = i; });
-      chipEls.forEach((c, i) => c.classList.toggle('on', i === current));
-      const on = chipEls[current];
-      if (on) {
-        const box = on.parentElement;
-        const left = on.offsetLeft - box.clientWidth / 2 + on.offsetWidth / 2;
-        box.scrollTo({ left, behavior: 'smooth' });
-      }
-    }
+    // Slim sticky bar with the back button appears once the big heading has scrolled away.
+    const topbar = page.querySelector('.topbar');
     let ticking = false;
+    function syncBar() { topbar.classList.toggle('show', window.scrollY > 120); }
     window.addEventListener('scroll', () => {
-      if (!ticking) { ticking = true; requestAnimationFrame(() => { syncChips(); ticking = false; }); }
+      if (!ticking) { ticking = true; requestAnimationFrame(() => { syncBar(); ticking = false; }); }
     }, { passive: true });
-    syncChips();
+    syncBar();
     window.scrollTo(0, 0);
   }
 
